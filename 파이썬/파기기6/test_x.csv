@@ -1,0 +1,1583 @@
+id,name,year,km_driven,Region,State or Province,City,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats,sold
+0,Maruti,2010,120000,West,New Mexico,Albuquerque,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1,Hyundai,2016,80000,South,Arkansas,Van Buren,Petrol,Individual,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,Y
+2,Tata,2006,110000,Central,Nebraska,Kearney,Diesel,Individual,Manual,Third_Owner,16.8,1405,62.0,"12.5@ 2,500(kgm@ rpm)",5,N
+3,Hyundai,2018,38426,West,California,Salinas,Petrol,Individual,Manual,First_Owner,17.19,1197,81.86,114.73Nm@ 4000rpm,5,N
+4,Maruti,2016,90150,East,Massachusetts,Boston,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+5,Mahindra,2012,93000,Central,Texas,Dallas,Diesel,Dealer,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,Y
+6,Tata,2012,67500,South,Kentucky,Danville,Diesel,Individual,Manual,First_Owner,12.2,1948,68.0,"115@ 2,500(kgm@ rpm)",10,N
+7,Tata,2018,55000,West,Washington,Bothell,Petrol,Dealer,Automatic,First_Owner,21.9,624,37.48,51Nm@ 4000rpm,4,N
+8,Maruti,2016,20000,South,North Carolina,Indian Trail,Petrol,Individual,Manual,Second_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,Y
+9,Maruti,2008,90000,East,Ohio,Cleveland,Diesel,Individual,Manual,Fourth_Above_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+10,Ford,2018,15000,East,Pennsylvania,Wilkes Barre,Petrol,Individual,Manual,First_Owner,18.16,1196,86.8,112Nm@ 4000rpm,5,N
+11,Tata,2019,33928,Central,Minnesota,Brooklyn Park,Petrol,Dealer,Manual,First_Owner,23.84,1199,84.48,113Nm@ 3300rpm,5,Y
+12,Maruti,2016,30000,South,Tennessee,Greeneville,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+13,Ford,2019,10000,South,Georgia,Roswell,Petrol,Individual,Manual,Second_Owner,17.0,1497,121.31,150Nm@ 4500rpm,5,N
+14,Maruti,2013,85000,East,Ohio,Kent,Diesel,Individual,Manual,First_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+15,Hyundai,2009,70000,Central,Illinois,Naperville,Petrol,Individual,Manual,Second_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,N
+16,Maruti,2020,15000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,22.05,796,47.3,69Nm@ 3500rpm,5,Y
+17,Maruti,2008,90000,West,California,Napa,Diesel,Individual,Manual,Second_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,N
+18,Maruti,2014,40000,Central,Kansas,Hays,Petrol,Individual,Manual,First_Owner,16.8,796,34.2,59Nm@ 2500rpm,5,N
+19,Tata,2018,22000,East,New Jersey,Englewood,Petrol,Individual,Manual,First_Owner,20.3,1199,84.0,114Nm@ 3500rpm,5,N
+20,Maruti,2010,66000,West,California,Gilroy,Petrol,Individual,Manual,Second_Owner,19.0,998,66.1,90Nm@ 3500rpm,5,N
+21,Renault,2016,9656,South,South Carolina,Taylors,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+22,Maruti,2010,50000,East,New Jersey,Ewing,Petrol,Individual,Manual,First_Owner,19.0,998,66.1,90Nm@ 3500rpm,5,N
+23,Volkswagen,2017,74000,Central,Texas,Georgetown,Diesel,Individual,Manual,First_Owner,22.27,1498,108.6,250Nm@ 1500-3000rpm,5,N
+24,Maruti,2010,80000,Central,Minnesota,Minnetonka,Petrol,Individual,Manual,First_Owner,11.96,1298,80.0,103Nm@ 4500rpm,8,N
+25,BMW,2011,50000,West,Idaho,Caldwell,Diesel,Individual,Automatic,First_Owner,17.05,1995,184.0,380Nm@ 1750-2750rpm,5,N
+26,Mahindra,2013,70000,Central,Texas,Bryan,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,Y
+27,Maruti,2015,80000,Central,Michigan,Battle Creek,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,Y
+28,Maruti,2011,500000,West,Colorado,Denver,Petrol,Individual,Manual,Second_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,N
+29,Jaguar,2017,45000,South,Georgia,College Park,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,N
+30,Maruti,2014,50000,Central,Illinois,Glenview,Petrol,Individual,Manual,First_Owner,18.6,1197,85.8,114Nm@ 4000rpm,5,N
+31,Ford,2012,103994,East,Maine,Gorham,Diesel,Individual,Manual,Fourth_Above_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+32,Renault,2013,56429,South,Georgia,Atlanta,Diesel,Dealer,Manual,Second_Owner,19.01,1461,108.45,248Nm@ 2250rpm,5,Y
+33,Toyota,2014,31000,East,New Jersey,South Plainfield,Diesel,Individual,Manual,First_Owner,23.59,1364,67.06,170Nm@ 1800-2400rpm,5,N
+34,Toyota,2015,50000,South,Kentucky,Hopkinsville,Petrol,Individual,Manual,First_Owner,14.28,1798,138.03,173Nm@ 4000rpm,5,Y
+35,Hyundai,2018,15000,Central,Wisconsin,Stevens Point,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,Y
+36,Honda,2002,161000,West,Oregon,Troutdale,Petrol,Individual,Manual,Fourth_Above_Owner,13.0,1493,100.0,13.1kgm@ 4600rpm,5,Y
+37,Volkswagen,2018,40000,Central,Illinois,Kankakee,Diesel,Dealer,Manual,First_Owner,20.14,1498,88.0,230Nm@ 1500-2500rpm,5,N
+38,Tata,2012,35000,Central,Texas,Deer Park,Diesel,Individual,Manual,Second_Owner,23.03,1396,69.0,140Nm@ 1800-3000rpm,5,N
+39,Mahindra,2018,59736,Central,Minnesota,Brooklyn Center,Diesel,Dealer,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+40,Lexus,2019,20000,South,Florida,Poinciana,Petrol,Dealer,Automatic,First_Owner,22.37,2487,214.56,202Nm@ 3600-5200rpm,5,N
+41,Hyundai,2014,76000,Central,Missouri,Jefferson City,Diesel,Dealer,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+42,Honda,2017,70000,South,Georgia,Gainesville,Diesel,Individual,Manual,First_Owner,25.5,1498,98.6,200Nm@ 1750rpm,5,N
+43,Hyundai,2020,1000,South,Arkansas,Texarkana,Petrol,Individual,Manual,First_Owner,20.3,1086,68.07,99.07Nm@ 4500rpm,5,N
+44,Honda,2014,48000,South,Virginia,Virginia Beach,Diesel,Individual,Manual,First_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,N
+45,Skoda,2017,33000,West,Washington,Bellingham,Petrol,Dealer,Automatic,Second_Owner,14.7,1798,177.5,250Nm@ 1250-5000rpm,5,N
+46,Maruti,2015,40000,Central,Illinois,Chicago,Petrol,Individual,Manual,First_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,Y
+47,Toyota,2012,90000,Central,Iowa,Dubuque,Diesel,Individual,Manual,Fourth_Above_Owner,21.43,1364,87.2,205Nm@ 1800-2800rpm,5,N
+48,Nissan,2015,80000,Central,Michigan,Detroit,Petrol,Individual,Manual,First_Owner,19.49,1198,67.04,104Nm@ 4000rpm,5,Y
+49,Maruti,2015,20000,West,California,Moreno Valley,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+50,BMW,2017,39000,West,Utah,American Fork,Diesel,Dealer,Automatic,First_Owner,19.59,1995,187.74,380Nm@ 1750-2750rpm,5,N
+51,Chevrolet,2007,93000,West,Oregon,Coos Bay,Petrol,Individual,Manual,Third_Owner,18.0,995,62.0,90.3Nm@ 4200rpm,5,N
+52,Volvo,2018,2000,West,Colorado,Littleton,Diesel,Dealer,Automatic,First_Owner,16.8,1984,150.0,350Nm@ 1500-2750rpm,5,N
+53,Tata,2018,11000,East,New York,New York City,Petrol,Dealer,Manual,First_Owner,17.0,1198,108.5,170Nm@ 1750-4000rpm,5,Y
+54,Maruti,2002,100000,West,California,San Diego,Petrol,Individual,Manual,Fourth_Above_Owner,17.3,993,60.0,78Nm@ 4500rpm,5,Y
+55,Maruti,2011,118000,East,Maryland,Dundalk,Diesel,Individual,Manual,Second_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+56,Maruti,2008,149000,South,Alabama,Phenix City,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+57,Hyundai,2016,30000,West,Washington,Elk Plain,Diesel,Individual,Manual,First_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,Y
+58,Toyota,2013,110000,West,Utah,Orem,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,8,N
+59,Maruti,2009,117000,East,Massachusetts,Framingham,Diesel,Individual,Manual,First_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,N
+60,Honda,2017,15000,East,Ohio,Troy,Petrol,Individual,Automatic,First_Owner,15.4,1497,117.3,145Nm@ 4600rpm,7,N
+61,Maruti,2018,15732,Central,Texas,Wylie,Petrol,Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+62,Toyota,2012,100000,East,Maine,West Scarborough,Petrol,Individual,Automatic,First_Owner,14.53,1794,138.1,173Nm@ 4000rpm,5,N
+63,Maruti,2013,100000,West,California,East Los Angeles,Diesel,Individual,Manual,Third_Owner,20.77,1248,88.8,200Nm@ 1750rpm,7,Y
+64,Ford,2011,70000,Central,Michigan,Redford,Diesel,Individual,Manual,Second_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+65,Maruti,2014,100000,West,California,Los Altos,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,Y
+66,Hyundai,2013,80000,West,Washington,Lacey,Petrol,Individual,Manual,First_Owner,17.92,1086,62.1,96.1Nm@ 3000rpm,5,N
+67,Honda,2016,50000,East,Massachusetts,Hanson,Petrol,Individual,Automatic,First_Owner,18.0,1497,117.3,145Nm@ 4600rpm,5,N
+68,Tata,2009,60000,Central,Illinois,Crystal Lake,Diesel,Individual,Manual,Second_Owner,17.88,1396,52.8,85Nm@ 2500rpm,5,N
+69,Mahindra,2016,70000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,Y
+70,Mahindra,2016,40000,Central,Michigan,Detroit,Diesel,Individual,Automatic,First_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,N
+71,Maruti,2015,110000,East,Ohio,Elyria,Petrol,Individual,Manual,First_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,N
+72,Chevrolet,2010,40000,Central,Michigan,Sterling Heights,Petrol,Individual,Manual,Second_Owner,18.6,1199,79.4,108Nm@ 4400rpm,5,N
+73,Maruti,2018,15000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,Y
+74,Maruti,2018,69779,South,North Carolina,Hickory,Petrol,Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+75,Maruti,2013,105000,Central,Michigan,Novi,Diesel,Individual,Manual,Third_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+76,Hyundai,2017,56290,East,West Virginia,Charleston,Diesel,Dealer,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+77,Chevrolet,2014,90000,West,California,Los Angeles,Diesel,Individual,Manual,Second_Owner,13.58,2499,72.4,171Nm@ 1800rpm,9,Y
+78,Mahindra,2017,50000,Central,Iowa,Ames,Diesel,Individual,Manual,First_Owner,25.32,1198,77.0,190Nm@ 1750-2250rpm,6,N
+79,Datsun,2017,80000,South,Florida,Miami,Petrol,Individual,Manual,Second_Owner,20.63,1198,67.0,104Nm@ 4000rpm,5,N
+80,Maruti,2016,70000,Central,Iowa,Marshalltown,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+81,Maruti,2017,25000,Central,Texas,Saginaw,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+82,BMW,2019,8500,South,North Carolina,Goldsboro,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,Y
+83,Maruti,2016,90000,South,Florida,Oakland Park,Diesel,Individual,Manual,First_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+84,Maruti,2016,43000,West,California,Lodi,CNG,Individual,Manual,Second_Owner,26.6,998,58.16,77Nm@ 3500rpm,5,N
+85,Hyundai,2018,35000,West,Arizona,Gilbert,Diesel,Individual,Manual,First_Owner,22.0,1582,126.2,259.87nm@ 1500-3000rpm,5,N
+86,Mahindra,2018,59865,Central,Texas,Mesquite,Diesel,Dealer,Manual,First_Owner,15.1,2179,152.87,360Nm@ 1750-2800rpm,7,N
+87,Honda,2017,103000,West,Colorado,Louisville,Diesel,Dealer,Manual,First_Owner,25.6,1498,97.9,200Nm@ 1750rpm,5,N
+88,Chevrolet,2014,50000,South,Virginia,Annandale,Diesel,Individual,Manual,First_Owner,13.58,2499,72.4,171Nm@ 1800rpm,9,N
+89,Hyundai,2012,93000,East,Connecticut,Norwich,Petrol,Individual,Manual,Second_Owner,17.0,1197,80.0,"11.4 kgm at 4,000 rpm",5,N
+90,Maruti,2016,30000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,Y
+91,Mahindra,2016,40000,East,Massachusetts,Boston,Petrol,Individual,Manual,First_Owner,18.15,1198,82.0,115Nm@ 3500-3600rpm,5,Y
+92,Toyota,2017,25538,East,Maryland,Bowie,Petrol,Trustmark_Dealer,Manual,First_Owner,16.78,1496,88.73,132Nm@ 3000rpm,5,N
+93,Maruti,2014,80000,Central,North Dakota,Fargo,Diesel,Individual,Manual,Second_Owner,20.77,1248,88.8,200Nm@ 1750rpm,7,N
+94,Maruti,2015,30000,East,New Jersey,Lodi,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+95,Tata,2012,60000,East,Pennsylvania,Lancaster,Diesel,Individual,Manual,First_Owner,25.0,1396,69.0,140Nm@ 1800-3000rpm,5,N
+96,Maruti,2004,46000,Central,Illinois,Pekin,Petrol,Individual,Manual,Fourth_Above_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+97,Hyundai,2015,108000,Central,Illinois,Rock Island,Diesel,Individual,Manual,First_Owner,21.19,1396,88.73,220Nm@ 1500-2750rpm,5,Y
+98,Maruti,2007,100000,Central,Wisconsin,New Berlin,Petrol,Individual,Manual,Third_Owner,18.9,1061,67.0,84Nm@ 3500rpm,5,N
+99,Ford,2012,80000,Central,Indiana,Greenwood,Diesel,Individual,Manual,Second_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+100,Renault,2018,30000,South,Arkansas,Van Buren,Petrol,Individual,Automatic,Second_Owner,24.04,999,67.0,91Nm@ 4250rpm,5,N
+101,Toyota,2016,120000,Central,Indiana,Indianapolis,Diesel,Individual,Automatic,First_Owner,11.36,2755,171.5,360Nm@ 1200-3400rpm,7,N
+102,Maruti,2015,50000,West,California,Los Angeles,Petrol,Individual,Manual,Second_Owner,20.4,1197,83.11,115Nm@ 4000rpm,5,Y
+103,Maruti,2018,22000,West,California,Saratoga,Petrol,Individual,Manual,Second_Owner,21.56,1462,103.25,138Nm@ 4400rpm,5,N
+104,Fiat,2013,52000,Central,Kansas,Shawnee,Diesel,Individual,Manual,First_Owner,20.3,1248,75.0,197Nm@ 1750rpm,5,N
+105,Maruti,2010,100000,South,North Carolina,Wilmington,Diesel,Individual,Manual,First_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+106,Ford,2010,50000,Central,Indiana,Mishawaka,Petrol,Individual,Manual,Second_Owner,15.6,1196,70.0,102Nm@ 4000rpm,5,N
+107,Toyota,2016,60000,West,Idaho,Eagle,Diesel,Dealer,Manual,Second_Owner,13.68,2393,147.8,343Nm@ 1400-2800rpm,7,N
+108,Maruti,2018,23000,South,Florida,Gainesville,Diesel,Individual,Manual,First_Owner,28.4,1248,74.0,190Nm@ 2000rpm,5,N
+109,Hyundai,2013,70000,East,District of Columbia,Washington,Petrol,Individual,Manual,First_Owner,18.5,1197,82.85,113.7Nm@ 4000rpm,5,Y
+110,Volkswagen,2019,2000,West,Oregon,Beaverton,Petrol,Dealer,Manual,First_Owner,16.2,1199,74.0,110Nm@ 3000-4300rpm,5,Y
+111,Hyundai,2018,40000,South,Mississippi,Long Beach,Diesel,Individual,Manual,First_Owner,22.0,1582,126.2,259.87nm@ 1500-3000rpm,5,N
+112,Volkswagen,2011,65000,South,North Carolina,Durham,Diesel,Individual,Manual,Second_Owner,20.54,1598,103.6,250Nm@ 1500-2500rpm,5,N
+113,Maruti,2014,31000,Central,South Dakota,Rapid City,Petrol,Individual,Manual,First_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,N
+114,Maruti,2016,70000,South,Florida,Deltona,Diesel,Individual,Manual,Second_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+115,Volkswagen,2011,80000,Central,Illinois,Hoffman Estates,Diesel,Individual,Manual,Second_Owner,22.07,1199,73.9,180Nm@ 2000rpm,5,Y
+116,Hyundai,2007,58000,South,Mississippi,Meridian,Diesel,Dealer,Manual,Second_Owner,16.8,1493,110.0,"24@ 1,900-2,750(kgm@ rpm)",5,N
+117,Maruti,2005,55425,West,Washington,Wenatchee,Petrol,Individual,Manual,Second_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+118,Mahindra,2017,100000,Central,Iowa,Cedar Falls,Diesel,Individual,Manual,Second_Owner,16.5,1493,70.0,195Nm@ 1400-2200rpm,7,N
+119,Renault,2013,81000,South,Florida,Miramar,Diesel,Individual,Manual,Second_Owner,19.01,1461,108.45,248Nm@ 2250rpm,5,Y
+120,Renault,2019,21000,West,Washington,Edmonds,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,Y
+121,Chevrolet,2012,120000,East,Maine,Waterville,Diesel,Individual,Manual,First_Owner,25.44,936,57.6,150Nm@ 1750rpm,5,N
+122,Hyundai,2017,70000,South,Georgia,Forest Park,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+123,BMW,2012,155000,South,Florida,Tallahassee,Diesel,Individual,Automatic,Second_Owner,16.07,1995,181.0,380Nm@ 1750rpm,4,N
+124,Maruti,2013,69000,East,Pennsylvania,Reading,Diesel,Individual,Manual,Second_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+125,Hyundai,2015,20000,Central,Indiana,Vincennes,Petrol,Individual,Manual,First_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,N
+126,Tata,2018,60000,Central,Oklahoma,Lawton,Diesel,Individual,Manual,First_Owner,22.95,1248,74.0,190Nm@ 1750-3000rpm,5,N
+127,Hyundai,2016,25000,South,Louisiana,Marrero,Petrol,Individual,Manual,First_Owner,17.19,1197,81.86,114.73Nm@ 4000rpm,5,N
+128,Maruti,2018,69779,Central,Texas,Duncanville,Petrol,Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+129,Toyota,2011,250000,South,Arkansas,Fayetteville,Diesel,Individual,Manual,Second_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+130,Mahindra,2009,176000,East,West Virginia,Morgantown,Diesel,Individual,Manual,Second_Owner,17.0,1461,66.0,"16@ 2,000(kgm@ rpm)",5,Y
+131,Maruti,2019,5621,South,Florida,Miami,Petrol,Trustmark_Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,Y
+132,Hyundai,2017,52000,East,Maryland,Crofton,Petrol,Individual,Manual,First_Owner,17.0,1197,81.86,113.75Nm@ 4000rpm,5,Y
+133,Tata,2010,29000,West,Washington,Kirkland,Petrol,Individual,Manual,First_Owner,16.5,1172,65.0,96 Nm at 3000 rpm,5,N
+134,Maruti,2017,20000,West,California,Palo Alto,Petrol,Individual,Automatic,First_Owner,20.51,998,67.0,90Nm@ 3500rpm,5,N
+135,Honda,2016,15000,East,New York,Kenmore,Petrol,Dealer,Manual,First_Owner,18.7,1199,88.7,110Nm@ 4800rpm,5,N
+136,Ford,2013,158000,West,California,Santa Barbara,Diesel,Dealer,Manual,First_Owner,24.4,1499,98.96,215Nm@ 1750-2500rpm,5,N
+137,Maruti,2013,80000,Central,Texas,College Station,Petrol,Individual,Manual,Second_Owner,15.1,1196,73.0,101Nm@ 3000rpm,5,Y
+138,Maruti,2010,60000,Central,Indiana,Richmond,Petrol,Individual,Manual,Third_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+139,Maruti,2012,29500,Central,Missouri,Kansas City,Petrol,Individual,Manual,First_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+140,Maruti,2011,15000,Central,Illinois,Bloomington,Petrol,Individual,Manual,Third_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+141,Honda,2015,30000,West,Idaho,Meridian,Petrol,Individual,Manual,First_Owner,17.4,1497,117.3,145Nm@ 4600rpm,5,Y
+142,Hyundai,2009,70000,Central,Oklahoma,Owasso,Petrol,Individual,Manual,Second_Owner,20.36,1197,78.9,111.8Nm@ 4000rpm,5,N
+143,Maruti,2015,30000,South,Arkansas,Hot Springs,Petrol,Individual,Automatic,First_Owner,19.12,1373,91.1,130Nm@ 4000rpm,5,Y
+144,Chevrolet,2012,70000,South,Florida,Margate,Petrol,Individual,Manual,Third_Owner,18.6,1199,79.4,108Nm@ 4400rpm,5,N
+145,Maruti,2015,110000,South,Alabama,Selma,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,Y
+146,Hyundai,2018,6000,Central,Illinois,Hanover Park,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,Y
+147,Mahindra,2011,70000,South,Florida,Pembroke Pines,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+148,Tata,2008,205000,Central,Minnesota,Maplewood,Diesel,Individual,Manual,Second_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,Y
+149,Honda,2018,5500,West,California,Redondo Beach,Petrol,Individual,Manual,First_Owner,17.4,1497,117.6,145Nm@ 4600rpm,5,N
+150,Tata,2013,120000,West,Arizona,Phoenix,Diesel,Individual,Manual,First_Owner,19.4,1405,70.0,135.4Nm@ 2500rpm,5,N
+151,Honda,2018,50000,West,California,Daly City,Diesel,Individual,Manual,First_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,N
+152,Mahindra,2012,100000,West,Oregon,Pendleton,Diesel,Individual,Manual,Second_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,8,N
+153,Maruti,2014,45000,Central,Illinois,Chicago,Petrol,Individual,Manual,First_Owner,19.1,1197,85.8,114Nm@ 4000rpm,5,Y
+154,Maruti,2014,90000,Central,Texas,Gainesville,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+155,Mahindra,2013,49700,West,Washington,Federal Way,Diesel,Individual,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,Y
+156,Maruti,2015,15000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,Y
+157,Maruti,2016,70000,East,Massachusetts,Boston,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,Y
+158,Maruti,2009,105000,South,Florida,Miramar,Diesel,Individual,Manual,Second_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,Y
+159,Renault,2018,30000,South,Georgia,Atlanta,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,Y
+160,Renault,2016,80000,Central,Wisconsin,Muskego,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+161,Ford,2005,15858,South,Virginia,Alexandria,Petrol,Individual,Manual,First_Owner,13.8,1299,70.0,"10.7@ 2,500(kgm@ rpm)",5,N
+162,Honda,2017,41000,West,Washington,Seattle,Petrol,Dealer,Automatic,First_Owner,18.0,1497,117.6,145Nm@ 4600rpm,5,Y
+163,Maruti,2019,25000,Central,Illinois,Highland Park,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,Y
+164,Toyota,2013,79328,South,North Carolina,Charlotte,Diesel,Trustmark_Dealer,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,7,Y
+165,Tata,2015,120000,South,Virginia,Rose Hill,Diesel,Individual,Manual,Second_Owner,19.09,1405,69.01,135Nm@ 2500rpm,5,N
+166,Hyundai,2019,20000,West,California,Concord,Petrol,Individual,Automatic,First_Owner,17.0,1591,121.3,151Nm@ 4850rpm,5,N
+167,Chevrolet,2013,70000,West,California,Rancho Cucamonga,Diesel,Individual,Manual,Second_Owner,18.2,1248,73.8,172.5Nm@ 1750rpm,7,N
+168,Mahindra,2013,70000,Central,Texas,Corsicana,Diesel,Individual,Manual,Second_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+169,Toyota,2013,79328,East,New Jersey,New Milford,Diesel,Trustmark_Dealer,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,7,N
+170,Volkswagen,2017,29000,West,New Mexico,Roswell,Diesel,Individual,Manual,First_Owner,22.0,1498,108.495,250Nm@ 1500-3000rpm,5,N
+171,Hyundai,2017,26263,East,New York,East Massapequa,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+172,Honda,2013,100000,East,Ohio,Massillon,Diesel,Individual,Manual,First_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,N
+173,Chevrolet,2017,90000,Central,Illinois,Glendale Heights,Petrol,Individual,Manual,First_Owner,17.8,1199,76.8,106.5Nm@ 4400rpm,5,N
+174,Tata,2018,60000,West,Washington,Seattle,Petrol,Individual,Manual,First_Owner,17.57,1193,88.7,140Nm@ 1500-4000rpm,5,Y
+175,Hyundai,2019,2000,Central,Texas,Houston,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,117nm@ 4000rpm,5,Y
+176,Maruti,2014,25000,Central,Kansas,Lawrence,Petrol,Individual,Manual,First_Owner,16.02,1373,93.7,130Nm@ 4000rpm,7,Y
+177,Hyundai,2012,182000,Central,Kansas,Emporia,Diesel,Individual,Manual,Second_Owner,24.8,1396,88.7,219.7Nm@ 1750-2750rpm,5,N
+178,Maruti,2014,50000,South,Alabama,Huntsville,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+179,Hyundai,2018,30000,Central,Michigan,Canton,Diesel,Individual,Manual,First_Owner,21.19,1396,88.76,219.66nm@ 1500-2750rpm,5,Y
+180,Maruti,2011,46000,Central,Texas,Houston,Petrol,Individual,Manual,First_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,Y
+181,Mahindra,2011,90000,West,Colorado,Denver,Diesel,Individual,Manual,First_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+182,Honda,2018,8576,Central,Minnesota,Brooklyn Park,Petrol,Dealer,Manual,First_Owner,18.7,1199,88.7,110Nm@ 4800rpm,5,Y
+183,Maruti,2011,60000,South,Florida,Land O Lakes,Petrol,Individual,Manual,Third_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+184,Hyundai,2015,30000,West,Utah,Spanish Fork,Petrol,Individual,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+185,Renault,2016,60000,South,Louisiana,Slidell,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+186,Skoda,2015,168000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,20.6,1968,141.0,320Nm@ 1750-3000rpm,5,Y
+187,Maruti,2018,28000,Central,Illinois,Moline,Petrol,Dealer,Manual,First_Owner,16.1,1197,85.0,"113Nm@ 4,500rpm",5,N
+188,Mahindra,2015,45000,West,California,Fresno,Diesel,Individual,Automatic,First_Owner,18.49,1493,100.0,230Nm@ 1500-2250rpm,7,N
+189,Tata,2014,78000,South,Mississippi,Meridian,Diesel,Dealer,Manual,Second_Owner,15.05,2179,147.9,320Nm@ 1500-3000rpm,7,N
+190,Maruti,2017,46000,Central,Michigan,Taylor,Petrol,Individual,Manual,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N
+191,Hyundai,2017,63186,East,Pennsylvania,Philadelphia,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,Y
+192,Ford,2011,55130,Central,Minnesota,Hopkins,Diesel,Dealer,Manual,Second_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+193,Maruti,2017,40000,South,Alabama,Mobile,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+194,Chevrolet,2011,60000,East,Rhode Island,Providence,Petrol,Individual,Manual,First_Owner,18.6,1199,79.4,108Nm@ 4400rpm,5,N
+195,Hyundai,2014,50000,Central,Minnesota,Rochester,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+196,Hyundai,2014,70000,South,Arkansas,Rogers,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+197,Fiat,2012,70000,Central,Indiana,Elkhart,Diesel,Individual,Manual,First_Owner,20.3,1248,75.0,197Nm@ 1750rpm,5,N
+198,Tata,2018,50000,East,Pennsylvania,Altoona,Petrol,Individual,Manual,First_Owner,17.0,1198,108.5,170Nm@ 1750-4000rpm,5,N
+199,Maruti,2013,44000,East,Maryland,Silver Spring,Petrol,Individual,Manual,Second_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+200,Datsun,2015,50000,East,Maine,Saco,Petrol,Individual,Manual,First_Owner,20.63,1198,67.0,104Nm@ 4000rpm,5,N
+201,Maruti,2015,95000,Central,Texas,Conroe,Diesel,Individual,Manual,First_Owner,27.62,793,47.0,125Nm@ 2000rpm,5,N
+202,Volkswagen,2012,100000,South,Georgia,Macon,Diesel,Individual,Manual,Second_Owner,20.54,1598,103.6,250Nm@ 1500-2500rpm,5,N
+203,Mahindra,2015,100000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+204,Mahindra,2013,150000,South,Mississippi,Clinton,Diesel,Individual,Manual,Second_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+205,Maruti,2013,100000,South,Tennessee,Gallatin,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,Y
+206,Maruti,2018,69779,West,California,Los Angeles,Petrol,Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,Y
+207,Chevrolet,2016,120000,Central,Nebraska,Grand Island,Diesel,Individual,Manual,First_Owner,13.58,2499,72.4,171Nm@ 1800rpm,10,N
+208,Hyundai,2017,56290,Central,Nebraska,Norfolk,Diesel,Dealer,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+209,Honda,2019,7032,South,Tennessee,Bartlett,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,N
+210,Maruti,2015,20000,West,California,Lake Elsinore,Petrol,Individual,Manual,Second_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,N
+211,Tata,2013,120000,Central,Iowa,Mason City,Diesel,Individual,Manual,Second_Owner,15.3,2956,83.83,250Nm@ 1000-2000rpm,7,N
+212,Maruti,2010,80000,West,California,Eureka,Diesel,Individual,Manual,Fourth_Above_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+213,Tata,2009,190000,Central,Missouri,Gladstone,Diesel,Individual,Manual,First_Owner,17.0,1405,71.0,135 Nm at 2500  rpm ,5,N
+214,Fiat,2015,96500,Central,Illinois,Galesburg,Diesel,Individual,Manual,First_Owner,20.5,1248,91.72,209Nm@ 2000rpm,5,N
+215,Tata,2011,80000,South,Alabama,Phenix City,Diesel,Individual,Manual,First_Owner,19.4,1405,70.0,135.4Nm@ 2500rpm,5,N
+216,Maruti,2013,108916,West,Arizona,Sierra Vista,Petrol,Individual,Manual,Second_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,N
+217,Tata,2012,80000,South,Arkansas,Searcy,Diesel,Individual,Manual,First_Owner,21.02,1248,88.76,200Nm@ 1750-3000rpm,5,N
+218,Mahindra,2010,160500,South,Arkansas,Fort Smith,Diesel,Individual,Manual,Fourth_Above_Owner,13.5,2179,115.0,277.5Nm@ 1700-2200rpm,5,Y
+219,Mahindra,2008,120000,West,California,Inglewood,Diesel,Individual,Manual,Second_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,8,N
+220,Ford,2016,143200,South,Tennessee,Hendersonville,Diesel,Individual,Manual,First_Owner,25.83,1498,99.0,215Nm@ 1750-3000rpm,5,Y
+221,Mahindra,2014,110000,South,Tennessee,Gallatin,Diesel,Individual,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,Y
+222,Renault,2017,28000,Central,Indiana,Indianapolis,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+223,Toyota,2012,120000,South,Alabama,Birmingham,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+224,Hyundai,2012,28000,South,Florida,Miami,Petrol,Dealer,Manual,First_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,Y
+225,Hyundai,2017,40000,South,Florida,Hollywood,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,Y
+226,Honda,2012,120000,South,Tennessee,Kingsport,Petrol,Individual,Manual,First_Owner,16.8,1497,116.3,146Nm@ 4800rpm,5,N
+227,Hyundai,2014,18945,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,Y
+228,Hyundai,2014,60000,South,Virginia,Harrisonburg,Diesel,Individual,Manual,First_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+229,Hyundai,2017,35000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,23.9,1582,126.2,259.9Nm@ 1900-2750rpm,5,Y
+230,Maruti,2006,90000,East,New York,Dix Hills,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+231,Hyundai,2015,36000,South,Georgia,Savannah,Petrol,Individual,Manual,First_Owner,17.19,1197,81.86,114.73Nm@ 4000rpm,5,N
+232,Tata,2019,3500,Central,Illinois,Orland Park,Petrol,Individual,Manual,First_Owner,23.84,1199,83.83,114Nm@ 3500rpm,5,N
+233,Tata,2008,100000,Central,Texas,Gainesville,Diesel,Individual,Manual,First_Owner,19.61,1405,70.0,135.4Nm@ 2500,5,N
+234,Hyundai,2014,125000,Central,Minnesota,Shoreview,Diesel,Individual,Automatic,First_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+235,Maruti,2016,70000,Central,Texas,Houston,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,Y
+236,Datsun,2016,42000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,20.63,1198,67.0,104Nm@ 4000rpm,5,Y
+237,Skoda,2016,78010,West,Washington,Seattle,Diesel,Dealer,Automatic,First_Owner,21.66,1498,103.52,250Nm@ 1500-2500rpm,5,N
+238,Tata,2018,5000,Central,Michigan,Westland,Petrol,Individual,Automatic,First_Owner,23.84,1199,84.0,114Nm@ 3500rpm,5,N
+239,Hyundai,2008,50000,South,North Carolina,Charlotte,Petrol,Individual,Manual,First_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,Y
+240,Maruti,2019,45000,East,Pennsylvania,Drexel Hill,Petrol,Individual,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+241,Audi,2019,11500,Central,Missouri,Saint Louis,Petrol,Dealer,Automatic,Test_Drive_Car,15.26,1798,187.74,320Nm@ 1400-4100rpm,5,N
+242,Mahindra,2010,120000,East,District of Columbia,Washington,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,Y
+243,Maruti,2012,76000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,Y
+244,Maruti,2017,30000,East,Ohio,Strongsville,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+245,Mercedes,2018,7976,Central,Texas,Houston,Diesel,Individual,Automatic,First_Owner,17.9,2143,170.0,400Nm@ 1400-2800rpm,5,Y
+246,Mahindra,2010,168000,South,Florida,Miami,Diesel,Individual,Manual,First_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,7,Y
+247,Hyundai,2017,15000,Central,Wisconsin,New Berlin,Petrol,Individual,Automatic,First_Owner,17.01,1591,121.3,154.9Nm@ 4200rpm,5,N
+248,Hyundai,2014,84784,South,Virginia,Portsmouth,Diesel,Dealer,Manual,First_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,N
+249,Renault,2019,10000,East,Pennsylvania,Greensburg,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,Y
+250,Ford,2016,40000,Central,Iowa,Ottumwa,Petrol,Individual,Automatic,First_Owner,17.01,1499,110.4,136Nm@ 4250rpm,5,N
+251,Chevrolet,2010,60000,West,Idaho,Moscow,Petrol,Individual,Manual,Second_Owner,18.0,995,62.0,90.3Nm@ 4200rpm,5,N
+252,Toyota,2016,68089,South,Georgia,Martinez,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,N
+253,Maruti,2010,70000,South,Florida,Gainesville,Petrol,Individual,Manual,Second_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+254,Maruti,2017,75000,East,Massachusetts,Boston,Diesel,Individual,Manual,First_Owner,26.8,1248,74.0,190Nm@ 2000rpm,5,Y
+255,Toyota,2011,60000,West,Arizona,Prescott Valley,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+256,Volkswagen,2018,27000,Central,Wisconsin,Oshkosh,Diesel,Individual,Manual,First_Owner,20.14,1498,88.0,230Nm@ 1500-2500rpm,5,N
+257,Hyundai,2019,28000,South,Louisiana,Terrytown,Petrol,Individual,Automatic,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+258,Toyota,2014,60000,East,Massachusetts,Amesbury,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,7,N
+259,Honda,2017,26000,Central,Minnesota,Rochester,Petrol,Individual,Automatic,First_Owner,18.0,1497,117.3,145Nm@ 4600rpm,5,N
+260,Hyundai,2017,43000,Central,Illinois,Burbank,Diesel,Dealer,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+261,Maruti,2017,35000,Central,Iowa,Cedar Rapids,Petrol,Individual,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+262,Honda,2015,30000,East,New Jersey,East Orange,Diesel,Individual,Manual,First_Owner,26.0,1498,98.6,200Nm@ 1750rpm,5,N
+263,Maruti,2014,50000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,20.4,1197,81.8,113Nm@ 4200rpm,5,Y
+264,Renault,2018,31000,West,Washington,Bremerton,Petrol,Dealer,Automatic,First_Owner,24.04,999,67.0,91Nm@ 4250rpm,5,N
+265,Maruti,2016,50000,South,Alabama,Bessemer,CNG,Individual,Manual,Second_Owner,26.6,998,58.16,77Nm@ 3500rpm,5,N
+266,BMW,2019,8500,West,California,Los Angeles,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,Y
+267,Ford,2012,150000,West,California,Roseville,Diesel,Individual,Manual,First_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+268,Chevrolet,2007,60000,East,New York,Kenmore,Petrol,Individual,Manual,Third_Owner,14.7,1150,76.0,"11.2@ 4,400(kgm@ rpm)",5,N
+269,Maruti,2011,47000,West,California,Carlsbad,Petrol,Individual,Manual,First_Owner,18.5,1197,85.8,114Nm@ 4000rpm,5,N
+270,Maruti,2012,58400,East,New York,Cohoes,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+271,Maruti,2014,80000,Central,Iowa,Sioux City,Diesel,Individual,Manual,Second_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+272,Maruti,2016,90000,Central,Illinois,Saint Charles,Diesel,Individual,Automatic,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+273,Tata,2007,90000,East,New Hampshire,Bedford,Diesel,Individual,Manual,Third_Owner,17.2,1396,53.5,"8.5@ 2,500(kgm@ rpm)",5,N
+274,Maruti,2018,30000,East,New York,East Massapequa,Petrol,Individual,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+275,Toyota,2013,79328,Central,Texas,Eagle Pass,Diesel,Trustmark_Dealer,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,7,N
+276,Hyundai,2018,15000,West,Washington,Richland,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+277,Toyota,2016,40000,East,New Jersey,Newark,Diesel,Individual,Automatic,Second_Owner,11.36,2755,171.5,360Nm@ 1200-3400rpm,7,N
+278,Mahindra,2014,11500,South,Florida,Boynton Beach,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,N
+279,Ford,2019,20000,East,Maine,Sanford,Diesel,Individual,Manual,First_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,N
+280,Toyota,2013,110000,South,Florida,Miramar,Diesel,Individual,Manual,First_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,8,Y
+281,Chevrolet,2016,60000,East,Massachusetts,Hopkinton,Diesel,Individual,Manual,Second_Owner,25.44,936,56.3,142.5Nm@ 1750rpm,5,N
+282,Maruti,2019,10000,Central,Michigan,Mount Pleasant,CNG,Individual,Manual,Second_Owner,33.44,796,40.3,60Nm@ 3500rpm,4,N
+283,Mahindra,2011,120000,Central,Oklahoma,Enid,Diesel,Individual,Manual,Second_Owner,13.0,2489,95.0,220Nm at 1400-2600 rpm,8,N
+284,Maruti,2013,79139,South,Virginia,Portsmouth,Petrol,Dealer,Manual,First_Owner,18.5,1197,85.8,114Nm@ 4000rpm,5,N
+285,Hyundai,2006,120000,East,Maryland,Parkville,Petrol,Individual,Automatic,First_Owner,13.1,1795,127.0,"16.6@ 4,500(kgm@ rpm)",5,N
+286,Toyota,2005,96000,Central,Illinois,Forest Park,Petrol,Individual,Manual,Second_Owner,13.4,1794,125.0,"16.1@ 4,200(kgm@ rpm)",5,N
+287,Volvo,2019,20000,Central,Texas,Lufkin,Diesel,Individual,Automatic,First_Owner,18.0,1969,190.0,400Nm,5,N
+288,Hyundai,2017,37333,West,Colorado,Longmont,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+289,Hyundai,2013,50000,West,California,Los Angeles,Petrol,Individual,Manual,Second_Owner,17.1,1591,121.3,154.9Nm@ 4200rpm,5,Y
+290,Renault,2017,35000,East,Vermont,Burlington,Petrol,Individual,Manual,Second_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+291,Mercedes,2017,60000,West,Idaho,Eagle,Diesel,Dealer,Automatic,First_Owner,0.0,1950,194.0,400nm@ 2800rpm,5,N
+292,Ford,2012,60000,West,Arizona,Casas Adobes,Diesel,Individual,Manual,First_Owner,17.8,1399,67.0,160Nm@ 2000rpm,5,N
+293,Fiat,2010,61000,South,Mississippi,Jackson,Diesel,Dealer,Manual,Second_Owner,20.4,1248,91.7,209Nm@ 2000rpm,5,N
+294,Hyundai,2016,35000,South,Virginia,Richmond,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+295,Tata,2016,22000,Central,Illinois,Saint Charles,Petrol,Individual,Automatic,First_Owner,21.9,624,37.48,51Nm@ 4000rpm,4,N
+296,Toyota,2010,125000,West,Washington,Seattle,Diesel,Individual,Manual,Second_Owner,11.5,2982,171.0,343Nm@ 1400-3400rpm,7,Y
+297,Nissan,2012,50000,South,Florida,Poinciana,Petrol,Individual,Manual,First_Owner,16.95,1498,97.7,134Nm@ 4000rpm,5,Y
+298,Mahindra,2014,110000,South,North Carolina,Jacksonville,Diesel,Individual,Manual,Second_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,9,N
+299,Toyota,2015,120000,West,Washington,Bellingham,Diesel,Individual,Manual,Second_Owner,23.59,1364,67.05,170Nm@ 1800-2400rpm,5,N
+300,Mercedes,2018,18000,South,North Carolina,Cary,Petrol,Dealer,Automatic,First_Owner,15.04,1991,183.0,300Nm@ 1200-4000rpm,5,N
+301,Maruti,2015,25000,Central,Kansas,Olathe,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+302,Skoda,2016,11000,Central,Illinois,Oak Lawn,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,N
+303,Maruti,2011,175000,South,North Carolina,Wilson,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+304,Hyundai,2011,170000,South,Florida,Saint Petersburg,CNG,Individual,Manual,First_Owner,11.88,1086,62.1,96.1Nm@ 3000rpm,5,N
+305,Maruti,2017,34000,South,Tennessee,Cleveland,Petrol,Dealer,Manual,Second_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N
+306,Hyundai,2015,70000,West,Arizona,Scottsdale,Diesel,Individual,Manual,First_Owner,24.4,1120,71.0,180.4Nm@ 1750-2500rpm,5,Y
+307,Toyota,2018,20000,South,South Carolina,Aiken,Diesel,Individual,Manual,First_Owner,13.68,2393,147.8,343Nm@ 1400-2800rpm,8,N
+308,Maruti,2018,50000,Central,Wisconsin,Neenah,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+309,Maruti,2018,20000,South,Alabama,Selma,Petrol,Individual,Manual,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,Y
+310,Chevrolet,2014,139000,East,New York,Rochester,Diesel,Individual,Manual,Second_Owner,18.2,1248,73.8,172.5Nm@ 1750rpm,8,Y
+311,Volkswagen,2017,80000,Central,Illinois,Chicago,Diesel,Individual,Manual,First_Owner,21.66,1498,108.62,250Nm@ 1500-3000rpm,5,Y
+312,Hyundai,2016,25000,South,North Carolina,Jacksonville,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+313,Maruti,2014,110000,Central,Illinois,East Saint Louis,Diesel,Individual,Manual,Third_Owner,23.2,1248,73.94,190Nm@ 2000rpm,5,N
+314,Maruti,2014,58000,Central,Texas,Harlingen,Petrol,Individual,Manual,Second_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+315,Mahindra,2018,80000,Central,Minnesota,Savage,Diesel,Individual,Manual,First_Owner,16.5,1493,70.0,195Nm@ 1400-2200rpm,7,N
+316,Maruti,2011,70000,Central,Illinois,West Chicago,Petrol,Individual,Manual,Third_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+317,Chevrolet,2013,70000,South,Tennessee,Smyrna,Petrol,Individual,Manual,First_Owner,18.6,1199,79.4,108Nm@ 4400rpm,5,N
+318,Mahindra,2019,40000,East,Pennsylvania,Wilkes Barre,Diesel,Individual,Manual,First_Owner,17.3,1497,121.0,300Nm@ 1750-2500rpm,7,N
+319,Hyundai,2013,70000,East,Massachusetts,Boston,Petrol,Individual,Manual,First_Owner,18.5,1197,82.85,113.7Nm@ 4000rpm,5,Y
+320,Maruti,2008,40000,Central,Kansas,Kansas City,Petrol,Individual,Manual,First_Owner,18.2,1061,64.0,84Nm@ 3500rpm,5,Y
+321,Datsun,2017,25000,Central,Wisconsin,Stevens Point,Petrol,Individual,Manual,First_Owner,22.7,799,53.64,72Nm@ 4386rpm,5,Y
+322,Maruti,2017,80000,West,California,Lawndale,Petrol,Individual,Manual,First_Owner,20.73,1373,91.1,130Nm@ 4000rpm,5,N
+323,Maruti,2018,12000,Central,Michigan,Garden City,Petrol,Individual,Manual,First_Owner,20.4,1197,81.8,113Nm@ 4200rpm,5,N
+324,Renault,2018,20000,West,California,Redlands,Petrol,Individual,Manual,First_Owner,23.01,999,67.0,91Nm@ 4250rpm,5,N
+325,Maruti,2019,15000,South,Florida,Palm Beach Gardens,Diesel,Individual,Manual,First_Owner,25.1,1248,88.5,200Nm@ 1750rpm,5,N
+326,Ford,2012,70000,South,Florida,Palm Coast,Diesel,Individual,Manual,First_Owner,18.6,1388,67.0,160Nm@ 2000rpm,5,N
+327,Tata,2017,60000,East,Maine,Bangor,Diesel,Individual,Manual,First_Owner,14.1,2179,147.94,320Nm@ 1500-3000rpm,7,N
+328,Hyundai,2017,25000,West,California,Encinitas,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+329,Mahindra,2015,65000,West,Oregon,Eugene,Diesel,Individual,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+330,Hyundai,2014,65000,Central,Oklahoma,Oklahoma City,Petrol,Individual,Manual,First_Owner,20.36,1197,78.9,111.8Nm@ 4000rpm,5,Y
+331,Maruti,2017,70000,South,Virginia,Fairfax,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+332,BMW,2019,8500,South,Arkansas,North Little Rock,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,Y
+333,BMW,2013,56000,South,Virginia,Suffolk,Diesel,Dealer,Automatic,First_Owner,11.2,2993,241.0,540Nm@ 2000rpm,4,N
+334,Tata,2012,231438,West,California,Palm Springs,Diesel,Individual,Manual,Second_Owner,18.4,1248,75.0,190 Nm at 1750 rpm ,5,N
+335,Tata,2010,100000,West,Washington,Yakima,Diesel,Individual,Manual,First_Owner,11.57,2179,138.1,320Nm@ 1700-2700rpm,7,N
+336,Jaguar,2017,9000,East,Pennsylvania,Penn Hills,Diesel,Dealer,Automatic,First_Owner,13.6,1999,177.0,430Nm@ 1750-2500rpm,5,N
+337,Jeep,2019,5000,East,New York,New York City,Petrol,Individual,Automatic,First_Owner,16.0,1368,160.77,250Nm@ 1750-2500rpm,5,Y
+338,Mahindra,2014,95000,West,New Mexico,Clovis,Diesel,Individual,Manual,Second_Owner,14.02,2179,118.3,280Nm@ 2400-2800rpm,8,N
+339,Mahindra,2010,100000,Central,Michigan,Detroit,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,Y
+340,Tata,2013,120000,West,Washington,Tacoma,Diesel,Individual,Manual,Second_Owner,17.88,1405,48.21,85Nm@ 2500rpm,5,N
+341,Volvo,2019,20000,South,Georgia,Martinez,Diesel,Individual,Automatic,First_Owner,18.0,1969,190.0,400Nm,5,N
+342,Maruti,2009,120000,Central,Michigan,Holland,Petrol,Individual,Manual,First_Owner,18.5,1197,85.8,114Nm@ 4000rpm,5,N
+343,Maruti,2017,15000,West,California,Santa Clara,Petrol,Individual,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+344,Mahindra,2011,110000,Central,Texas,Sugar Land,Diesel,Individual,Manual,Second_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+345,Ford,2017,40000,West,California,San Diego,Petrol,Individual,Manual,Second_Owner,18.16,1196,86.8,112Nm@ 4000rpm,5,N
+346,Maruti,2015,35000,Central,Kansas,Leawood,Petrol,Individual,Manual,First_Owner,16.02,1373,93.7,130Nm@ 4000rpm,7,Y
+347,Tata,2017,70000,South,Florida,Daytona Beach,Diesel,Individual,Manual,First_Owner,22.95,1248,74.0,190Nm@ 1750-3000rpm,5,N
+348,Nissan,2015,50000,Central,Michigan,Madison Heights,Petrol,Individual,Automatic,First_Owner,19.34,1198,76.0,104Nm@ 4400rpm,5,N
+349,Maruti,2011,25000,East,New York,New York City,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+350,Toyota,2010,120000,South,Virginia,Mechanicsville,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+351,Tata,2018,35000,Central,North Dakota,Fargo,Petrol,Individual,Manual,First_Owner,20.3,1199,84.0,114Nm@ 3500rpm,5,N
+352,Mahindra,2011,60000,Central,Indiana,South Bend,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+353,Hyundai,2018,2388,Central,Michigan,Midland,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+354,Hyundai,2019,10000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,117nm@ 4000rpm,5,Y
+355,Volkswagen,2017,50000,West,Washington,Vancouver,Diesel,Individual,Manual,First_Owner,22.27,1498,108.6,250Nm@ 1500-3000rpm,5,N
+356,Maruti,2013,100000,Central,Michigan,Adrian,Diesel,Individual,Manual,Third_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+357,Mahindra,2018,20000,West,Colorado,Commerce City,Diesel,Individual,Manual,First_Owner,18.49,2179,120.0,280Nm@ 1800-2800rpm,9,N
+358,Hyundai,2010,120000,West,California,Oakland,Diesel,Individual,Manual,Second_Owner,16.8,1493,110.0,"24@ 1,900-2,750(kgm@ rpm)",5,N
+359,Toyota,2006,140000,Central,Nebraska,Papillion,Diesel,Individual,Manual,Second_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+360,Honda,2016,56494,Central,Texas,Eagle Pass,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+361,Maruti,2003,36088,East,Ohio,North Royalton,Petrol,Individual,Manual,First_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+362,Hyundai,2017,20000,West,Idaho,Nampa,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,Y
+363,Renault,2017,50000,East,Pennsylvania,Greensburg,Petrol,Individual,Manual,First_Owner,23.01,999,67.0,91Nm@ 4250rpm,5,Y
+364,Tata,2017,70000,East,Maine,Gorham,Diesel,Individual,Manual,First_Owner,19.09,1405,69.01,135Nm@ 2500rpm,5,N
+365,Tata,2019,15000,East,Massachusetts,Boston,Petrol,Individual,Manual,First_Owner,20.3,1199,84.0,114Nm@ 3500rpm,5,Y
+366,Honda,2016,56494,South,Florida,Palm Coast,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+367,Maruti,2016,120000,Central,Minnesota,Owatonna,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+368,Maruti,2013,24019,West,Utah,Holladay,Diesel,Individual,Manual,First_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+369,Maruti,2017,47747,South,Virginia,Norfolk,Diesel,Dealer,Manual,First_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+370,Mahindra,2005,300000,South,North Carolina,Wilmington,Diesel,Individual,Manual,Third_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+371,Lexus,2019,20000,East,Pennsylvania,Bethel Park,Petrol,Dealer,Automatic,First_Owner,22.37,2487,214.56,202Nm@ 3600-5200rpm,5,N
+372,Mahindra,2015,40000,Central,Michigan,Redford,Diesel,Individual,Manual,Second_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+373,Mahindra,2007,105000,East,West Virginia,Beckley,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+374,Maruti,2012,40000,West,California,Redlands,Petrol,Individual,Manual,First_Owner,18.5,1197,85.8,114Nm@ 4000rpm,5,N
+375,Maruti,2012,50000,Central,Texas,Grand Prairie,Petrol,Individual,Manual,First_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+376,BMW,2019,8500,South,Georgia,Sandy Springs,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+377,Maruti,2012,70000,West,New Mexico,Las Cruces,Diesel,Individual,Manual,Third_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+378,Tata,2017,15000,East,New York,Plainview,Diesel,Individual,Manual,First_Owner,24.7,1047,69.0,140Nm@ 1800-3000rpm,5,N
+379,Maruti,2016,25000,Central,Michigan,Battle Creek,Petrol,Individual,Manual,First_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,Y
+380,Honda,2017,70000,West,Colorado,Grand Junction,Petrol,Individual,Manual,First_Owner,17.3,1497,117.3,145Nm@ 4600rpm,7,N
+381,Chevrolet,2011,82500,West,California,Morgan Hill,Diesel,Individual,Manual,Second_Owner,16.52,1991,123.7,305Nm@ 2000rpm,5,N
+382,Chevrolet,2012,75000,Central,Illinois,Carpentersville,Diesel,Individual,Manual,First_Owner,25.44,936,57.6,150Nm@ 1750rpm,5,N
+383,Hyundai,2018,70000,East,Maine,Bangor,Diesel,Individual,Manual,First_Owner,25.4,1186,73.97,190.25nm@ 1750-2250rpm,5,N
+384,Honda,2010,74000,West,California,Twentynine Palms,Petrol,Individual,Manual,Second_Owner,12.8,2354,177.6,222Nm@ 4300rpm,5,N
+385,Chevrolet,2008,100000,Central,Illinois,Skokie,Petrol,Individual,Manual,Third_Owner,18.0,995,62.0,90.3Nm@ 4200rpm,5,N
+386,Hyundai,2009,90000,South,Florida,Homestead,Diesel,Individual,Manual,Second_Owner,18.1,1493,110.0,"24@ 1,900-2,750(kgm@ rpm)",5,Y
+387,Tata,2019,10000,South,Virginia,Blacksburg,Petrol,Individual,Manual,First_Owner,23.84,1199,84.0,114Nm@ 3500rpm,5,N
+388,Maruti,2014,70195,Central,Illinois,Romeoville,Diesel,Dealer,Manual,Second_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+389,Tata,2015,70000,South,Florida,Carol City,Petrol,Individual,Manual,First_Owner,17.57,1193,88.7,140Nm@ 1500-4000rpm,5,N
+390,Maruti,2018,25000,Central,South Dakota,Watertown,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+391,Tata,2017,51000,East,New York,East Meadow,Diesel,Individual,Manual,First_Owner,14.07,2956,69.01,223Nm@ 1600-2200rpm,7,N
+392,Jaguar,2017,45000,South,North Carolina,Gastonia,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,Y
+393,Nissan,2012,70000,East,New York,Yonkers,Petrol,Individual,Manual,Second_Owner,16.95,1498,97.7,134Nm@ 4000rpm,5,Y
+394,Mahindra,2008,100000,East,Connecticut,East Haven,Diesel,Individual,Manual,Second_Owner,12.7,2609,116.6,"28.3@ 1,700-2,200(kgm@ rpm)",9,N
+395,Tata,2008,120000,South,North Carolina,Garner,Diesel,Individual,Manual,First_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,N
+396,Tata,2011,120000,Central,Kansas,Overland Park,Diesel,Individual,Manual,First_Owner,19.4,1405,70.0,135.4Nm@ 2500rpm,5,N
+397,Maruti,2014,64000,West,California,Menlo Park,Diesel,Individual,Manual,Second_Owner,20.77,1248,88.8,200Nm@ 1750rpm,7,N
+398,Datsun,2015,60000,West,California,San Diego,Petrol,Individual,Manual,Second_Owner,19.44,1198,67.0,104Nm@ 4000rpm,7,N
+399,Tata,2011,35000,Central,Kansas,Kansas City,Petrol,Individual,Manual,First_Owner,15.0,1368,90.0,116Nm@ 4750rpm,5,Y
+400,Mahindra,2016,150000,West,Colorado,Aurora,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,N
+401,Fiat,2016,60000,East,New Jersey,Glassboro,Diesel,Individual,Manual,Second_Owner,20.5,1248,91.7,209Nm@ 2000rpm,5,N
+402,Maruti,2012,70000,East,New York,New York City,Petrol,Individual,Manual,Second_Owner,18.5,1197,85.8,114Nm@ 4000rpm,5,Y
+403,Toyota,2017,25538,Central,Missouri,Ozark,Petrol,Trustmark_Dealer,Manual,First_Owner,16.78,1496,88.73,132Nm@ 3000rpm,5,N
+404,Chevrolet,2015,120000,Central,Wisconsin,Green Bay,Diesel,Individual,Manual,First_Owner,18.2,1248,73.8,172.5Nm@ 1750rpm,8,N
+405,Maruti,2014,65000,West,California,Palm Springs,Diesel,Individual,Manual,Second_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+406,Maruti,2018,30000,West,California,Redondo Beach,Petrol,Individual,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+407,Toyota,2018,4295,West,Idaho,Lewiston,Petrol,Trustmark_Dealer,Manual,First_Owner,17.1,1496,105.5,140Nm@ 4200rpm,5,Y
+408,Hyundai,2018,15000,Central,Nebraska,Fremont,Petrol,Individual,Automatic,First_Owner,17.36,1197,81.86,113.75nm@ 4000rpm,5,N
+409,Renault,2014,120000,South,Florida,Miami,Diesel,Individual,Manual,First_Owner,20.45,1461,83.8,200Nm@ 1900rpm,5,N
+410,Mahindra,2012,120000,South,South Carolina,Taylors,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+411,Maruti,2018,35000,South,Louisiana,Shreveport,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+412,Toyota,2011,120000,Central,Illinois,Quincy,Diesel,Individual,Manual,Second_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+413,Maruti,2014,70000,Central,Michigan,Midland,Diesel,Individual,Manual,Fourth_Above_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+414,Honda,2018,30000,Central,Illinois,Country Club Hills,Petrol,Individual,Manual,First_Owner,17.5,1199,88.7,110Nm@ 4800rpm,5,N
+415,Skoda,2012,60000,Central,Michigan,Sault Sainte Marie,Diesel,Individual,Manual,First_Owner,20.5,1598,103.5,250Nm@ 1500-2500rpm,5,N
+416,Toyota,2016,68089,South,Arkansas,North Little Rock,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,Y
+417,Tata,2006,110000,East,New York,New York City,Diesel,Individual,Manual,Fourth_Above_Owner,17.88,1396,52.8,85Nm@ 2500rpm,5,Y
+418,Mahindra,2017,82000,South,Florida,Orlando,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+419,Toyota,2010,151000,West,California,Pico Rivera,Diesel,Individual,Manual,Second_Owner,11.5,2982,171.0,343Nm@ 1400-3400rpm,7,N
+420,Nissan,2014,120000,South,Florida,Ormond Beach,Diesel,Individual,Manual,Second_Owner,19.01,1461,108.5,248Nm@ 2250rpm,5,Y
+421,Maruti,2008,89000,East,Pennsylvania,State College,Petrol,Individual,Manual,Second_Owner,15.6,1586,104.68,"145@ 4,100(kgm@ rpm)",5,N
+422,Hyundai,2017,50000,Central,Michigan,Troy,Diesel,Individual,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+423,Maruti,2011,97000,Central,Nebraska,Kearney,Diesel,Dealer,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+424,Maruti,2014,40000,Central,North Dakota,Minot,Petrol,Individual,Manual,Second_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+425,Mercedes,2007,42000,West,New Mexico,Carlsbad,Petrol,Dealer,Automatic,First_Owner,11.74,1796,186.0,285Nm@ 2400-4000rpm,5,N
+426,Hyundai,2016,30000,East,Maine,West Scarborough,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,Y
+427,Mahindra,2016,71000,Central,Oklahoma,Muskogee,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+428,BMW,2019,8500,South,Louisiana,Alexandria,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+429,Hyundai,2017,20000,South,Louisiana,Baton Rouge,Petrol,Individual,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+430,Maruti,2018,40000,Central,Michigan,Lincoln Park,Petrol,Individual,Manual,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+431,Mahindra,2012,80000,East,New York,Yonkers,Diesel,Individual,Manual,Second_Owner,20.8,1461,65.0,160Nm@ 2000rpm,5,Y
+432,Ford,2012,170000,South,Tennessee,Gallatin,Diesel,Individual,Manual,First_Owner,13.1,2499,141.0,330Nm@ 1800rpm,7,Y
+433,Hyundai,2013,118000,West,Washington,Marysville,Diesel,Individual,Manual,First_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,Y
+434,Maruti,2019,11000,East,Maryland,Laurel,Petrol,Individual,Manual,First_Owner,21.63,998,67.0,90Nm@ 3500rpm,5,N
+435,Maruti,2012,110000,Central,Michigan,Detroit,Diesel,Individual,Manual,First_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,Y
+436,BMW,2012,96000,East,Maryland,Edgewood,Diesel,Dealer,Automatic,Second_Owner,19.62,1998,190.0,400nm@ 1750-2500rpm,5,N
+437,Hyundai,2008,98000,East,District of Columbia,Washington,Petrol,Individual,Manual,Third_Owner,20.36,1197,78.9,111.8Nm@ 4000rpm,5,Y
+438,Chevrolet,2009,80000,Central,Texas,Sulphur Springs,Diesel,Individual,Manual,Second_Owner,11.5,1991,147.9,320Nm@ 2000rpm,7,N
+439,Tata,2017,85000,West,Idaho,Caldwell,Diesel,Individual,Manual,First_Owner,20.65,1248,88.7,190Nm@ 1750-3000rpm,5,N
+440,Maruti,2018,30000,South,Florida,Bradenton,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+441,Maruti,2013,58343,West,Oregon,Keizer,Petrol,Trustmark_Dealer,Manual,First_Owner,21.79,998,67.05,90Nm@ 3500rpm,5,N
+442,Mahindra,2019,15000,East,New York,Shirley,Diesel,Individual,Manual,First_Owner,20.0,1497,115.0,300Nm@ 1500-2500rpm,5,N
+443,Tata,2016,90000,West,Utah,Logan,Diesel,Individual,Manual,First_Owner,19.09,1405,69.01,135Nm@ 2500rpm,5,N
+444,Maruti,2014,70000,West,California,Los Angeles,Petrol,Individual,Manual,Second_Owner,19.1,1197,85.8,114Nm@ 4000rpm,5,Y
+445,Mahindra,2016,100000,East,New York,New City,Diesel,Individual,Manual,First_Owner,20.8,1461,64.1,160Nm@ 2000rpm,5,N
+446,Mahindra,2019,30000,Central,Illinois,Burbank,Diesel,Individual,Manual,First_Owner,17.3,1497,121.0,300Nm@ 1750-2500rpm,8,N
+447,Volkswagen,2019,5000,South,North Carolina,Fayetteville,Petrol,Individual,Manual,First_Owner,18.78,999,75.0,95Nm@ 3000-4300rpm,5,N
+448,Maruti,2013,60000,Central,Indiana,New Albany,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+449,Hyundai,2006,25000,East,Maryland,Perry Hall,Petrol,Individual,Manual,Third_Owner,13.0,1795,127.0,"16.6@ 4,500(kgm@ rpm)",5,N
+450,Honda,2016,56494,South,Arkansas,North Little Rock,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,Y
+451,Maruti,2016,90000,Central,South Dakota,Brookings,Diesel,Individual,Manual,First_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+452,Maruti,2011,60000,West,Oregon,Redmond,Diesel,Individual,Manual,First_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+453,Ford,2013,110000,West,Oregon,Eugene,Diesel,Individual,Manual,First_Owner,20.0,1399,68.1,160Nm@ 2000rpm,5,N
+454,Hyundai,2010,110000,East,New York,Utica,Petrol,Individual,Automatic,Third_Owner,16.95,1197,78.9,111.8Nm@ 4000rpm,5,Y
+455,Ford,2009,110000,East,New York,Plainview,Diesel,Individual,Manual,Third_Owner,17.7,1399,68.0,"16@ 2,000(kgm@ rpm)",5,N
+456,Mahindra,2020,44665,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,25.32,1198,77.0,190Nm@ 1750-2250rpm,6,Y
+457,Renault,2012,100000,West,Oregon,West Linn,Diesel,Individual,Manual,Third_Owner,23.08,1461,63.12,160Nm@ 2000rpm,5,Y
+458,Toyota,2012,153000,West,California,Concord,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+459,Hyundai,2016,45629,West,Montana,Butte,Petrol,Trustmark_Dealer,Automatic,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+460,Ford,2012,194000,West,California,Visalia,Diesel,Individual,Manual,First_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+461,Tata,2013,95500,East,New Jersey,Bridgeton,Diesel,Individual,Manual,Second_Owner,14.0,2179,138.1,320Nm@ 1700-2700rpm,7,N
+462,Tata,2019,2000,West,Colorado,Durango,Diesel,Individual,Manual,First_Owner,27.28,1047,69.0,140Nm@ 1800-3000rpm,5,N
+463,Hyundai,2016,25000,Central,Illinois,Kankakee,Petrol,Individual,Manual,First_Owner,17.01,1591,121.3,154.9Nm@ 4200rpm,5,N
+464,Toyota,2009,242000,East,Maine,South Portland,Diesel,Individual,Manual,Fourth_Above_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+465,Hyundai,2010,70000,South,Arkansas,Benton,Petrol,Individual,Manual,Second_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,N
+466,Tata,2017,80000,South,Georgia,La Grange,Diesel,Individual,Manual,First_Owner,27.28,1047,69.0,140Nm@ 1800-3000rpm,5,N
+467,Mahindra,2016,50000,South,Tennessee,Cleveland,Diesel,Individual,Automatic,First_Owner,17.45,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+468,Maruti,2016,47000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,Y
+469,Mahindra,2018,31000,Central,Missouri,Gladstone,Diesel,Individual,Manual,First_Owner,25.32,1198,77.0,190Nm@ 1750-2250rpm,6,N
+470,Hyundai,2010,70000,East,New York,New York City,Petrol,Individual,Manual,Fourth_Above_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,Y
+471,Maruti,2010,80000,Central,Texas,Farmers Branch,Petrol,Individual,Manual,First_Owner,11.96,1298,80.0,103Nm@ 4500rpm,8,N
+472,Maruti,2016,50000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,Y
+473,Maruti,2015,90000,East,Connecticut,Colchester,Diesel,Individual,Manual,First_Owner,23.2,1248,73.94,190Nm@ 2000rpm,5,Y
+474,Toyota,2011,72000,East,New York,New Rochelle,Petrol,Dealer,Manual,First_Owner,17.6,1496,88.7,132Nm@ 3000rpm,5,N
+475,Maruti,2010,100000,Central,Kansas,Topeka,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+476,Maruti,2009,120000,Central,Wisconsin,New Berlin,Diesel,Individual,Manual,First_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+477,Toyota,2016,68089,West,Washington,Seattle,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,Y
+478,Chevrolet,2016,30000,East,Ohio,Bowling Green,Petrol,Individual,Manual,First_Owner,18.6,1199,76.8,106.5Nm@ 4400rpm,5,N
+479,Maruti,2010,80000,South,South Carolina,Greer,Petrol,Individual,Manual,Third_Owner,17.5,1298,85.8,114Nm@ 4000rpm,5,N
+480,Hyundai,2017,35000,West,Washington,Seatac,Petrol,Dealer,Manual,First_Owner,17.0,1197,80.0,"11.4 kgm at 4,000 rpm",5,N
+481,Hyundai,2018,20000,South,Florida,Coconut Creek,Petrol,Individual,Manual,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+482,Tata,2012,186000,Central,Texas,Amarillo,Diesel,Individual,Manual,First_Owner,23.57,1396,70.0,140Nm@ 1800-3000rpm,5,N
+483,Chevrolet,2011,70000,Central,Texas,Houston,Diesel,Individual,Manual,Second_Owner,25.44,936,57.6,150Nm@ 1750rpm,5,N
+484,Maruti,2003,20000,West,Colorado,Pueblo West,Diesel,Individual,Manual,First_Owner,15.9,1527,57.0,96Nm@ 2500rpm,5,N
+485,Maruti,2018,50000,South,Georgia,Hinesville,Diesel,Individual,Automatic,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+486,Tata,2011,80000,East,Maine,Brunswick,Petrol,Individual,Manual,First_Owner,26.0,624,35.0,48Nm@ 3000rpm,4,N
+487,Chevrolet,2010,120000,Central,Illinois,Woodridge,Diesel,Individual,Manual,Third_Owner,18.3,1991,147.9,327Nm@ 2600rpm,5,Y
+488,Hyundai,2010,65000,Central,Oklahoma,Bartlesville,Petrol,Individual,Manual,Second_Owner,17.92,1086,62.1,96.1Nm@ 3000rpm,5,Y
+489,Hyundai,2011,98000,South,Virginia,Chesapeake,Petrol,Individual,Manual,First_Owner,18.5,1197,80.0,"11.4 kgm at 4,000 rpm",5,N
+490,Toyota,2010,200000,West,Colorado,Durango,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+491,Skoda,2011,64481,South,Mississippi,Meridian,Diesel,Dealer,Manual,Second_Owner,20.5,1598,103.5,250Nm@ 1500-2500rpm,5,N
+492,Tata,2014,120000,Central,Illinois,Saint Charles,Diesel,Individual,Manual,First_Owner,25.0,1396,69.0,140Nm@ 1800-3000rpm,5,N
+493,Maruti,2018,38817,East,New York,Tonawanda,Diesel,Dealer,Manual,First_Owner,27.39,1248,74.0,190Nm@ 2000rpm,5,N
+494,Maruti,2017,39500,East,Connecticut,Seymour,Petrol,Individual,Manual,First_Owner,20.52,1197,81.8,113Nm@ 4200rpm,5,N
+495,Chevrolet,2013,120000,South,South Carolina,Spartanburg,Diesel,Individual,Manual,Second_Owner,13.58,2499,72.4,171Nm@ 1800rpm,10,N
+496,Tata,2013,110000,East,Ohio,Grove City,Diesel,Individual,Manual,First_Owner,19.4,1405,70.0,135.4Nm@ 2500rpm,5,Y
+497,Jaguar,2017,45000,West,Idaho,Pocatello,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,N
+498,Hyundai,2016,25000,West,Washington,Spokane,Petrol,Individual,Manual,First_Owner,17.19,1197,81.86,114.73Nm@ 4000rpm,5,N
+499,Tata,2011,110000,West,California,Los Angeles,Diesel,Individual,Manual,Second_Owner,18.8,1248,90.0,200Nm@ 1750-3000rpm,5,Y
+500,Mahindra,2012,180000,Central,Michigan,Ann Arbor,Diesel,Individual,Manual,Third_Owner,15.96,2523,62.1,195Nm@ 1440-2200rpm,9,Y
+501,Maruti,2017,60000,West,California,San Gabriel,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+502,Hyundai,2016,29000,West,Colorado,Lakewood,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,Y
+503,Honda,2018,40000,West,California,Lake Forest,Petrol,Individual,Manual,First_Owner,17.8,1198,86.7,109Nm@ 4500rpm,5,N
+504,Hyundai,2013,70000,West,California,Lemon Grove,Diesel,Individual,Manual,Third_Owner,21.9,1396,88.76,219.6Nm@ 1500-2750rpm,5,Y
+505,Mahindra,2014,80000,Central,Texas,Dallas,Diesel,Individual,Manual,Second_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,Y
+506,Hyundai,2016,63000,South,Alabama,Vestavia Hills,Diesel,Individual,Manual,Third_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,N
+507,Maruti,2013,58343,West,California,San Francisco,Petrol,Trustmark_Dealer,Manual,First_Owner,21.79,998,67.05,90Nm@ 3500rpm,5,Y
+508,Maruti,2015,87847,South,Virginia,Arlington,Diesel,Dealer,Manual,First_Owner,28.4,1248,74.0,190Nm@ 2000rpm,5,N
+509,Hyundai,2017,54000,East,New Jersey,Jersey City,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+510,Hyundai,2011,138000,Central,Michigan,Garden City,Petrol,Individual,Manual,Third_Owner,17.0,1197,80.0,"11.4 kgm at 4,000 rpm",5,N
+511,Maruti,2009,150000,East,New Hampshire,Londonderry,Diesel,Individual,Manual,Third_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+512,Toyota,2014,54891,Central,Texas,Richardson,Diesel,Dealer,Manual,First_Owner,23.59,1364,67.04,170Nm@ 1800-2400rpm,5,N
+513,Hyundai,2012,60000,West,Arizona,Tucson,Diesel,Individual,Manual,Third_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+514,Maruti,2017,70000,South,Alabama,Madison,Petrol,Individual,Manual,Second_Owner,17.5,1373,91.1,130Nm@ 4000rpm,7,Y
+515,Maruti,2018,41779,South,North Carolina,High Point,Petrol,Dealer,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,Y
+516,Tata,2011,87000,Central,Texas,Baytown,Diesel,Individual,Manual,First_Owner,18.0,1248,75.0,190Nm@ 1750rpm,5,N
+517,Honda,2014,97000,West,California,Temecula,Diesel,Individual,Manual,First_Owner,26.0,1498,98.6,200Nm@ 1750rpm,5,N
+518,Maruti,2016,6757,West,Idaho,Lewiston,Petrol,Trustmark_Dealer,Manual,First_Owner,21.01,1197,81.8,113Nm@ 4200rpm,5,Y
+519,Maruti,2014,70000,South,Mississippi,Vicksburg,CNG,Individual,Manual,Second_Owner,21.94,1196,61.7,85Nm@ 3000rpm,5,N
+520,Toyota,2011,120000,West,California,San Diego,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,Y
+521,Tata,2013,189000,West,Utah,Kearns,Diesel,Individual,Manual,First_Owner,21.02,1248,88.76,200Nm@ 1750-3000rpm,5,N
+522,Volkswagen,2015,43001,Central,Michigan,Novi,Diesel,Dealer,Manual,First_Owner,22.27,1498,108.6,250Nm@ 1500-3000rpm,5,N
+523,Hyundai,2018,25000,Central,Illinois,Belvidere,Petrol,Individual,Manual,Second_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+524,Chevrolet,2012,110000,East,New York,Utica,Petrol,Individual,Manual,First_Owner,16.2,995,62.1,90.3Nm@ 4200rpm,5,Y
+525,Mahindra,2005,80000,East,New York,Cheektowaga,Diesel,Individual,Manual,First_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+526,Toyota,2013,80000,West,Arizona,Sun City,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,7,N
+527,Maruti,2013,149000,South,Florida,Port Saint Lucie,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+528,Tata,2012,50000,West,Oregon,Klamath Falls,Diesel,Individual,Manual,First_Owner,23.03,1396,69.0,140Nm@ 1800-3000rpm,5,N
+529,Hyundai,2018,10000,West,Colorado,Louisville,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+530,Fiat,2012,60000,South,North Carolina,Monroe,Diesel,Individual,Manual,Second_Owner,20.3,1248,75.0,197Nm@ 1750rpm,5,N
+531,Maruti,2017,30000,Central,Minnesota,Lino Lakes,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+532,Mahindra,2018,11500,South,North Carolina,Asheville,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,N
+533,Mahindra,2016,112000,Central,Indiana,Indianapolis,Diesel,Dealer,Manual,Second_Owner,15.4,1997,120.0,280Nm@ 1800-2800rpm,7,N
+534,Maruti,2005,49455,East,Ohio,Hilliard,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+535,Hyundai,2011,56389,East,Massachusetts,Duxbury,Petrol,Dealer,Manual,First_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,N
+536,Hyundai,2012,90000,East,Ohio,Findlay,Diesel,Individual,Manual,Second_Owner,21.9,1396,88.76,219.6Nm@ 1750-2750rpm,5,N
+537,Toyota,2018,150000,East,Ohio,Stow,Diesel,Individual,Manual,First_Owner,23.59,1364,67.05,170Nm@ 1800-2400rpm,5,N
+538,Maruti,2013,70000,South,South Carolina,Mauldin,Diesel,Individual,Manual,Third_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+539,Maruti,2011,50000,South,Florida,Palm Bay,Petrol,Individual,Manual,First_Owner,18.6,1197,85.8,114Nm@ 4000rpm,5,N
+540,Hyundai,2014,83000,Central,Illinois,Oak Forest,Diesel,Individual,Manual,Third_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+541,Hyundai,2012,56000,South,Virginia,Mechanicsville,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+542,Tata,2006,120000,East,New York,New York City,Diesel,Individual,Manual,Third_Owner,16.1,1405,70.0,"13.5@ 2,500(kgm@ rpm)",5,Y
+543,Hyundai,2018,42000,South,South Carolina,Aiken,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+544,Volkswagen,2016,60000,Central,Wisconsin,Milwaukee,Petrol,Individual,Manual,First_Owner,17.0,1198,73.75,110Nm@ 3750rpm,5,N
+545,Maruti,2014,70000,South,Georgia,Athens,Diesel,Individual,Manual,Third_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+546,Maruti,1999,26320,South,Alabama,Enterprise,Petrol,Individual,Manual,First_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+547,Hyundai,2007,108000,Central,Michigan,Southgate,Petrol,Individual,Manual,Third_Owner,13.9,1599,103.2,"14.9@ 3,000(kgm@ rpm)",5,N
+548,Audi,2015,53000,West,California,Los Angeles,Diesel,Dealer,Automatic,First_Owner,12.07,2967,241.4,550Nm@ 1750-2750rpm,7,Y
+549,Tata,2017,53000,South,North Carolina,Indian Trail,Petrol,Individual,Manual,First_Owner,17.57,1193,88.7,140Nm@ 1500-4000rpm,5,N
+550,Maruti,2017,120000,Central,Indiana,Indianapolis,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+551,Honda,2017,12000,South,Arkansas,Benton,Petrol,Individual,Manual,First_Owner,17.5,1199,88.7,110Nm@ 4800rpm,5,N
+552,Honda,2016,80000,Central,Indiana,Mishawaka,Diesel,Individual,Manual,First_Owner,26.0,1498,98.6,200Nm@ 1750rpm,5,N
+553,Honda,2007,218463,West,California,Concord,Petrol,Individual,Automatic,First_Owner,12.9,1799,130.0,172Nm@ 4300rpm,5,N
+554,Maruti,2016,80000,East,District of Columbia,Washington,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,Y
+555,Toyota,2017,70000,Central,Texas,Allen,Diesel,Individual,Automatic,First_Owner,15.04,2755,174.5,450Nm@ 1600-2400rpm,7,N
+556,Toyota,2016,68089,Central,Indiana,Gary,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,N
+557,Maruti,2011,40000,Central,Texas,Sulphur Springs,Petrol,Individual,Manual,Third_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+558,Volkswagen,2008,120000,West,Arizona,Glendale,Diesel,Individual,Automatic,First_Owner,14.3,1968,140.0,"36.6@ 1,750-2,500(kgm@ rpm)",5,N
+559,Mahindra,2011,56000,East,Ohio,Mount Vernon,Diesel,Individual,Manual,First_Owner,13.0,2489,95.0,220Nm at 1400-2600 rpm,8,Y
+560,Tata,2016,24177,South,Kentucky,Fort Thomas,Petrol,Individual,Manual,First_Owner,17.57,1193,88.7,140Nm@ 1500-4000rpm,5,N
+561,Tata,2018,25000,West,Colorado,Thornton,Petrol,Individual,Manual,First_Owner,17.0,1198,108.5,170Nm@ 1750-4000rpm,5,N
+562,Hyundai,2010,90000,East,Ohio,Grove City,Petrol,Individual,Manual,Fourth_Above_Owner,17.0,1197,80.0,"11.4 kgm at 4,000 rpm",5,Y
+563,Hyundai,2017,47000,West,California,Foster City,Diesel,Individual,Manual,Second_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+564,Mahindra,2016,60000,Central,Illinois,Bolingbrook,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,N
+565,Maruti,2011,120000,West,California,Santa Clara,Diesel,Individual,Manual,Third_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+566,Maruti,2013,35000,East,Massachusetts,Lowell,Petrol,Individual,Manual,First_Owner,19.1,1197,85.8,114Nm@ 4000rpm,5,N
+567,Mahindra,2019,25000,East,New York,Long Beach,Petrol,Individual,Manual,First_Owner,18.15,1198,82.0,115Nm@ 3500-3600rpm,6,N
+568,Datsun,2019,35000,Central,Michigan,Redford,Petrol,Individual,Manual,First_Owner,19.83,1198,67.0,104Nm@ 4000rpm,5,N
+569,Tata,2014,45000,East,Ohio,Fairfield,Diesel,Individual,Manual,First_Owner,19.1,1405,70.0,135.4Nm@ 2500rpm,5,N
+570,Maruti,2014,35000,South,Florida,Miami,Petrol,Individual,Manual,First_Owner,19.1,1197,85.8,114Nm@ 4000rpm,5,Y
+571,Hyundai,2018,35000,East,New York,Shirley,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+572,Maruti,2016,100000,East,New York,Harrison,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+573,Maruti,2011,50600,Central,Texas,Pharr,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+574,Toyota,2016,69500,Central,Kansas,Manhattan,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,8,N
+575,Toyota,2013,45000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,23.59,1364,67.06,170Nm@ 1800-2400rpm,5,Y
+576,Maruti,2018,22000,West,Utah,Kaysville,Petrol,Individual,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+577,Ford,2010,50000,Central,Kansas,Leavenworth,Diesel,Individual,Manual,Second_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,Y
+578,Hyundai,2014,80000,Central,Texas,Plano,Diesel,Individual,Manual,Second_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+579,Mahindra,2015,173000,Central,Oklahoma,Moore,Diesel,Individual,Manual,First_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,N
+580,Honda,2016,56494,South,Kentucky,Danville,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+581,Maruti,2014,81000,East,New Jersey,Lodi,Diesel,Dealer,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+582,Ford,2006,114321,West,Arizona,Phoenix,Diesel,Individual,Manual,Second_Owner,17.8,1399,68.0,"16.3@ 2,000(kgm@ rpm)",5,N
+583,Hyundai,2016,40000,Central,Texas,Saginaw,Petrol,Dealer,Automatic,First_Owner,14.8,1591,121.3,151NM@ 4850rpm,5,N
+584,Chevrolet,2015,70000,East,Ohio,Medina,Diesel,Individual,Manual,First_Owner,13.58,2499,72.4,171Nm@ 1800rpm,9,N
+585,Maruti,2005,140000,East,New York,Ossining,Petrol,Individual,Manual,Second_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,Y
+586,Toyota,2013,79328,West,Montana,Billings,Diesel,Trustmark_Dealer,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,7,N
+587,Maruti,2014,80000,Central,Michigan,Lansing,Petrol,Individual,Manual,First_Owner,16.8,796,34.2,59Nm@ 2500rpm,8,N
+588,Hyundai,2016,39000,Central,Illinois,Melrose Park,Diesel,Dealer,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+589,Toyota,2013,79328,West,Washington,Puyallup,Diesel,Trustmark_Dealer,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1200-3600rpm,7,N
+590,Maruti,2016,120000,South,Alabama,Florence,Petrol,Individual,Manual,First_Owner,15.37,1196,73.0,101Nm@ 3000rpm,5,N
+591,Hyundai,2013,88000,West,California,Lakewood,Diesel,Individual,Manual,Second_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+592,Hyundai,2011,62000,East,Ohio,Mentor,Diesel,Individual,Automatic,Second_Owner,11.72,2199,194.3,436.4Nm@ 1800-2500rpm,7,N
+593,Mercedes,2014,27800,East,New York,New York City,Diesel,Dealer,Automatic,Second_Owner,14.8,2143,120.7,200Nm@ 1250-4000rpm,5,Y
+594,Mahindra,2011,120000,South,Florida,Casselberry,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+595,Honda,2015,80000,East,Maine,Gorham,Diesel,Individual,Manual,First_Owner,26.0,1498,98.6,200Nm@ 1750rpm,5,Y
+596,Mahindra,2013,110000,Central,Kansas,Emporia,Diesel,Individual,Manual,Second_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,8,N
+597,Maruti,2015,50000,South,Louisiana,Marrero,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+598,Tata,2018,80000,South,Louisiana,Baton Rouge,Diesel,Individual,Manual,First_Owner,22.95,1248,74.0,190Nm@ 1750-3000rpm,5,N
+599,Mahindra,2010,120000,Central,Texas,Austin,Diesel,Individual,Manual,First_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,7,N
+600,Toyota,2014,80000,East,New York,Schenectady,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1400-3400rpm,8,N
+601,Mahindra,2014,24000,East,Ohio,Upper Arlington,Diesel,Individual,Manual,First_Owner,16.55,2498,105.0,247Nm@ 1800-2000rpm,6,N
+602,Maruti,2012,88000,West,Nevada,Carson City,Petrol,Individual,Manual,First_Owner,17.5,1298,85.8,114Nm@ 4000rpm,5,N
+603,Renault,2019,6500,South,South Carolina,Anderson,Petrol,Individual,Manual,First_Owner,20.0,999,72.0,96Nm@ 3500rpm,7,N
+604,Jaguar,2017,45000,East,New York,New York City,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,Y
+605,Hyundai,2018,40000,East,Maryland,Waldorf,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+606,Maruti,2016,81000,Central,Michigan,Port Huron,Diesel,Dealer,Manual,Second_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+607,Maruti,2012,72072,East,Pennsylvania,Hazleton,Diesel,Dealer,Manual,First_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+608,Maruti,2016,60000,West,California,Los Angeles,Diesel,Individual,Manual,Second_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,Y
+609,Volkswagen,2013,50000,East,Pennsylvania,Monroeville,Petrol,Individual,Manual,Fourth_Above_Owner,16.47,1198,73.9,110Nm@ 3750rpm,5,Y
+610,Toyota,2018,60000,East,New Jersey,Hoboken,Diesel,Individual,Automatic,First_Owner,15.04,2755,174.5,450Nm@ 1600-2400rpm,7,N
+611,Mahindra,2017,35000,West,California,El Centro,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+612,Mahindra,2019,28000,East,New Jersey,Elmwood Park,Diesel,Individual,Manual,First_Owner,15.1,2179,152.87,360Nm@ 1750-2800rpm,7,N
+613,Mahindra,2016,90000,East,New York,New York City,Diesel,Individual,Manual,Second_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,Y
+614,Maruti,2013,60000,West,California,El Dorado Hills,Petrol,Individual,Manual,Second_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+615,Hyundai,2017,19000,West,California,Santa Maria,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+616,Hyundai,2015,60000,Central,Michigan,Grand Rapids,Diesel,Individual,Manual,Second_Owner,24.8,1396,88.7,219.7Nm@ 1750-2750rpm,5,N
+617,Chevrolet,2016,30000,East,District of Columbia,Washington,Petrol,Individual,Manual,First_Owner,18.2,1199,82.4,108.5Nm@ 5000rpm,5,Y
+618,Maruti,2019,19000,Central,Iowa,Sioux City,Petrol,Individual,Automatic,Second_Owner,20.89,1197,81.8,113Nm@ 4200rpm,5,N
+619,Maruti,2017,10000,East,West Virginia,Clarksburg,Petrol,Individual,Automatic,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N
+620,Maruti,2017,30000,East,Pennsylvania,Philadelphia,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,Y
+621,Honda,2014,160000,South,Florida,Riviera Beach,Diesel,Individual,Manual,First_Owner,25.1,1498,98.6,200Nm@ 1750rpm,5,N
+622,Tata,2017,35000,East,New York,Freeport,Diesel,Individual,Manual,First_Owner,21.5,1497,108.5,260Nm@ 1500-2750rpm,5,N
+623,Mahindra,2011,142000,Central,Texas,Friendswood,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+624,Hyundai,2012,70000,East,Maine,South Portland,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+625,Maruti,2017,13500,East,District of Columbia,Washington,Petrol,Individual,Manual,First_Owner,15.37,1196,73.0,101Nm@ 3000rpm,5,Y
+626,Fiat,2014,39395,East,New Jersey,Westfield,Diesel,Individual,Manual,First_Owner,21.2,1248,75.0,197Nm@ 1750rpm,5,N
+627,Hyundai,2013,80000,East,New York,New York City,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,Y
+628,Maruti,2012,80000,East,Ohio,Dublin,Petrol,Individual,Manual,Third_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+629,Tata,2013,120000,Central,Texas,Conroe,Diesel,Individual,Manual,Second_Owner,22.3,1248,74.0,190Nm@ 1750-3000rpm,5,N
+630,Honda,2016,56494,Central,Nebraska,Norfolk,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+631,Hyundai,2017,20000,South,North Carolina,Wilson,Petrol,Individual,Manual,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+632,Hyundai,2016,40000,Central,Iowa,Fort Dodge,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,Y
+633,Maruti,2014,80000,Central,Michigan,Detroit,Petrol,Individual,Manual,Second_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,Y
+634,Hyundai,2018,27000,Central,Illinois,Des Plaines,Petrol,Individual,Manual,First_Owner,15.8,1591,121.3,151Nm@ 4850rpm,5,N
+635,Hyundai,2016,57882,East,New York,New City,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+636,Ford,2010,86017,East,New York,New York City,Diesel,Dealer,Manual,Second_Owner,25.5,1498,99.23,215Nm@ 1750-3000,5,Y
+637,Mahindra,2015,90000,East,District of Columbia,Washington,Diesel,Individual,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,Y
+638,Skoda,2016,11000,Central,Michigan,Inkster,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,N
+639,Hyundai,2015,80000,Central,Illinois,Saint Charles,Diesel,Individual,Manual,First_Owner,23.9,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+640,Hyundai,2018,40142,South,Arkansas,Benton,Diesel,Dealer,Manual,First_Owner,24.4,1120,71.0,180.4Nm@ 1750-2500rpm,5,N
+641,Mahindra,2013,160000,South,Louisiana,Lake Charles,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+642,Chevrolet,2011,60000,Central,Missouri,Kansas City,Petrol,Individual,Manual,Second_Owner,14.49,1399,92.7,127Nm@ 3500rpm,5,N
+643,Maruti,2017,35000,West,California,Manteca,Petrol,Individual,Automatic,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,N
+644,Mahindra,2016,72000,West,Arizona,Mesa,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,N
+645,Volkswagen,2017,34000,Central,Texas,Farmers Branch,Diesel,Individual,Automatic,First_Owner,22.0,1498,108.495,250Nm@ 1500-3000rpm,5,N
+646,Hyundai,2017,48000,East,New York,Shirley,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+647,Mahindra,2016,60000,Central,Indiana,Schererville,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,N
+648,Maruti,2015,147000,West,California,San Francisco,Diesel,Individual,Manual,Second_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,Y
+649,Hyundai,2016,60000,Central,Oklahoma,Tulsa,Petrol,Individual,Manual,First_Owner,20.3,998,68.05,94.14Nm@ 3500rpm,5,N
+650,Hyundai,2010,70000,South,Alabama,Bessemer,Petrol,Individual,Manual,Second_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,N
+651,Mahindra,2008,110000,West,California,San Clemente,Diesel,Individual,Manual,First_Owner,12.7,2609,116.6,"28.3@ 1,700-2,200(kgm@ rpm)",8,N
+652,Tata,2011,150000,Central,Illinois,Chicago,Petrol,Individual,Manual,First_Owner,12.8,1396,85.0,"12@ 3,500(kgm@ rpm)",5,Y
+653,Hyundai,2017,15000,West,Washington,Walla Walla,Diesel,Individual,Manual,First_Owner,23.9,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+654,Hyundai,2006,140000,South,Tennessee,Clarksville,Petrol,Individual,Manual,Second_Owner,14.4,1599,94.0,12.5kgm@ 3500rpm,5,N
+655,Volkswagen,2014,120000,West,California,Redlands,Diesel,Individual,Manual,Second_Owner,20.14,1498,88.8,230Nm@ 1500-2500rpm,5,N
+656,Toyota,2012,110000,East,New Jersey,Elizabeth,Diesel,Dealer,Manual,First_Owner,23.59,1364,67.04,170Nm@ 1800-2400rpm,5,N
+657,Datsun,2017,65000,South,Florida,Apopka,Petrol,Dealer,Manual,First_Owner,19.02,1198,67.05,104Nm@ 4000rpm,7,N
+658,Volkswagen,2011,72000,East,Massachusetts,Boston,Diesel,Individual,Manual,Second_Owner,20.54,1598,103.6,250Nm@ 1500-2500rpm,5,Y
+659,Mahindra,2017,90000,South,Virginia,Newport News,Diesel,Individual,Manual,First_Owner,16.5,1493,70.0,195Nm@ 1400-2200rpm,7,N
+660,Hyundai,2014,10000,South,Florida,Oviedo,Petrol,Individual,Manual,First_Owner,20.3,998,68.05,94.14Nm@ 3500rpm,5,N
+661,Toyota,2013,52380,Central,Texas,Carrollton,Diesel,Dealer,Manual,First_Owner,23.59,1364,67.04,170Nm@ 1800-2400rpm,5,Y
+662,Chevrolet,2013,56000,East,New Jersey,Somerset,Diesel,Dealer,Manual,First_Owner,22.1,1248,74.0,190Nm@ 1750rpm,5,N
+663,Tata,2012,40000,Central,Michigan,Canton,Diesel,Individual,Manual,First_Owner,23.57,1396,70.0,140Nm@ 1800-3000rpm,5,Y
+664,Maruti,2019,5000,Central,Illinois,Chicago,Petrol,Individual,Automatic,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,Y
+665,Maruti,2018,30000,Central,Texas,Edinburg,Petrol,Individual,Manual,First_Owner,21.63,998,67.04,90Nm@ 3500rpm,5,N
+666,Maruti,2016,35000,South,Arkansas,North Little Rock,Petrol,Individual,Automatic,First_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,Y
+667,Maruti,2019,5000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,Y
+668,Maruti,2007,35000,South,Louisiana,Marrero,Petrol,Individual,Manual,First_Owner,18.2,1061,64.0,84Nm@ 3500rpm,5,N
+669,Volkswagen,2016,120000,South,Florida,Land O Lakes,Petrol,Individual,Manual,Second_Owner,16.2,1199,74.0,110Nm@ 3000-4300rpm,5,N
+670,Maruti,2015,134000,West,Colorado,Pueblo,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+671,Maruti,2018,9000,West,New Mexico,Alamogordo,Petrol,Dealer,Manual,First_Owner,19.1,1197,85.8,114Nm@ 4000rpm,5,N
+672,BMW,2019,8500,Central,Texas,Spring,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+673,Maruti,2017,70000,East,Massachusetts,Walpole,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+674,Honda,2019,7032,Central,Minnesota,Mankato,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,N
+675,Maruti,2011,40000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,Y
+676,Tata,2014,120000,West,California,Granite Bay,Diesel,Individual,Manual,First_Owner,19.1,1405,70.0,135.4Nm@ 2500rpm,5,N
+677,Ford,2015,109000,West,Washington,Bellevue,Diesel,Dealer,Manual,First_Owner,22.7,1498,89.84,204Nm@ 2000-2750rpm,5,N
+678,Hyundai,2018,6000,West,Colorado,Parker,Petrol,Individual,Manual,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+679,Hyundai,2017,186000,Central,Nebraska,North Platte,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+680,Toyota,2012,145000,Central,Indiana,Bloomington,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.0,200Nm@ 1400-3400rpm,8,Y
+681,Maruti,2015,30000,Central,Iowa,Fort Dodge,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,Y
+682,Hyundai,2010,90000,Central,Wisconsin,Kenosha,Diesel,Individual,Manual,Second_Owner,23.0,1396,90.0,22.4 kgm at 1750-2750rpm,5,N
+683,Mahindra,2012,210000,Central,Illinois,Elmhurst,Diesel,Individual,Manual,First_Owner,17.21,1493,100.0,240Nm@ 1600-2800rpm,7,N
+684,Hyundai,2017,20000,South,Florida,Saint Cloud,Diesel,Individual,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+685,Maruti,2003,121000,East,New Jersey,North Bergen,Petrol,Individual,Manual,First_Owner,17.3,993,60.0,78Nm@ 4500rpm,5,N
+686,Chevrolet,2009,230000,West,Utah,Roy,Diesel,Individual,Manual,Second_Owner,13.58,2499,72.4,171Nm@ 1800rpm,9,N
+687,Maruti,2017,23000,East,Ohio,Dayton,Petrol,Individual,Manual,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N
+688,Honda,2014,27233,West,Oregon,Oregon City,Diesel,Dealer,Manual,First_Owner,27.4,1498,98.63,200Nm@ 1750rpm,5,N
+689,Mahindra,2013,110000,East,New York,Commack,Diesel,Individual,Manual,Second_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+690,Renault,2016,30000,West,Arizona,Peoria,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+691,Mercedes,2019,17000,South,Louisiana,Baton Rouge,Petrol,Dealer,Automatic,First_Owner,15.0,1991,194.4,300Nm@ 1600-4000rpm,5,N
+692,Chevrolet,2011,250000,East,Maine,South Portland,Diesel,Individual,Manual,Second_Owner,14.8,2499,80.0,"19@ 1,800(kgm@ rpm)",7,N
+693,Chevrolet,2011,70000,Central,Texas,Euless,Diesel,Individual,Manual,Fourth_Above_Owner,25.44,936,57.6,150Nm@ 1750rpm,5,N
+694,Maruti,2011,100000,South,Kentucky,Murray,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+695,Hyundai,2013,144000,South,Virginia,Winchester,Diesel,Individual,Manual,First_Owner,21.9,1396,88.8,219.7Nm@ 1500-2750rpm,5,N
+696,Hyundai,2018,26000,East,Ohio,Kettering,Diesel,Individual,Manual,First_Owner,25.4,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+697,Hyundai,2011,35000,East,Ohio,Sandusky,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+698,Honda,2008,110000,East,Maine,Sanford,Petrol,Individual,Manual,Second_Owner,17.7,1497,78.0,"12.7@ 2,700(kgm@ rpm)",5,N
+699,Toyota,2016,68089,South,Georgia,Evans,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,Y
+700,Jaguar,2017,45000,West,Idaho,Lewiston,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,Y
+701,Maruti,2017,50000,East,New Jersey,Newark,Petrol,Individual,Manual,First_Owner,16.8,796,34.2,59Nm@ 2500rpm,5,Y
+702,Skoda,2015,120000,East,Ohio,Toledo,Diesel,Individual,Manual,First_Owner,21.14,1498,103.52,250Nm@ 1500-2500rpm,5,N
+703,Honda,2014,120000,West,Washington,Seattle,Petrol,Individual,Manual,First_Owner,17.4,1497,117.3,145Nm@ 4600rpm,5,Y
+704,Hyundai,2012,90000,West,Arizona,Surprise,Petrol,Individual,Manual,Second_Owner,17.92,1086,62.1,96.1Nm@ 3000rpm,5,N
+705,Hyundai,2009,60000,Central,Indiana,New Albany,Petrol,Individual,Automatic,Second_Owner,15.0,1396,100.0,13.9 kgm at 4200 rpm,5,N
+706,Maruti,2008,70000,Central,Texas,Kingsville,Petrol,Individual,Manual,Fourth_Above_Owner,19.7,796,35.0,6.1kgm@ 3000rpm,8,N
+707,Volkswagen,2011,120000,Central,Oklahoma,Enid,Diesel,Individual,Manual,First_Owner,22.07,1199,73.9,180Nm@ 2000rpm,5,N
+708,Mahindra,2013,173000,Central,Iowa,Burlington,Diesel,Individual,Manual,First_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,7,N
+709,Mahindra,2014,60000,West,California,West Hollywood,Diesel,Individual,Manual,Second_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+710,Hyundai,2010,80000,Central,Minnesota,Brooklyn Park,Petrol,Individual,Manual,Third_Owner,20.36,1197,78.9,111.8Nm@ 4000rpm,5,Y
+711,Mahindra,2015,80000,Central,Minnesota,Cottage Grove,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+712,Tata,2007,150000,Central,Missouri,Springfield,Diesel,Individual,Manual,Second_Owner,17.2,1396,53.5,"8.5@ 2,500(kgm@ rpm)",5,N
+713,Mahindra,2018,24000,Central,Texas,Rowlett,Diesel,Dealer,Manual,First_Owner,15.1,2179,152.87,360Nm@ 1750-2800rpm,7,N
+714,Maruti,2019,15000,West,Washington,Seattle,Petrol,Individual,Manual,First_Owner,23.95,998,67.1,90Nm@ 3500rpm,5,Y
+715,Mahindra,2016,100000,West,Arizona,Avondale,Diesel,Individual,Manual,Second_Owner,25.32,1198,77.0,190Nm@ 1750-2250rpm,6,N
+716,Maruti,2014,40000,Central,Texas,Rowlett,Petrol,Individual,Manual,Second_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+717,Hyundai,2014,70000,Central,Texas,Deer Park,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+718,Maruti,2016,23700,East,Maryland,Annapolis,Petrol,Individual,Manual,First_Owner,20.4,1197,81.8,113Nm@ 4200rpm,5,N
+719,Hyundai,2010,50000,Central,Illinois,Mundelein,Petrol,Individual,Manual,Second_Owner,18.5,1197,80.0,"11.4 kgm at 4,000 rpm",5,N
+720,Hyundai,2018,46000,Central,Michigan,Lincoln Park,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+721,BMW,2019,8500,South,Florida,Seminole,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,Y
+722,Mitsubishi,2008,100000,West,California,Morgan Hill,Diesel,Individual,Manual,First_Owner,14.8,1998,68.0,"12.5@ 3,000(kgm@ rpm)",5,N
+723,Maruti,2014,70000,Central,Illinois,Granite City,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+724,Tata,2015,110000,East,New Jersey,Orange,Diesel,Individual,Manual,First_Owner,14.1,2179,147.94,320Nm@ 1500-3000rpm,7,N
+725,Volvo,2019,20000,South,North Carolina,Greensboro,Diesel,Individual,Automatic,First_Owner,18.0,1969,190.0,400Nm,5,Y
+726,Mahindra,2018,40000,Central,Nebraska,La Vista,Diesel,Individual,Manual,First_Owner,16.0,2179,138.0,330Nm@ 1600-2800rpm,7,N
+727,Maruti,2017,65000,Central,Minnesota,Moorhead,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+728,Hyundai,2008,60000,West,Colorado,Fort Collins,Petrol,Individual,Manual,Second_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,N
+729,Hyundai,2011,105000,West,Arizona,Gilbert,Diesel,Individual,Manual,Second_Owner,21.9,1396,90.0,22.4 kgm at 1750-2750rpm,5,N
+730,Hyundai,2013,40000,South,Georgia,Forest Park,Petrol,Individual,Manual,First_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,N
+731,Maruti,2014,25000,South,Kentucky,Paducah,Petrol,Individual,Manual,First_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,N
+732,Ford,2016,35000,South,Florida,Palm Coast,Diesel,Individual,Manual,Second_Owner,22.77,1498,98.59,205Nm@ 1750-3250rpm,5,N
+733,Maruti,2018,38817,Central,Texas,Eagle Pass,Diesel,Dealer,Manual,First_Owner,27.39,1248,74.0,190Nm@ 2000rpm,5,N
+734,Maruti,2014,40000,South,North Carolina,Raleigh,Petrol,Individual,Manual,Second_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+735,Renault,2016,120000,East,Maine,South Portland,Diesel,Individual,Manual,First_Owner,19.87,1461,83.8,200Nm@ 1750rpm,5,N
+736,Mercedes,2016,70000,East,Vermont,Bennington,Diesel,Dealer,Automatic,First_Owner,12.0,2987,224.0,510Nm@ 1600-2800rpm,7,N
+737,Hyundai,2018,13887,Central,Missouri,Kansas City,Petrol,Individual,Manual,First_Owner,17.0,1591,121.3,151Nm@ 4850rpm,5,N
+738,Maruti,2019,24000,Central,Illinois,Joliet,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,Y
+739,Hyundai,2011,150000,South,Kentucky,Richmond,Diesel,Individual,Manual,Fourth_Above_Owner,23.0,1396,90.0,22.4 kgm at 1750-2750rpm,5,N
+740,Maruti,2016,23400,East,New York,Cohoes,Petrol,Individual,Manual,Second_Owner,23.95,998,67.1,90Nm@ 3500rpm,5,N
+741,Hyundai,2019,13000,South,Georgia,Kennesaw,Diesel,Individual,Manual,First_Owner,22.54,1396,88.76,224nm@ 1500-2750rpm,5,N
+742,Hyundai,2016,94000,West,Utah,Midvale,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+743,Maruti,2015,50000,East,New York,Deer Park,Diesel,Individual,Manual,First_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,Y
+744,Ford,2019,10000,East,Massachusetts,Boston,Petrol,Individual,Manual,First_Owner,19.0,1194,94.68,120Nm@ 4250rpm,5,Y
+745,Hyundai,2007,120000,Central,Michigan,Owosso,Petrol,Individual,Manual,Second_Owner,17.8,1086,63.0,"9.8@ 3,000(kgm@ rpm)",5,N
+746,Mahindra,2016,120000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,11.0,2179,120.0,280Nm@ 1800-2800rpm,5,Y
+747,Toyota,2016,30000,West,California,San Luis Obispo,Diesel,Individual,Automatic,First_Owner,11.36,2755,171.5,360Nm@ 1200-3400rpm,7,N
+748,Honda,2018,8576,Central,Iowa,Council Bluffs,Petrol,Dealer,Manual,First_Owner,18.7,1199,88.7,110Nm@ 4800rpm,5,N
+749,Audi,2017,8000,South,Arkansas,Van Buren,Petrol,Dealer,Automatic,First_Owner,16.6,1798,177.5,250Nm@ 1250-5000rpm,5,N
+750,Honda,2015,43000,Central,Texas,Cedar Hill,Petrol,Dealer,Manual,First_Owner,18.7,1199,88.7,110Nm@ 4800rpm,5,Y
+751,Mahindra,2011,475000,East,Maryland,Middle River,Diesel,Individual,Manual,Third_Owner,13.5,2179,115.0,277.5Nm@ 1700-2200rpm,5,N
+752,Mahindra,2012,200000,South,Florida,Tamarac,Diesel,Individual,Manual,Fourth_Above_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+753,Tata,2017,80000,East,Connecticut,Newington,Diesel,Individual,Manual,First_Owner,22.95,1248,74.0,190Nm@ 1750-3000rpm,5,N
+754,Mahindra,2016,140000,East,New York,New York City,Diesel,Individual,Manual,Second_Owner,14.02,2179,118.3,280Nm@ 2400-2800rpm,7,Y
+755,Maruti,2014,90000,South,Tennessee,Nashville,CNG,Individual,Manual,First_Owner,21.94,1196,63.0,83Nm@ 3000rpm,5,N
+756,Volkswagen,2012,95000,East,New Jersey,Colonia,Diesel,Individual,Manual,First_Owner,19.7,1598,103.6,250Nm@ 1500-2500rpm,5,N
+757,Hyundai,2016,120000,West,Washington,Pullman,Diesel,Individual,Manual,First_Owner,23.9,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+758,Hyundai,2017,30000,South,Tennessee,Gallatin,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,Y
+759,Hyundai,2017,25000,West,Nevada,North Las Vegas,Petrol,Individual,Manual,First_Owner,20.3,998,68.05,94.14Nm@ 3500rpm,5,N
+760,Maruti,2018,8000,West,Idaho,Twin Falls,Petrol,Individual,Automatic,Second_Owner,20.51,998,67.0,90Nm@ 3500rpm,5,N
+761,Tata,2007,50000,South,Florida,Sanford,Diesel,Individual,Manual,First_Owner,17.88,1396,52.8,85Nm@ 2500rpm,5,N
+762,Hyundai,2012,50000,Central,Illinois,Batavia,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+763,Hyundai,2016,80000,West,Colorado,Wheat Ridge,Diesel,Individual,Manual,First_Owner,21.19,1396,88.73,220Nm@ 1500-2750rpm,5,N
+764,Hyundai,2017,29000,Central,Indiana,Hobart,Diesel,Dealer,Manual,Second_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+765,Tata,2018,50000,Central,Indiana,Schererville,Petrol,Individual,Manual,First_Owner,23.84,1199,84.0,114Nm@ 3500rpm,5,N
+766,Maruti,2016,100000,West,California,Riverside,Diesel,Individual,Manual,Second_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+767,Ford,2017,76139,East,New York,New York City,Diesel,Individual,Manual,First_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,Y
+768,Maruti,2018,28000,South,Georgia,Newnan,Petrol,Dealer,Manual,First_Owner,16.1,1197,85.0,"113Nm@ 4,500rpm",5,N
+769,Maruti,2007,90000,West,Washington,Parkland,LPG,Individual,Manual,Second_Owner,17.3,1061,57.5,"7.8@ 4,500(kgm@ rpm)",5,Y
+770,Toyota,2012,100000,Central,Michigan,Detroit,Petrol,Individual,Automatic,First_Owner,14.53,1794,138.1,173Nm@ 4000rpm,5,Y
+771,Skoda,2016,11000,East,Ohio,Cleveland Heights,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,Y
+772,Maruti,2018,47000,South,Florida,Apopka,Petrol,Dealer,Manual,Second_Owner,16.02,1373,93.7,130Nm@ 4000rpm,7,N
+773,Tata,2012,28000,West,California,Rancho Cucamonga,Petrol,Individual,Manual,Second_Owner,25.4,624,37.5,51Nm@ 4000+/-500rpm,4,N
+774,Mahindra,2015,50000,West,California,San Francisco,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+775,Maruti,2016,100000,East,Ohio,Lancaster,Diesel,Individual,Manual,Second_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+776,Chevrolet,2016,15000,East,New Jersey,Fords,Petrol,Individual,Manual,First_Owner,18.6,1199,76.8,106.5Nm@ 4400rpm,5,N
+777,Volvo,2019,20000,West,California,Pacifica,Diesel,Individual,Automatic,First_Owner,18.0,1969,190.0,400Nm,5,N
+778,Hyundai,2018,71500,South,Florida,Palm Coast,Diesel,Dealer,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+779,Mahindra,2009,150000,West,California,Davis,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,Y
+780,Chevrolet,2014,74321,Central,Illinois,Rockford,Diesel,Dealer,Manual,First_Owner,25.44,936,56.3,142.5Nm@ 1750rpm,5,N
+781,Toyota,2010,216000,South,Florida,Tampa,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,Y
+782,Toyota,2011,60000,Central,Illinois,Hoffman Estates,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,Y
+783,Mahindra,2014,69000,Central,Nebraska,Lincoln,Diesel,Dealer,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+784,Hyundai,2018,10000,Central,Missouri,Saint Charles,Petrol,Individual,Automatic,First_Owner,20.3,1086,68.0,99Nm@ 4500rpm,5,N
+785,Mahindra,2012,70000,Central,Oklahoma,Norman,Diesel,Individual,Manual,Second_Owner,20.8,1461,65.0,160Nm@ 2000rpm,5,Y
+786,Maruti,2013,100000,Central,Michigan,Detroit,Diesel,Individual,Manual,Second_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+787,Maruti,2007,70000,Central,Minnesota,Apple Valley,Petrol,Individual,Manual,Second_Owner,18.9,1061,67.0,84Nm@ 3500rpm,5,N
+788,Maruti,2009,77000,East,District of Columbia,Washington,Petrol,Dealer,Manual,Second_Owner,21.79,998,67.05,90Nm@ 3500rpm,5,Y
+789,Maruti,2018,50000,West,New Mexico,Hobbs,CNG,Individual,Manual,First_Owner,21.94,1196,61.7,85Nm@ 3000rpm,5,N
+790,Toyota,2012,85000,South,Louisiana,Monroe,Diesel,Individual,Manual,First_Owner,21.43,1364,87.2,205Nm@ 1800-2800rpm,5,N
+791,Honda,2014,60000,East,Maine,Sanford,Petrol,Individual,Manual,First_Owner,17.8,1497,117.3,145Nm@ 4600rpm,5,N
+792,Hyundai,2014,80000,South,Arkansas,Cabot,Petrol,Individual,Manual,First_Owner,19.1,1197,82.0,114Nm@ 4000rpm,5,N
+793,Maruti,2015,50000,Central,Illinois,Oak Forest,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+794,Maruti,2011,48756,Central,Texas,Plainview,Petrol,Individual,Manual,Second_Owner,15.5,1586,103.3,145Nm@ 4100rpm,5,N
+795,Maruti,2017,41232,West,Oregon,Oregon City,Diesel,Dealer,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+796,Renault,2018,10800,West,Colorado,Aurora,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+797,Tata,2009,30000,South,Kentucky,Pleasure Ridge Park,Diesel,Individual,Manual,First_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,N
+798,Toyota,2017,98000,West,Colorado,Englewood,Diesel,Dealer,Manual,First_Owner,13.68,2393,147.51,343Nm@ 1400-2800rpm,7,N
+799,Maruti,2011,35000,South,Florida,North Miami Beach,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+800,Hyundai,2019,20000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,Y
+801,Maruti,2006,100000,Central,Wisconsin,Oshkosh,Petrol,Individual,Automatic,Second_Owner,16.0,1061,64.0,"8.6@ 3,500(kgm@ rpm)",5,N
+802,Hyundai,2012,100000,South,Florida,Daytona Beach,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+803,Hyundai,2017,56290,South,Georgia,Douglasville,Diesel,Dealer,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+804,Maruti,2017,110000,West,Utah,Salt Lake City,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+805,Maruti,2017,60000,Central,Illinois,Kankakee,Diesel,Individual,Manual,First_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+806,Maruti,2006,70000,East,Massachusetts,Lexington,Petrol,Individual,Manual,Second_Owner,15.9,1298,85.0,110Nm@ 4500rpm,5,N
+807,Hyundai,2019,10000,East,Massachusetts,Sudbury,Petrol,Individual,Manual,First_Owner,17.19,1197,81.86,114.73Nm@ 4000rpm,5,N
+808,Tata,2015,25000,East,Maryland,Pikesville,Petrol,Individual,Manual,First_Owner,25.4,624,37.5,51Nm@ 4000+/-500rpm,4,N
+809,Mahindra,2013,120000,Central,Indiana,Elkhart,Diesel,Individual,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+810,Tata,2010,100000,West,California,Los Angeles,Diesel,Individual,Manual,Second_Owner,17.0,1405,70.0,"13.5@ 2,500(kgm@ rpm)",5,Y
+811,Mahindra,2015,110000,West,Arizona,Tempe,Diesel,Individual,Manual,Second_Owner,15.4,2523,75.0,200Nm@ 1400-2200rpm,9,N
+812,Toyota,2018,4295,Central,Michigan,Burton,Petrol,Trustmark_Dealer,Manual,First_Owner,17.1,1496,105.5,140Nm@ 4200rpm,5,Y
+813,Maruti,2019,33000,West,Washington,Burien,Petrol,Individual,Automatic,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,N
+814,Tata,2019,35000,South,Arkansas,Bella Vista,Diesel,Individual,Manual,First_Owner,22.95,1248,74.0,190Nm@ 1750-3000rpm,5,N
+815,Maruti,2011,65000,Central,North Dakota,Grand Forks,Petrol,Individual,Manual,Second_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,N
+816,Maruti,2019,70000,Central,Michigan,Jackson,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+817,Tata,2011,80000,West,Colorado,Louisville,Diesel,Individual,Manual,First_Owner,17.0,1405,71.0,135Nm@ 2500rpm,5,N
+818,Maruti,2013,58343,Central,Kansas,Derby,Petrol,Trustmark_Dealer,Manual,First_Owner,21.79,998,67.05,90Nm@ 3500rpm,5,N
+819,Hyundai,2016,38000,South,Virginia,Salem,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+820,Tata,2010,90000,Central,Illinois,Elmhurst,Diesel,Individual,Manual,First_Owner,14.0,1948,90.0,190Nm@ 2000-3000,9,N
+821,Mahindra,2017,32000,West,California,Fairfield,Petrol,Individual,Manual,Second_Owner,18.15,1198,82.0,115Nm@ 3500-3600rpm,6,N
+822,Chevrolet,2012,110000,East,Massachusetts,Boston,Diesel,Individual,Manual,First_Owner,25.44,936,57.6,150Nm@ 1750rpm,5,Y
+823,Mahindra,2015,77000,East,Pennsylvania,McKeesport,Diesel,Individual,Automatic,Second_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,N
+824,Tata,2011,70000,Central,Wisconsin,Superior,Petrol,Individual,Manual,First_Owner,15.64,1193,64.1,100Nm@ 2700rpm,5,N
+825,Volvo,2018,2000,South,Arkansas,Paragould,Diesel,Dealer,Automatic,First_Owner,16.8,1984,150.0,350Nm@ 1500-2750rpm,5,Y
+826,Maruti,2015,30000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,20.4,1197,81.8,113Nm@ 4200rpm,5,Y
+827,Mahindra,2017,142000,South,Virginia,Rose Hill,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+828,Hyundai,2014,160000,West,Washington,Bellevue,Diesel,Dealer,Manual,Third_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,N
+829,Honda,2004,100000,Central,Texas,Houston,Petrol,Individual,Automatic,Second_Owner,9.0,2997,218.0,196Nm@ 5000rpm,5,Y
+830,Toyota,2015,68000,Central,Indiana,Jeffersonville,Diesel,Individual,Manual,First_Owner,12.99,2494,100.6,200Nm@ 1400-3400rpm,7,N
+831,Maruti,2017,70000,Central,Indiana,La Porte,Petrol,Individual,Manual,First_Owner,20.85,1197,83.14,115Nm@ 4000rpm,5,N
+832,Chevrolet,2016,100000,Central,Iowa,Sioux City,Diesel,Individual,Manual,First_Owner,13.58,2499,72.4,171Nm@ 1800rpm,9,N
+833,Mahindra,2012,120000,Central,Texas,Mansfield,Diesel,Individual,Manual,Second_Owner,13.5,2179,115.0,277.5Nm@ 1700-2200rpm,5,N
+834,Hyundai,2014,33400,East,New Hampshire,Rochester,Petrol,Individual,Manual,First_Owner,17.43,1396,105.5,135.3Nm@ 5000rpm,5,N
+835,Mahindra,2012,110000,East,Pennsylvania,Philadelphia,Diesel,Individual,Manual,Second_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,Y
+836,Honda,2017,43000,Central,Illinois,Wheaton,Petrol,Dealer,Manual,First_Owner,15.4,1497,117.3,145Nm@ 4600rpm,7,N
+837,Honda,2011,80000,South,Tennessee,Oak Ridge,Petrol,Individual,Manual,Third_Owner,17.0,1497,118.0,146Nm at 4800 rpm,5,N
+838,Hyundai,2013,144000,South,Virginia,Winchester,Diesel,Individual,Manual,First_Owner,21.9,1396,88.8,219.7Nm@ 1500-2750rpm,5,N
+839,Maruti,2017,130000,Central,Michigan,Walker,Petrol,Individual,Manual,Second_Owner,19.0,1197,85.8,114Nm@ 4000rpm,5,N
+840,Hyundai,2018,10000,West,California,Davis,Petrol,Individual,Manual,Second_Owner,20.3,998,68.05,94.14Nm@ 3500rpm,5,N
+841,Maruti,2016,70000,West,California,Twentynine Palms,Diesel,Individual,Manual,First_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+842,Mahindra,2016,80000,East,New Hampshire,Derry,Diesel,Individual,Automatic,Second_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,N
+843,Maruti,2013,88200,East,New Jersey,Perth Amboy,Diesel,Individual,Manual,First_Owner,23.2,1248,73.94,190Nm@ 2000rpm,5,N
+844,Hyundai,2014,62000,West,Utah,Logan,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+845,Maruti,2016,108000,East,Ohio,Columbus,Diesel,Dealer,Manual,First_Owner,23.65,1248,88.5,200Nm@ 1750rpm,5,N
+846,Tata,2013,120000,West,Washington,Seattle,Diesel,Individual,Manual,Second_Owner,19.09,1405,69.01,135Nm@ 2500rpm,5,Y
+847,Maruti,2017,90000,East,District of Columbia,Washington,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,Y
+848,BMW,2019,7500,East,Maryland,Dundalk,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,Y
+849,Maruti,2011,80000,Central,Iowa,Newton,Petrol,Individual,Manual,Third_Owner,15.5,1586,103.3,145Nm@ 4100rpm,5,N
+850,Honda,2015,94000,West,Washington,Kent,Diesel,Individual,Manual,Second_Owner,24.5,1498,98.6,200Nm@ 1750rpm,7,N
+851,Hyundai,2020,20000,West,California,Goleta,Diesel,Individual,Manual,First_Owner,22.1,1396,88.7,219.7Nm@ 1500-2750rpm,5,N
+852,Volkswagen,2017,52000,Central,Illinois,Wilmette,Diesel,Individual,Manual,First_Owner,21.66,1498,108.62,250Nm@ 1500-3000rpm,5,Y
+853,Mercedes,2005,120005,Central,Texas,Brownsville,Diesel,Individual,Automatic,Second_Owner,11.0,2987,198.5,"46.5@ 1,400-2,800(kgm@ rpm)",5,Y
+854,Chevrolet,2016,60000,West,California,Los Gatos,Diesel,Individual,Manual,Second_Owner,22.1,1248,74.0,190Nm@ 1750rpm,5,Y
+855,Toyota,2007,170000,Central,South Dakota,Rapid City,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+856,Mahindra,2012,130000,Central,Wisconsin,Madison,Diesel,Individual,Manual,First_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+857,Hyundai,2015,120000,East,Pennsylvania,Hermitage,Diesel,Individual,Manual,First_Owner,24.4,1120,71.0,180.4Nm@ 1750-2500rpm,5,N
+858,Maruti,2015,14000,East,Massachusetts,Boston,Diesel,Individual,Manual,First_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,Y
+859,BMW,2018,28156,Central,Iowa,Ankeny,Diesel,Dealer,Automatic,First_Owner,17.09,2993,261.4,620Nm@ 2000-2500rpm,4,Y
+860,Maruti,2017,35000,Central,Minnesota,Moorhead,Diesel,Individual,Manual,First_Owner,27.39,1248,74.0,190Nm@ 2000rpm,5,N
+861,Mahindra,2011,120000,Central,Oklahoma,Norman,Diesel,Individual,Manual,Third_Owner,13.5,2179,115.0,277.5Nm@ 1700-2200rpm,5,Y
+862,Tata,2012,80000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,13.93,2179,138.03,320Nm@ 1700-2700rpm,7,Y
+863,Jeep,2018,24000,West,Idaho,Eagle,Diesel,Individual,Manual,First_Owner,17.1,1956,170.0,350Nm@ 1750-2500rpm,5,N
+864,Maruti,2012,120000,South,North Carolina,New Bern,Diesel,Individual,Manual,First_Owner,23.2,1248,73.94,190Nm@ 2000rpm,5,N
+865,Maruti,2015,40000,Central,Texas,Friendswood,Diesel,Dealer,Manual,First_Owner,26.21,1248,88.5,200Nm@ 1750rpm,5,N
+866,Mahindra,2013,100000,Central,Michigan,Dearborn,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1440-2200rpm,9,Y
+867,Tata,2013,70000,East,Ohio,Garfield Heights,Diesel,Individual,Manual,First_Owner,25.0,1396,69.0,140Nm@ 1800-3000rpm,5,N
+868,BMW,2011,84925,West,Nevada,Reno,Diesel,Individual,Automatic,First_Owner,16.07,1995,181.0,380Nm@ 1750-3000rpm,5,N
+869,Tata,2011,80000,South,Mississippi,Long Beach,Diesel,Individual,Manual,First_Owner,18.0,1248,75.0,190 Nm at 1750 rpm,5,N
+870,Volkswagen,2018,14495,Central,Texas,Rosenberg,Petrol,Dealer,Manual,First_Owner,18.78,999,75.0,95Nm@ 3000-4300rpm,5,N
+871,Maruti,2016,40000,East,Ohio,Elyria,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+872,Maruti,2016,70000,South,Florida,Palm Coast,Diesel,Individual,Manual,First_Owner,23.2,1248,73.94,190Nm@ 2000rpm,5,N
+873,Maruti,2010,120000,Central,Texas,El Paso,Diesel,Individual,Manual,First_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+874,Chevrolet,2017,40000,East,Ohio,Newark,Diesel,Individual,Manual,Second_Owner,18.2,1248,73.74,172.5Nm@ 1750rpm,7,N
+875,Ford,2020,5000,Central,Texas,Houston,Petrol,Individual,Manual,Second_Owner,19.0,1194,94.68,120Nm@ 4250rpm,5,Y
+876,Hyundai,2010,135000,South,Alabama,Enterprise,Diesel,Individual,Manual,Second_Owner,23.0,1396,90.0,22.4 kgm at 1750-2750rpm,5,N
+877,Maruti,2016,39000,Central,Michigan,Saginaw,Petrol,Individual,Manual,Third_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,N
+878,Hyundai,2017,2000,West,California,San Francisco,Diesel,Individual,Manual,Second_Owner,25.4,1186,73.97,190.25nm@ 1750-2250rpm,5,Y
+879,Renault,2017,65000,South,Alabama,Homewood,Diesel,Individual,Manual,Second_Owner,21.04,1461,83.8,200Nm@ 1900rpm,7,N
+880,Renault,2017,38000,Central,Texas,Brownsville,Petrol,Individual,Manual,First_Owner,23.01,999,67.0,91Nm@ 4250rpm,5,Y
+881,Tata,2011,100000,Central,North Dakota,Bismarck,Diesel,Individual,Manual,First_Owner,19.1,1405,70.0,135.4Nm@ 2500rpm,5,N
+882,Hyundai,2015,50000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,17.19,1197,81.86,114.73Nm@ 4000rpm,5,Y
+883,Hyundai,2016,7672,East,Pennsylvania,Levittown,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+884,Hyundai,2015,53000,Central,Iowa,Marshalltown,Diesel,Individual,Manual,First_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,N
+885,Datsun,2016,49000,South,Florida,Miami,Petrol,Dealer,Manual,First_Owner,19.02,1198,67.05,104Nm@ 4000rpm,5,Y
+886,Mahindra,2014,50000,East,New York,New York City,Diesel,Individual,Manual,Second_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,Y
+887,Hyundai,2013,70000,West,California,Woodland,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+888,Maruti,2018,30000,East,New York,Plainview,Petrol,Individual,Manual,First_Owner,21.63,998,67.04,90Nm@ 3500rpm,5,Y
+889,Maruti,2018,25000,East,Ohio,Kent,Diesel,Individual,Automatic,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+890,Maruti,2018,27654,West,Idaho,Boise,Diesel,Dealer,Automatic,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+891,Maruti,2018,15000,Central,Wisconsin,Superior,Petrol,Individual,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,N
+892,Mahindra,2016,70000,South,Alabama,Oxford,Diesel,Individual,Manual,First_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,N
+893,Honda,2016,85000,East,Massachusetts,Easton,Diesel,Individual,Manual,First_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,N
+894,Hyundai,2012,50000,Central,Wisconsin,Greenfield,Diesel,Individual,Manual,Second_Owner,21.9,1396,88.76,219.6Nm@ 1750-2750rpm,5,N
+895,Mahindra,2012,119000,West,California,Redwood City,Diesel,Individual,Manual,First_Owner,14.0,2489,95.0,220Nm at 1400-2600 rpm,8,Y
+896,Hyundai,2011,110000,South,Georgia,Atlanta,Diesel,Individual,Manual,Second_Owner,16.2,1493,110.0,24 KGM at 1900-2750 RPM,5,Y
+897,Fiat,2010,100000,Central,Texas,Channelview,Petrol,Individual,Manual,Second_Owner,16.0,1368,90.0,115Nm@ 4500rpm,5,N
+898,Nissan,2015,50000,West,California,Los Angeles,Petrol,Individual,Automatic,First_Owner,19.34,1198,76.0,104Nm@ 4400rpm,5,Y
+899,Maruti,2017,50000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,Y
+900,Chevrolet,2010,185000,West,Arizona,Prescott Valley,Diesel,Individual,Manual,First_Owner,14.8,2499,80.0,"19@ 1,800(kgm@ rpm)",7,Y
+901,Renault,2013,100000,Central,Texas,Tyler,Diesel,Individual,Manual,Second_Owner,19.01,1461,108.45,248Nm@ 2250rpm,5,N
+902,Hyundai,2016,70000,East,Ohio,Youngstown,Petrol,Individual,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+903,Maruti,2012,100000,Central,Missouri,Kirkwood,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+904,Maruti,2012,24300,West,Washington,Seattle,Petrol,Dealer,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,Y
+905,Hyundai,2015,60000,East,New York,New York City,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,Y
+906,Maruti,2007,90000,South,Mississippi,Hattiesburg,Diesel,Individual,Manual,Fourth_Above_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,N
+907,Honda,2015,117500,West,Arizona,Surprise,Petrol,Individual,Manual,Second_Owner,17.4,1497,117.3,145Nm@ 4600rpm,5,N
+908,Volkswagen,2011,90000,South,Florida,Fort Lauderdale,Diesel,Individual,Manual,First_Owner,20.54,1598,103.6,250Nm@ 1500-2500rpm,5,N
+909,Honda,2017,35000,South,Florida,Fort Pierce,Petrol,Individual,Manual,First_Owner,17.8,1497,117.3,145Nm@ 4600rpm,5,N
+910,Tata,2012,90000,Central,Iowa,Marshalltown,Diesel,Individual,Manual,First_Owner,22.3,1248,74.0,190Nm@ 1750-3000rpm,5,N
+911,Honda,2017,52000,East,New Jersey,Hopatcong,Petrol,Dealer,Automatic,First_Owner,12.0,2354,187.4,226Nm@ 4400rpm,5,N
+912,Tata,2007,50000,East,Ohio,Gahanna,Petrol,Individual,Manual,First_Owner,15.3,1193,65.3,102Nm@ 2600rpm,5,N
+913,Ford,2017,70000,East,New Jersey,Edison,Diesel,Individual,Manual,Second_Owner,25.83,1498,99.0,215Nm@ 1750-3000rpm,5,N
+914,Fiat,2015,96500,Central,Illinois,Freeport,Diesel,Individual,Manual,First_Owner,20.5,1248,91.72,209Nm@ 2000rpm,5,N
+915,Maruti,2017,30000,Central,Michigan,Westland,Diesel,Individual,Manual,First_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,N
+916,Maruti,2017,60000,West,Colorado,Thornton,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+917,Mahindra,2008,120000,Central,Texas,Pasadena,Diesel,Individual,Manual,Second_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,8,Y
+918,Maruti,2011,137500,West,California,Los Angeles,Diesel,Individual,Manual,Third_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,Y
+919,Maruti,2015,36000,West,California,Ontario,Petrol,Individual,Manual,First_Owner,20.4,1197,83.11,113Nm@ 4200rpm,5,N
+920,Ford,2016,44000,South,Kentucky,Paducah,Petrol,Individual,Manual,First_Owner,18.16,1196,86.8,112Nm@ 4000rpm,5,N
+921,Maruti,2017,20000,West,Nevada,North Las Vegas,Petrol,Individual,Manual,Second_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,N
+922,Toyota,2003,70000,East,Vermont,South Burlington,Petrol,Individual,Manual,Second_Owner,13.4,1794,125.0,"16.1@ 4,200(kgm@ rpm)",5,N
+923,BMW,2019,8500,Central,Illinois,Des Plaines,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+924,Maruti,2011,73000,South,North Carolina,Mooresville,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+925,Ford,2018,40000,West,California,Santa Ana,Diesel,Individual,Manual,First_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,N
+926,Honda,2008,60000,West,Washington,Olympia,Petrol,Individual,Automatic,Third_Owner,20.0,1339,108.5,123Nm@ 1000-2500rpm,5,Y
+927,Chevrolet,2013,60000,South,Virginia,Arlington,Diesel,Individual,Manual,Second_Owner,25.44,936,57.6,150Nm@ 1750rpm,5,N
+928,Chevrolet,2009,30000,Central,Texas,Bedford,Petrol,Individual,Manual,First_Owner,16.5,995,63.0,90.3Nm@ 4200rpm,5,N
+929,Toyota,2012,250000,South,Florida,Miami,Diesel,Individual,Manual,First_Owner,12.99,2494,100.0,200Nm@ 1400-3400rpm,7,Y
+930,Ford,2014,105000,West,California,Redondo Beach,Diesel,Dealer,Manual,First_Owner,21.7,1498,98.96,215Nm@ 1750-2500rpm,5,N
+931,Maruti,2010,135000,Central,Michigan,Royal Oak,Diesel,Individual,Manual,Second_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,N
+932,Honda,2019,7032,East,Ohio,Mount Vernon,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,N
+933,Datsun,2017,20000,East,Ohio,Canton,Petrol,Individual,Manual,First_Owner,22.5,999,67.0,91Nm@ 4250rpm,5,N
+934,Hyundai,2016,42323,Central,Michigan,Redford,Diesel,Dealer,Manual,First_Owner,21.19,1396,88.76,219.66nm@ 1500-2750rpm,5,N
+935,Maruti,2019,7000,Central,Minnesota,Moorhead,Petrol,Individual,Manual,First_Owner,21.63,998,67.0,90Nm@ 3500rpm,5,N
+936,Maruti,2012,38000,West,Washington,Longview,Petrol,Dealer,Manual,Second_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+937,Audi,2015,105000,South,North Carolina,Asheville,Diesel,Dealer,Automatic,Second_Owner,13.22,2967,241.4,580Nm@ 1400-3250rpm,5,N
+938,Tata,2012,60000,Central,Iowa,Coralville,Diesel,Individual,Manual,First_Owner,21.02,1248,88.76,200Nm@ 1750-3000rpm,5,Y
+939,Maruti,2019,10000,West,Utah,Logan,Petrol,Individual,Manual,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N
+940,Hyundai,2017,56290,Central,Indiana,Fort Wayne,Diesel,Dealer,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+941,Maruti,2012,108000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,Y
+942,Mahindra,2015,133000,East,Maryland,Severna Park,Diesel,Individual,Manual,Second_Owner,15.4,2179,120.0,280Nm@ 1800-2800rpm,7,N
+943,Maruti,2012,73000,East,New York,Smithtown,Diesel,Individual,Manual,First_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,N
+944,BMW,2019,7500,South,Arkansas,North Little Rock,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,Y
+945,Toyota,2005,200000,West,Oregon,Oregon City,Diesel,Individual,Manual,Second_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+946,Hyundai,2019,19600,West,Utah,Kaysville,Diesel,Individual,Manual,First_Owner,22.1,1396,88.7,219.7Nm@ 1500-2750rpm,5,N
+947,Toyota,2018,25000,South,Florida,Miami,Petrol,Dealer,Automatic,First_Owner,14.28,1798,138.03,173Nm@ 4000rpm,5,Y
+948,Ford,2017,60000,South,Tennessee,Kingsport,Diesel,Individual,Manual,First_Owner,22.77,1498,98.59,205Nm@ 1750-3250rpm,5,N
+949,Tata,2012,188000,South,Mississippi,Columbus,Diesel,Individual,Manual,Second_Owner,14.0,2179,120.0,"250 Nm at 1,500-3,000 rpm",8,N
+950,Hyundai,2011,128000,Central,Indiana,Elkhart,Diesel,Individual,Manual,Second_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+951,Maruti,2016,35000,East,Ohio,Stow,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+952,Volkswagen,2017,34000,South,Kentucky,Hopkinsville,Diesel,Individual,Automatic,First_Owner,22.0,1498,108.495,250Nm@ 1500-3000rpm,5,Y
+953,Mahindra,2011,110000,West,Oregon,Tigard,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+954,Hyundai,2016,30000,West,California,Lancaster,Petrol,Individual,Manual,Second_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+955,Honda,2015,85000,West,New Mexico,Roswell,Diesel,Dealer,Manual,First_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,N
+956,BMW,2011,42545,East,New York,Ithaca,Diesel,Dealer,Automatic,First_Owner,19.62,1998,190.0,400nm@ 1750-2500rpm,5,Y
+957,Mahindra,2006,185000,Central,Wisconsin,La Crosse,Diesel,Individual,Manual,First_Owner,12.7,2609,116.6,"28.3@ 1,700-2,200(kgm@ rpm)",9,N
+958,Maruti,2007,120000,East,Massachusetts,Acton,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+959,Mahindra,2015,60000,East,New Jersey,Paterson,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+960,Hyundai,2008,44391,Central,Illinois,Streamwood,Petrol,Individual,Manual,Second_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,N
+961,Ford,2017,62960,South,South Carolina,Taylors,Diesel,Dealer,Manual,First_Owner,25.83,1498,99.0,215Nm@ 1750-3000rpm,5,N
+962,Maruti,2010,130000,Central,Indiana,Marion,Diesel,Individual,Manual,Third_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,Y
+963,Mahindra,2015,35000,Central,Texas,Plainview,Diesel,Individual,Manual,First_Owner,15.4,1997,120.0,280Nm@ 1800-2800rpm,7,N
+964,Maruti,2017,70000,East,New York,Rye,Diesel,Dealer,Manual,First_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+965,Maruti,2019,50000,Central,Wisconsin,Appleton,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+966,Chevrolet,2013,110000,South,Georgia,Marietta,Petrol,Individual,Manual,Second_Owner,18.6,1199,79.4,108Nm@ 4400rpm,5,N
+967,Ford,2015,60000,East,Ohio,Toledo,Diesel,Individual,Manual,First_Owner,25.83,1498,99.0,215Nm@ 1750-3000rpm,5,N
+968,Ford,2017,44077,South,Tennessee,La Vergne,Petrol,Dealer,Automatic,First_Owner,17.01,1499,110.5,136Nm@ 4250rpm,5,N
+969,Maruti,2005,100000,East,New Hampshire,Hampton,Petrol,Individual,Manual,Fourth_Above_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+970,Honda,2016,56494,South,North Carolina,Hickory,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+971,Maruti,2017,70000,West,California,Calexico,Petrol,Individual,Manual,First_Owner,15.37,1196,73.0,101Nm@ 3000rpm,5,N
+972,Maruti,2016,27000,Central,Minnesota,Savage,Petrol,Individual,Manual,First_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,N
+973,Maruti,2015,16700,South,Virginia,Charlottesville,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+974,Tata,2008,120000,West,California,Encinitas,Diesel,Individual,Manual,Third_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,N
+975,Tata,2008,80000,Central,Michigan,Lansing,Diesel,Individual,Manual,First_Owner,12.2,1948,68.0,"115@ 2,500(kgm@ rpm)",10,N
+976,Hyundai,2009,70000,South,South Carolina,Summerville,Petrol,Individual,Manual,Third_Owner,13.2,1495,94.0,"12.5@ 3,500(kgm@ rpm)",5,N
+977,Mahindra,2015,40000,Central,Illinois,Springfield,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+978,Tata,2017,90000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,22.95,1248,74.0,190Nm@ 1750-3000rpm,5,Y
+979,Hyundai,2011,110000,West,California,San Diego,Petrol,Individual,Manual,Third_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,Y
+980,Force,2018,13000,West,Utah,Springville,Diesel,Individual,Manual,First_Owner,17.0,2200,139.01,321Nm@ 1600-2400rpm,7,N
+981,Maruti,2004,150000,Central,Michigan,Eastpointe,Petrol,Individual,Manual,First_Owner,17.3,993,60.0,78Nm@ 4500rpm,5,N
+982,Hyundai,2010,200400,Central,Michigan,Kalamazoo,Petrol,Individual,Manual,Second_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,N
+983,Maruti,2009,120000,West,California,El Centro,Diesel,Individual,Manual,Third_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+984,Hyundai,2005,200000,Central,Michigan,Saint Clair Shores,Diesel,Individual,Manual,Second_Owner,13.1,1493,82.0,187Nm@ 2500rpm,5,N
+985,Hyundai,2014,70000,East,Massachusetts,Boston,Petrol,Individual,Manual,First_Owner,17.1,1591,121.3,154.9Nm@ 4200rpm,5,Y
+986,Hyundai,2003,200000,Central,Michigan,Southgate,Diesel,Individual,Manual,Second_Owner,13.1,1493,82.0,187Nm@ 2500rpm,5,N
+987,Maruti,1998,40000,South,North Carolina,Garner,Petrol,Individual,Manual,Second_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+988,Hyundai,2019,3500,Central,Illinois,West Chicago,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,117nm@ 4000rpm,5,Y
+989,Mahindra,2015,100000,Central,Texas,Mcallen,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,N
+990,Hyundai,2007,120000,West,California,Oakland,Diesel,Individual,Manual,Second_Owner,18.1,1493,110.0,"24@ 1,900-2,750(kgm@ rpm)",5,N
+991,Maruti,2012,175000,South,Florida,Port Charlotte,Diesel,Individual,Manual,Second_Owner,21.5,1248,88.8,200Nm@ 1750rpm,5,N
+992,Maruti,2018,69779,West,California,Atascadero,Petrol,Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+993,Honda,2012,40000,East,New York,New York City,Petrol,Dealer,Manual,First_Owner,18.5,1198,86.8,109Nm@ 4500rpm,5,Y
+994,Maruti,2013,58343,Central,Illinois,Oak Forest,Petrol,Trustmark_Dealer,Manual,First_Owner,21.79,998,67.05,90Nm@ 3500rpm,5,N
+995,Maruti,2012,70000,East,Ohio,Huber Heights,Diesel,Individual,Manual,First_Owner,23.2,1248,73.94,190Nm@ 2000rpm,5,N
+996,Maruti,2012,52000,West,California,San Francisco,Diesel,Individual,Manual,Third_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+997,Maruti,2004,80000,South,Virginia,Oakton,Petrol,Individual,Manual,Second_Owner,17.3,993,60.0,78Nm@ 4500rpm,5,N
+998,Maruti,2015,60000,West,California,San Diego,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,Y
+999,Tata,2005,120000,West,Washington,Bothell,Diesel,Individual,Manual,Fourth_Above_Owner,16.1,1405,70.0,"13.5@ 2,500(kgm@ rpm)",5,N
+1000,Honda,2005,120000,Central,Texas,Arlington,Petrol,Individual,Manual,First_Owner,13.0,1493,100.0,13.1kgm@ 4600rpm,5,N
+1001,Maruti,2010,60000,East,Ohio,Bowling Green,Petrol,Individual,Manual,First_Owner,18.9,1061,67.0,84Nm@ 3500rpm,5,N
+1002,Jaguar,2017,45000,South,Georgia,Evans,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,Y
+1003,Hyundai,2016,49900,East,District of Columbia,Washington,Petrol,Dealer,Manual,First_Owner,16.3,1797,147.5,177.5Nm@ 4700rpm,5,Y
+1004,Maruti,2011,90000,Central,Illinois,Lake In The Hills,Diesel,Individual,Manual,Second_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+1005,Maruti,2010,44000,Central,Michigan,Detroit,LPG,Dealer,Manual,First_Owner,26.2,998,58.2,77Nm@ 3500rpm,5,Y
+1006,Honda,2006,80000,West,Nevada,Carson City,Petrol,Individual,Manual,Second_Owner,16.9,1497,100.0,"13.5@ 4,800(kgm@ rpm)",5,N
+1007,Chevrolet,2014,50000,South,Florida,Port Orange,Petrol,Individual,Manual,First_Owner,18.2,1199,82.4,108.5Nm@ 5000rpm,5,Y
+1008,Hyundai,2014,70000,Central,Texas,Abilene,Petrol,Individual,Manual,Second_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+1009,Mercedes,2009,80000,Central,Michigan,Lincoln Park,Petrol,Individual,Automatic,Third_Owner,10.93,3498,272.0,355Nm@ 4500rpm,5,N
+1010,Mercedes,2011,81500,East,Massachusetts,Wellesley,Diesel,Individual,Automatic,Second_Owner,14.84,2143,167.62,400Nm@ 1400-2800rpm,5,N
+1011,Honda,2016,68000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,19.4,1198,86.8,109Nm@ 4500rpm,5,Y
+1012,Honda,2013,86300,East,New York,New York City,Petrol,Dealer,Manual,First_Owner,16.8,1497,116.3,146Nm@ 4800rpm,5,Y
+1013,Chevrolet,2011,110000,Central,Texas,Bryan,Petrol,Individual,Manual,Second_Owner,18.0,995,62.0,90.3Nm@ 4200rpm,5,Y
+1014,Maruti,2019,4000,West,California,Temecula,Petrol,Individual,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,N
+1015,Skoda,2016,11000,West,California,Atascadero,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,N
+1016,Honda,2014,70000,West,Utah,West Valley City,Diesel,Individual,Manual,First_Owner,26.0,1498,98.6,200Nm@ 1750rpm,5,N
+1017,Skoda,2016,11000,East,Connecticut,Hartford,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,N
+1018,Honda,2018,15000,West,Washington,Lacey,Petrol,Individual,Automatic,First_Owner,18.1,1199,88.7,110Nm@ 4800rpm,5,N
+1019,Skoda,2016,11000,East,Maryland,Catonsville,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,N
+1020,Maruti,2014,90000,Central,Texas,Baytown,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+1021,Mahindra,2009,70000,West,California,Los Angeles,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,8,Y
+1022,Audi,2018,20000,South,Florida,Casselberry,Diesel,Individual,Automatic,First_Owner,20.38,1968,143.0,320Nm@ 1750-3000rpm,5,N
+1023,Tata,2008,120000,East,Ohio,Shaker Heights,Diesel,Individual,Manual,First_Owner,17.0,1405,70.0,"13.5@ 2,500(kgm@ rpm)",5,N
+1024,Hyundai,2017,25471,Central,Minnesota,Burnsville,Diesel,Dealer,Manual,First_Owner,21.9,1396,90.0,22.4 kgm at 1750-2750rpm,5,Y
+1025,Hyundai,2016,58000,West,Washington,Seattle,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,Y
+1026,Maruti,2018,10000,West,California,Hacienda Heights,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+1027,Mahindra,2013,110000,West,California,San Gabriel,Diesel,Individual,Manual,First_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,9,N
+1028,Honda,2019,7032,South,Arkansas,Rogers,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,N
+1029,Hyundai,2012,77000,West,Idaho,Eagle,Diesel,Individual,Manual,First_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+1030,Audi,2017,22000,East,Connecticut,Darien,Diesel,Dealer,Automatic,First_Owner,15.73,1968,174.33,380Nm@ 1750-2500rpm,5,N
+1031,Mahindra,2018,20000,South,Virginia,Fairfax,Petrol,Individual,Manual,First_Owner,18.15,1198,82.0,115Nm@ 3500-3600rpm,6,N
+1032,Maruti,2012,97000,East,New Jersey,New Brunswick,Diesel,Individual,Manual,Third_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+1033,Tata,2009,146000,East,New York,New York City,Diesel,Individual,Manual,Second_Owner,13.93,2179,138.0,320Nm@ 1700-2700rpm,7,Y
+1034,Maruti,2007,120000,South,Louisiana,Marrero,Petrol,Individual,Manual,Third_Owner,15.0,1586,104.68,"145@ 4,100(kgm@ rpm)",5,N
+1035,Honda,2014,27233,Central,Kansas,Kansas City,Diesel,Dealer,Manual,First_Owner,27.4,1498,98.63,200Nm@ 1750rpm,5,Y
+1036,Maruti,2002,80000,Central,Texas,Dallas,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+1037,Maruti,2007,74800,South,South Carolina,Greenville,Petrol,Individual,Manual,Second_Owner,18.2,998,67.1,90Nm@ 3500rpm,5,N
+1038,Hyundai,2018,25000,Central,Illinois,Wheeling,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+1039,Toyota,2015,110000,West,Colorado,Lakewood,Diesel,Individual,Manual,First_Owner,12.99,2494,100.6,200Nm@ 1400-3400rpm,7,N
+1040,Hyundai,2016,40000,East,New York,Mount Vernon,Petrol,Individual,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+1041,Maruti,2018,69779,Central,Texas,Plainview,Petrol,Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+1042,Maruti,2015,50000,East,Ohio,Springfield,Petrol,Individual,Manual,First_Owner,20.85,1197,83.14,115Nm@ 4000rpm,5,N
+1043,Maruti,2012,90000,East,New Jersey,Summit,Diesel,Individual,Manual,Third_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1044,Maruti,2016,50000,Central,Minnesota,Red Wing,Diesel,Individual,Manual,Second_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+1045,Jaguar,2017,9000,Central,Indiana,Granger,Diesel,Dealer,Automatic,First_Owner,13.6,1999,177.0,430Nm@ 1750-2500rpm,5,N
+1046,Maruti,2015,120000,South,Virginia,Hampton,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+1047,Maruti,2015,15000,West,Colorado,Lakewood,Diesel,Individual,Manual,First_Owner,23.65,1248,88.5,200Nm@ 1750rpm,5,Y
+1048,Toyota,2012,31711,East,New York,New York City,Petrol,Dealer,Manual,Second_Owner,17.6,1496,88.7,132Nm@ 3000rpm,5,Y
+1049,Skoda,2007,100000,East,Maine,South Portland,Diesel,Individual,Manual,Second_Owner,16.6,1896,122.4,"21.4@ 1,900(kgm@ rpm)",5,N
+1050,Ford,2018,35000,West,Washington,Renton,Diesel,Individual,Manual,First_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,N
+1051,Hyundai,2012,48000,Central,Michigan,Muskegon,CNG,Individual,Manual,First_Owner,13.2,1495,93.7,124.5Nm@ 3500rpm,5,N
+1052,Mahindra,2010,135000,South,Tennessee,Columbia,Diesel,Individual,Manual,First_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,8,Y
+1053,Honda,2017,6750,East,Maryland,Cumberland,Petrol,Individual,Manual,First_Owner,18.5,1198,86.8,109Nm@ 4500rpm,5,Y
+1054,Toyota,2011,120000,South,Georgia,Gainesville,Diesel,Individual,Manual,Second_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+1055,Honda,2011,90000,West,California,Los Altos,Petrol,Individual,Manual,Second_Owner,17.0,1497,118.0,146Nm at 4800 rpm,5,Y
+1056,Maruti,2017,28832,Central,Kansas,Hutchinson,Diesel,Dealer,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,Y
+1057,Maruti,2011,58000,East,New York,New York City,Petrol,Individual,Manual,Third_Owner,16.1,1298,88.2,"11.5@ 4,500(kgm@ rpm)",5,Y
+1058,Hyundai,2015,30000,East,New Jersey,Linden,Petrol,Individual,Manual,Second_Owner,18.9,1197,81.86,113.75Nm@ 4000rpm,5,N
+1059,Honda,2016,56494,South,North Carolina,Greenville,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,Y
+1060,Honda,2016,56494,West,Montana,Bozeman,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+1061,Honda,2014,79011,West,Utah,Provo,Petrol,Trustmark_Dealer,Automatic,First_Owner,18.0,1497,117.3,145Nm@ 4600rpm,5,Y
+1062,Hyundai,2017,30000,Central,North Dakota,Bismarck,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+1063,Chevrolet,2010,90000,South,Georgia,Kennesaw,Diesel,Individual,Manual,Second_Owner,18.3,1991,147.9,327Nm@ 2600rpm,5,N
+1064,Renault,2016,20000,West,Idaho,Post Falls,Petrol,Individual,Manual,First_Owner,23.01,999,67.0,91Nm@ 4250rpm,5,N
+1065,Renault,2014,123000,Central,Iowa,Newton,Diesel,Individual,Manual,First_Owner,19.01,1461,108.45,248Nm@ 2250rpm,5,N
+1066,Honda,2004,110000,Central,Texas,El Paso,Petrol,Individual,Manual,Third_Owner,12.8,1493,100.0,13.1kgm@ 4600rpm,5,N
+1067,Hyundai,2012,100000,West,California,San Diego,Petrol,Individual,Manual,Second_Owner,18.5,1197,80.0,"11.4 kgm at 4,000 rpm",5,Y
+1068,Tata,2016,42000,East,New Jersey,Wayne,Diesel,Individual,Manual,Second_Owner,19.09,1405,69.01,135Nm@ 2500rpm,5,N
+1069,Maruti,2005,90000,West,California,San Francisco,Petrol,Individual,Manual,Second_Owner,17.3,993,60.0,78Nm@ 4500rpm,5,N
+1070,Jaguar,2017,45000,South,Tennessee,Bartlett,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,N
+1071,Hyundai,2013,45000,South,Florida,Hialeah,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1072,Hyundai,2016,29000,Central,South Dakota,Brookings,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+1073,Hyundai,2019,7000,West,Arizona,Phoenix,Petrol,Individual,Automatic,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+1074,Maruti,2017,37000,South,North Carolina,Indian Trail,Diesel,Individual,Automatic,First_Owner,26.8,1248,74.0,190Nm@ 2000rpm,5,Y
+1075,Mahindra,2019,6544,East,Ohio,Reynoldsburg,Diesel,Individual,Manual,First_Owner,20.0,1497,115.0,300Nm@ 1500-2500rpm,5,N
+1076,Maruti,2019,60000,East,Connecticut,Norwich,Diesel,Individual,Manual,First_Owner,25.1,1248,88.5,200Nm@ 1750rpm,5,N
+1077,Maruti,2009,120000,Central,Texas,Deer Park,Petrol,Individual,Manual,First_Owner,17.5,1298,85.8,114Nm@ 4000rpm,5,N
+1078,Tata,2011,70000,East,New Jersey,South Orange,Petrol,Individual,Manual,Second_Owner,15.2,1193,65.0,"10.7@ 2,600(kgm@ rpm)",5,N
+1079,Chevrolet,2016,198000,East,Massachusetts,Grafton,Diesel,Individual,Manual,First_Owner,18.2,1248,73.74,172.5Nm@ 1750rpm,8,N
+1080,Mahindra,2013,100000,South,Florida,Homestead,Diesel,Individual,Manual,Second_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,8,Y
+1081,Mahindra,2014,60000,South,South Carolina,Hilton Head Island,Diesel,Individual,Manual,First_Owner,14.0,2523,75.0,200Nm@ 1400-2200rpm,8,N
+1082,Tata,2013,175000,East,Maine,Saco,Diesel,Individual,Manual,Second_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,Y
+1083,Maruti,2012,70000,East,Pennsylvania,Penn Hills,Diesel,Individual,Manual,Second_Owner,21.5,1248,88.8,200Nm@ 1750rpm,5,N
+1084,Hyundai,2015,60000,Central,Iowa,Dubuque,Diesel,Individual,Manual,First_Owner,24.4,1120,71.0,180.4Nm@ 1750-2500rpm,5,N
+1085,Mahindra,2016,100000,West,Washington,Seattle,Diesel,Individual,Manual,First_Owner,15.4,1997,120.0,280Nm@ 1800-2800rpm,7,Y
+1086,Volvo,2018,2000,South,Georgia,East Point,Diesel,Dealer,Automatic,First_Owner,16.8,1984,150.0,350Nm@ 1500-2750rpm,5,N
+1087,Maruti,2013,63000,Central,Minnesota,Minneapolis,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+1088,Honda,2019,7032,South,North Carolina,Goldsboro,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,Y
+1089,Maruti,2016,15000,South,Georgia,Kennesaw,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+1090,Tata,2011,80000,West,California,Los Angeles,Diesel,Individual,Manual,Third_Owner,11.57,2179,138.1,320Nm@ 1700-2700rpm,7,Y
+1091,Tata,2006,74000,Central,Minnesota,Cottage Grove,Diesel,Individual,Manual,First_Owner,13.7,1948,68.0,115@ 2500(kgm@ rpm),7,N
+1092,Volkswagen,2011,222300,Central,Illinois,Freeport,Diesel,Individual,Manual,First_Owner,22.07,1199,73.9,180Nm@ 2000rpm,5,N
+1093,Datsun,2018,5000,Central,Indiana,La Porte,Petrol,Individual,Manual,Second_Owner,20.63,1198,67.0,104Nm@ 4000rpm,5,N
+1094,Skoda,2016,11000,South,Georgia,Roswell,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,N
+1095,Hyundai,2019,19000,Central,Illinois,Lombard,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,117nm@ 4000rpm,5,N
+1096,Honda,2019,7032,East,Maine,Westbrook,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,N
+1097,Volvo,2019,20000,South,Georgia,Evans,Diesel,Individual,Automatic,First_Owner,18.0,1969,190.0,400Nm,5,Y
+1098,Tata,2017,60000,West,California,Manteca,Diesel,Individual,Automatic,First_Owner,17.6,2179,153.86,400Nm@ 1750-2500rpm,7,N
+1099,Mahindra,2011,260000,Central,Oklahoma,Midwest City,Diesel,Individual,Manual,Fourth_Above_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,8,N
+1100,Hyundai,2012,103000,South,Florida,Sanford,Petrol,Individual,Manual,First_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,N
+1101,Maruti,2007,78000,South,Alabama,Decatur,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1102,Hyundai,2016,35000,West,Washington,Seattle,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,Y
+1103,Honda,2015,35000,East,Ohio,Xenia,Petrol,Individual,Manual,First_Owner,17.3,1497,117.3,145Nm@ 4600rpm,7,N
+1104,Honda,2017,40000,Central,Texas,Abilene,Petrol,Individual,Manual,First_Owner,17.4,1497,117.6,145Nm@ 4600rpm,5,N
+1105,Maruti,2003,170000,West,California,Long Beach,Petrol,Individual,Manual,Third_Owner,17.3,993,60.0,78Nm@ 4500rpm,5,N
+1106,Maruti,2009,164000,Central,Kansas,Topeka,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1107,Maruti,2018,69779,East,New York,New York City,Petrol,Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,Y
+1108,Maruti,2013,120000,South,Florida,Miami,Petrol,Individual,Manual,Second_Owner,15.1,1196,73.0,101Nm@ 3000rpm,5,Y
+1109,Maruti,2000,100000,West,California,Morgan Hill,Petrol,Individual,Manual,Second_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+1110,Hyundai,2019,60000,Central,Missouri,Springfield,Petrol,Individual,Manual,First_Owner,20.14,1197,81.86,113.75nm@ 4000rpm,5,N
+1111,Ford,2019,35000,East,New Jersey,Garfield,Diesel,Individual,Manual,First_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,N
+1112,Maruti,2010,40000,South,Florida,Miami,Petrol,Individual,Manual,First_Owner,19.0,998,67.1,90Nm@ 3500rpm,5,Y
+1113,Maruti,2006,90000,Central,Illinois,Belleville,Petrol,Individual,Manual,Second_Owner,17.3,1061,64.0,"8.6@ 3,500(kgm@ rpm)",5,N
+1114,Hyundai,2014,65000,West,California,Los Angeles,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,Y
+1115,Hyundai,2016,110000,Central,Texas,Grapevine,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1116,Ford,2004,25000,Central,Missouri,Creve Coeur,Petrol,Individual,Manual,Third_Owner,14.2,1597,92.0,130@ 2500(kgm@ rpm),5,N
+1117,Mahindra,2008,219000,East,Pennsylvania,Philadelphia,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,Y
+1118,Maruti,2014,110000,Central,Indiana,Schererville,Diesel,Individual,Manual,Second_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,N
+1119,Audi,2014,60000,West,Arizona,Prescott Valley,Diesel,Individual,Automatic,First_Owner,16.55,1968,147.51,320Nm@ 1750-2500rpm,5,N
+1120,Mahindra,2017,30000,East,Pennsylvania,Radnor,Diesel,Individual,Manual,First_Owner,25.32,1198,77.0,190Nm@ 1750-2250rpm,6,N
+1121,Maruti,2017,70000,Central,Texas,Houston,Diesel,Individual,Manual,First_Owner,27.39,1248,74.0,190Nm@ 2000rpm,5,Y
+1122,Tata,2011,200000,West,Colorado,Fountain,Diesel,Individual,Manual,Second_Owner,17.0,1405,71.0,135 Nm at 2500  rpm ,5,N
+1123,Hyundai,2012,44588,South,North Carolina,Laurinburg,Petrol,Dealer,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1124,Hyundai,2017,15000,East,Vermont,Burlington,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1125,Maruti,2004,113000,Central,Wisconsin,Watertown,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+1126,Maruti,2011,90000,East,New York,New York City,Diesel,Individual,Manual,Fourth_Above_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,Y
+1127,Toyota,2018,70000,West,California,Ontario,Diesel,Individual,Manual,First_Owner,23.59,1364,67.04,170Nm@ 1800-2400rpm,5,N
+1128,Hyundai,2017,60000,South,Florida,Ocoee,Petrol,Individual,Manual,First_Owner,20.3,998,68.05,94.14Nm@ 3500rpm,5,Y
+1129,Maruti,2016,120000,South,Alabama,Mobile,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+1130,Lexus,2019,20000,Central,Kansas,Prairie Village,Petrol,Dealer,Automatic,First_Owner,22.37,2487,214.56,202Nm@ 3600-5200rpm,5,N
+1131,Maruti,2015,50000,East,New York,Schenectady,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+1132,Maruti,2014,90000,West,California,Redlands,Diesel,Individual,Manual,First_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+1133,Hyundai,2017,5000,East,Massachusetts,Beverly,Petrol,Individual,Manual,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+1134,Hyundai,2013,40000,West,Nevada,Las Vegas,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1135,Maruti,2003,40000,South,Florida,Immokalee,Petrol,Individual,Manual,First_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,N
+1136,Hyundai,2010,90000,South,Georgia,Marietta,Petrol,Individual,Manual,Third_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,N
+1137,Maruti,2017,25000,East,Ohio,Columbus,Petrol,Individual,Manual,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+1138,Maruti,2016,35000,South,Virginia,Roanoke,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+1139,Toyota,2015,120000,Central,Texas,Lancaster,Diesel,Individual,Manual,Second_Owner,12.55,2982,168.5,343Nm@ 1400-3400rpm,7,Y
+1140,Maruti,2013,50000,East,New York,Troy,Petrol,Individual,Manual,First_Owner,16.8,796,34.2,59Nm@ 2500rpm,5,Y
+1141,Hyundai,2012,93000,West,Washington,Seattle,Petrol,Individual,Manual,Second_Owner,17.0,1197,80.0,"11.4 kgm at 4,000 rpm",5,Y
+1142,Hyundai,2013,15000,Central,Illinois,Elk Grove Village,Petrol,Individual,Manual,First_Owner,0.0,1086,62.1,96.1Nm@ 3000rpm,5,N
+1143,Hyundai,2019,20000,West,Oregon,Mcminnville,Petrol,Individual,Automatic,First_Owner,17.4,1197,81.86,117nm@ 4000rpm,5,N
+1144,Toyota,2013,100000,East,Maryland,Camp Springs,Petrol,Individual,Manual,Second_Owner,16.78,1496,88.73,132Nm@ 3000rpm,5,N
+1145,Chevrolet,2013,68000,East,Ohio,Garfield Heights,Diesel,Individual,Manual,First_Owner,22.1,1248,76.9,205Nm@ 1750rpm,5,N
+1146,Mahindra,2017,70000,East,Ohio,Hilliard,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+1147,Mahindra,2017,54000,Central,Illinois,Wilmette,Diesel,Individual,Manual,First_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,Y
+1148,Hyundai,2013,80000,East,Ohio,Parma,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1149,Maruti,2013,58343,Central,Indiana,Fort Wayne,Petrol,Trustmark_Dealer,Manual,First_Owner,21.79,998,67.05,90Nm@ 3500rpm,5,N
+1150,Maruti,2013,60000,East,Maine,Bangor,Diesel,Individual,Manual,First_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+1151,Maruti,2015,68000,West,California,Rocklin,Diesel,Individual,Manual,Second_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,N
+1152,Maruti,2019,10000,South,Florida,Palm Bay,Petrol,Individual,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,N
+1153,Volkswagen,2018,14495,Central,Iowa,Council Bluffs,Petrol,Dealer,Manual,First_Owner,18.78,999,75.0,95Nm@ 3000-4300rpm,5,N
+1154,Maruti,2010,58000,Central,Nebraska,Lincoln,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1155,Maruti,2019,9900,South,Kentucky,Covington,Petrol,Individual,Manual,First_Owner,11.96,1298,80.0,103Nm@ 4500rpm,8,N
+1156,Hyundai,2003,120000,Central,Illinois,Bolingbrook,Diesel,Individual,Manual,Fourth_Above_Owner,13.1,1493,82.0,187Nm@ 2500rpm,5,N
+1157,Hyundai,2012,330000,West,Colorado,Longmont,Petrol,Individual,Manual,Second_Owner,13.44,2359,198.25,250Nm@ 4250rpm,5,N
+1158,Mahindra,2020,120000,Central,Kansas,Leavenworth,Diesel,Individual,Manual,First_Owner,15.1,2179,152.87,360Nm@ 1750-2800rpm,7,Y
+1159,Honda,2013,80000,Central,Minnesota,Saint Paul,Petrol,Individual,Manual,Second_Owner,16.8,1497,116.3,146Nm@ 4800rpm,5,N
+1160,Maruti,2014,25000,West,Washington,Seattle,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,Y
+1161,Maruti,2012,60000,South,Georgia,Atlanta,CNG,Individual,Manual,Second_Owner,30.46,796,47.3,69Nm@ 3500rpm,5,Y
+1162,Toyota,2016,27000,East,Ohio,Euclid,Diesel,Dealer,Manual,First_Owner,13.68,2393,147.51,343Nm@ 1400-2800rpm,7,N
+1163,Skoda,2016,11000,East,Ohio,Garfield Heights,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,N
+1164,Tata,2017,45000,East,Massachusetts,Natick,Diesel,Individual,Manual,First_Owner,17.6,2179,153.86,400Nm@ 1750-2500rpm,7,N
+1165,Maruti,2015,54723,West,Oregon,Portland,Diesel,Dealer,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+1166,Maruti,2013,82000,West,California,San Mateo,Diesel,Dealer,Manual,Second_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+1167,Ford,2011,77395,Central,Illinois,Romeoville,Diesel,Dealer,Manual,Second_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+1168,Maruti,2015,67000,East,West Virginia,Parkersburg,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+1169,Maruti,2016,70000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,Y
+1170,Maruti,2020,5500,West,New Mexico,Albuquerque,Petrol,Individual,Manual,First_Owner,21.01,1197,81.8,113Nm@ 4200rpm,5,N
+1171,Maruti,2018,25000,West,California,Chico,Petrol,Individual,Manual,First_Owner,20.73,1373,91.1,130Nm@ 4000rpm,5,N
+1172,Toyota,2016,110000,Central,Michigan,Midland,Diesel,Individual,Manual,Second_Owner,13.68,2393,147.8,343Nm@ 1400-2800rpm,7,N
+1173,Honda,2019,1500,Central,Texas,Grand Prairie,Petrol,Individual,Automatic,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+1174,Hyundai,2009,87000,East,Pennsylvania,Hermitage,Petrol,Individual,Manual,Second_Owner,13.2,1495,94.0,"12.5@ 3,500(kgm@ rpm)",5,N
+1175,Hyundai,2015,50000,Central,Texas,Texas City,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+1176,Renault,2018,40000,Central,Oklahoma,Owasso,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+1177,Tata,2008,110000,South,Louisiana,Lake Charles,Diesel,Individual,Manual,First_Owner,13.93,2179,138.1,320Nm@ 1700-2700rpm,7,N
+1178,Honda,2015,45000,West,Washington,Covington,Petrol,Individual,Automatic,First_Owner,15.5,1198,86.7,109Nm@ 4500rpm,5,N
+1179,Volvo,2019,20000,South,Florida,Royal Palm Beach,Diesel,Individual,Automatic,First_Owner,18.0,1969,190.0,400Nm,5,N
+1180,Hyundai,2013,60000,West,California,San Francisco,Diesel,Individual,Manual,First_Owner,21.27,1396,88.76,219.6Nm@ 1500-2750rpm,5,Y
+1181,Mahindra,2011,230000,South,Alabama,Florence,Diesel,Individual,Manual,First_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,7,N
+1182,Tata,2016,50000,Central,Minnesota,Richfield,Diesel,Individual,Manual,First_Owner,23.0,1248,88.7,200Nm@ 1750-3000rpm,5,N
+1183,Tata,2017,57000,South,Florida,Palm Harbor,Petrol,Dealer,Manual,First_Owner,23.84,1199,84.48,113Nm@ 3300rpm,5,N
+1184,Maruti,2010,100000,Central,Michigan,Owosso,Petrol,Individual,Manual,Third_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,N
+1185,Tata,2010,148000,East,Maryland,Ellicott City,Diesel,Individual,Manual,Second_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,N
+1186,Tata,2013,50000,Central,Iowa,Newton,Petrol,Individual,Manual,First_Owner,15.64,1193,64.1,100Nm@ 2700rpm,5,N
+1187,Mahindra,2011,130000,East,New Hampshire,Salem,Diesel,Individual,Manual,Second_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,7,N
+1188,Toyota,2010,426000,Central,Kansas,Emporia,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+1189,Toyota,2007,80000,East,Ohio,Warren,Diesel,Individual,Manual,Second_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+1190,Toyota,2016,68089,East,Pennsylvania,Philadelphia,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,N
+1191,Tata,2014,110000,Central,Texas,Sugar Land,Diesel,Individual,Manual,Second_Owner,13.49,2179,138.03,320Nm@ 1750-2700rpm,5,N
+1192,Ford,2019,17000,West,California,South Lake Tahoe,Diesel,Individual,Manual,First_Owner,24.4,1498,98.63,215Nm@ 1750-3000rpm,5,N
+1193,Chevrolet,2013,46815,East,Ohio,Hamilton,Diesel,Individual,Manual,Second_Owner,22.1,1248,76.9,205Nm@ 1750rpm,5,Y
+1194,Tata,2012,120000,West,Oregon,Albany,Diesel,Individual,Manual,First_Owner,23.03,1396,69.0,140Nm@ 1800-3000rpm,5,N
+1195,Tata,2009,118000,East,New Hampshire,Dover,Diesel,Individual,Manual,Second_Owner,16.8,1405,62.0,"12.5@ 2,500(kgm@ rpm)",5,N
+1196,Maruti,2014,77000,South,Florida,Panama City,Diesel,Dealer,Manual,First_Owner,28.4,1248,74.0,190Nm@ 2000rpm,5,N
+1197,Honda,2015,93000,West,Colorado,Pueblo,Diesel,Individual,Manual,Second_Owner,24.5,1498,98.6,200Nm@ 1750rpm,7,N
+1198,Maruti,2018,10000,West,Utah,Lehi,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+1199,Maruti,2010,60000,Central,North Dakota,Bismarck,Petrol,Individual,Manual,Second_Owner,17.5,1197,85.8,114Nm@ 4000rpm,5,N
+1200,Mahindra,2011,100000,South,North Carolina,Cary,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1440-2200rpm,9,N
+1201,Mercedes,2017,37000,West,Montana,Butte,Diesel,Dealer,Automatic,First_Owner,13.5,2987,254.79,620Nm@ 1600-2400rpm,5,N
+1202,Maruti,2017,32000,Central,Michigan,Southgate,Petrol,Individual,Manual,Second_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+1203,Hyundai,2018,30000,Central,Kansas,Manhattan,Diesel,Individual,Manual,First_Owner,24.0,1186,73.97,190.24nm@ 1750-2250rpm,5,N
+1204,Maruti,2013,90000,West,California,San Francisco,Diesel,Individual,Manual,Second_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,Y
+1205,Maruti,2018,15000,East,Ohio,Huber Heights,Petrol,Individual,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,N
+1206,Hyundai,2004,120000,Central,Nebraska,Lincoln,Petrol,Individual,Manual,Fourth_Above_Owner,14.4,1599,94.0,12.5kgm@ 3500rpm,5,N
+1207,BMW,2019,7500,South,North Carolina,High Point,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+1208,Tata,2012,80868,West,California,Visalia,Petrol,Individual,Manual,Third_Owner,13.7,1368,88.8,116Nm@ 4750rpm,5,N
+1209,Ford,2012,100000,East,Rhode Island,Warwick,Diesel,Individual,Manual,Second_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+1210,Maruti,2019,7600,Central,Minnesota,Oakdale,Petrol,Individual,Manual,First_Owner,21.63,998,67.0,90Nm@ 3500rpm,5,N
+1211,Tata,2011,25000,West,Washington,Yakima,Petrol,Individual,Manual,Second_Owner,26.0,624,35.0,48Nm@ 3000rpm,4,N
+1212,Hyundai,2017,10000,Central,Texas,Farmers Branch,Petrol,Individual,Automatic,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+1213,Maruti,2016,50000,Central,Texas,Dallas,Petrol,Individual,Manual,Second_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,Y
+1214,Hyundai,2015,62000,West,California,Lemon Grove,Diesel,Individual,Manual,Second_Owner,24.4,1120,71.0,180.4Nm@ 1750-2500rpm,5,N
+1215,Hyundai,2018,30000,Central,Texas,Richardson,Diesel,Individual,Automatic,First_Owner,22.0,1582,126.2,259.87nm@ 1500-3000rpm,5,N
+1216,Maruti,2013,58343,East,New York,Tonawanda,Petrol,Trustmark_Dealer,Manual,First_Owner,21.79,998,67.05,90Nm@ 3500rpm,5,N
+1217,Honda,2016,74000,South,Florida,Pembroke Pines,Petrol,Dealer,Automatic,First_Owner,13.7,1997,153.86,190Nm@ 4300rpm,5,N
+1218,Maruti,2016,35000,East,Massachusetts,Holyoke,Petrol,Individual,Manual,Second_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+1219,Tata,2017,50000,South,Florida,Miami,Diesel,Individual,Automatic,First_Owner,17.6,2179,153.86,400Nm@ 1750-2500rpm,7,Y
+1220,Ford,2019,26000,South,Virginia,Rose Hill,Diesel,Dealer,Manual,First_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,N
+1221,Mahindra,2014,110000,Central,Kansas,Hutchinson,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,Y
+1222,Maruti,2017,29000,Central,Nebraska,Lincoln,Petrol,Dealer,Manual,First_Owner,20.89,1197,81.8,113Nm@ 4200rpm,5,N
+1223,Honda,2013,116104,East,New York,New York City,Diesel,Dealer,Manual,First_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,Y
+1224,Tata,2020,40000,Central,Illinois,Moline,Petrol,Individual,Manual,First_Owner,17.57,1193,88.7,140Nm@ 1500-4000rpm,5,N
+1225,Hyundai,2015,108000,Central,Texas,Texas City,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+1226,Maruti,2015,45000,South,Florida,Ocoee,Petrol,Individual,Manual,Second_Owner,20.85,1197,83.14,115Nm@ 4000rpm,5,Y
+1227,Tata,2016,70000,West,California,San Francisco,Diesel,Individual,Manual,First_Owner,27.28,1047,69.0,140Nm@ 1800-3000rpm,5,Y
+1228,Maruti,2010,120000,South,Alabama,Opelika,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1229,Maruti,2016,50000,East,Vermont,Burlington,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+1230,Hyundai,2012,92686,West,California,Ontario,Diesel,Dealer,Manual,Second_Owner,21.9,1396,88.76,219.6Nm@ 1500-2750rpm,5,N
+1231,Maruti,2002,60000,Central,Missouri,Mehlville,Petrol,Individual,Manual,First_Owner,11.96,1298,80.0,103Nm@ 4500rpm,8,N
+1232,Maruti,2002,70000,Central,Texas,Channelview,Petrol,Individual,Manual,Second_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+1233,Hyundai,2009,70000,West,California,Riverside,Petrol,Individual,Manual,Second_Owner,13.2,1495,94.0,"12.5@ 3,500(kgm@ rpm)",5,N
+1234,Maruti,2018,20000,Central,Wisconsin,Neenah,Diesel,Individual,Manual,First_Owner,28.09,1248,88.5,200Nm@ 1750rpm,5,N
+1235,BMW,2019,7500,West,Colorado,Colorado Springs,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+1236,Toyota,2010,100000,South,Florida,Gainesville,Diesel,Individual,Manual,Second_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),7,N
+1237,Maruti,2008,70000,East,New York,Syracuse,Petrol,Individual,Manual,Third_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1238,BMW,2019,7500,Central,Texas,Plainview,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+1239,Honda,2006,200000,West,Montana,Helena,Petrol,Individual,Automatic,Third_Owner,13.1,1997,141.1,190Nm@ 4200rpm,5,N
+1240,Maruti,2012,110000,Central,Indiana,New Albany,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1241,Volkswagen,2010,44500,East,New York,Kenmore,Petrol,Dealer,Manual,First_Owner,16.47,1198,74.0,110Nm@ 3750rpm,5,N
+1242,Maruti,2016,110000,East,Maryland,Aspen Hill,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+1243,Maruti,2009,120000,Central,Missouri,Gladstone,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1244,Tata,2017,140000,East,New York,New York City,Diesel,Individual,Manual,First_Owner,14.07,2956,69.01,223Nm@ 1600-2200rpm,7,Y
+1245,Maruti,2018,25000,West,California,Hacienda Heights,Petrol,Individual,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+1246,Tata,2018,14000,West,Washington,Wenatchee,Diesel,Individual,Manual,First_Owner,21.5,1497,108.5,260Nm@ 1500-2750rpm,5,N
+1247,Chevrolet,2011,67840,East,Ohio,Willoughby,Petrol,Individual,Manual,First_Owner,18.0,995,62.0,90.3Nm@ 4200rpm,5,N
+1248,Mahindra,2013,120000,Central,Illinois,Chicago,Diesel,Individual,Manual,Second_Owner,17.21,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+1249,Mahindra,2011,120000,South,North Carolina,Wake Forest,Diesel,Individual,Manual,Second_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,8,N
+1250,Maruti,2016,15000,East,Ohio,Dublin,Petrol,Individual,Manual,First_Owner,20.4,1197,81.8,113Nm@ 4200rpm,5,N
+1251,Chevrolet,2013,100000,Central,Illinois,Romeoville,Diesel,Individual,Manual,Second_Owner,22.1,1248,76.9,205Nm@ 1750rpm,5,N
+1252,Toyota,2014,146000,East,New York,West Babylon,Diesel,Individual,Manual,First_Owner,23.59,1364,67.06,170Nm@ 1800-2400rpm,5,N
+1253,Honda,2013,140000,Central,Texas,Waxahachie,Diesel,Individual,Manual,Third_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,N
+1254,Hyundai,2011,125000,South,Virginia,Portsmouth,Diesel,Individual,Manual,Second_Owner,14.66,2199,194.3,420.7Nm@ 1800-2500rpm,7,N
+1255,Maruti,2016,60000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,Y
+1256,Hyundai,2020,5000,South,Georgia,Atlanta,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,117nm@ 4000rpm,5,Y
+1257,Maruti,2013,120000,Central,Wisconsin,Milwaukee,Diesel,Individual,Manual,Third_Owner,20.77,1248,88.8,200Nm@ 1750rpm,7,N
+1258,Maruti,2004,70000,West,Arizona,Surprise,Petrol,Individual,Manual,Fourth_Above_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1259,Renault,2012,75000,South,South Carolina,Hilton Head Island,Diesel,Individual,Manual,First_Owner,23.08,1461,63.12,160Nm@ 2000rpm,5,N
+1260,Nissan,2017,55000,Central,Kansas,Liberal,Diesel,Individual,Automatic,First_Owner,19.61,1461,108.5,248Nm@ 2250rpm,5,N
+1261,Hyundai,2018,70000,South,Florida,Saint Petersburg,Petrol,Individual,Manual,First_Owner,20.3,998,68.05,94.14Nm@ 3500rpm,5,N
+1262,Hyundai,2014,52000,South,Virginia,Mechanicsville,Petrol,Individual,Manual,First_Owner,19.1,1197,81.86,113.75Nm@ 4000rpm,5,N
+1263,Maruti,2010,64000,Central,Michigan,Flint,Diesel,Individual,Manual,Third_Owner,21.1,1248,73.9,113Nm@ 4500rpm,5,N
+1264,Mahindra,2017,80000,East,Massachusetts,Longmeadow,Diesel,Individual,Manual,First_Owner,15.4,2179,120.0,280Nm@ 1800-2800rpm,7,N
+1265,Toyota,2013,100000,Central,Illinois,Evanston,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.57,200Nm@ 1400-3400rpm,7,N
+1266,Maruti,2010,190000,South,Florida,Miami,Diesel,Individual,Manual,Second_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,Y
+1267,Renault,2016,90000,South,Arkansas,Benton,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+1268,Hyundai,2018,20000,West,California,Rancho Cucamonga,Petrol,Individual,Manual,Second_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+1269,Mahindra,2014,70000,East,Ohio,Mentor,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+1270,Ford,2017,13500,Central,Kansas,Overland Park,Petrol,Individual,Manual,First_Owner,17.0,1497,121.36,150Nm@ 4500rpm,5,N
+1271,Tata,2015,60000,South,Virginia,Newport News,Diesel,Individual,Manual,First_Owner,22.95,1248,74.0,190Nm@ 1750-3000rpm,5,N
+1272,Ford,2012,110000,South,Alabama,Birmingham,Diesel,Individual,Automatic,First_Owner,11.4,2953,153.86,380Nm@ 2500rpm,7,N
+1273,Skoda,2018,50000,West,California,Paradise,Petrol,Dealer,Automatic,First_Owner,14.67,1798,177.46,250@ 1250-5000rpm,5,N
+1274,Volvo,2018,2000,Central,Michigan,Detroit,Diesel,Dealer,Automatic,First_Owner,16.8,1984,150.0,350Nm@ 1500-2750rpm,5,Y
+1275,Hyundai,2019,3000,East,Maine,Sanford,Diesel,Individual,Manual,First_Owner,25.4,1186,73.97,190.25nm@ 1750-2250rpm,5,Y
+1276,BMW,2019,7500,West,Oregon,Lake Oswego,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+1277,Mahindra,2017,5000,South,Arkansas,Sherwood,Petrol,Individual,Manual,Second_Owner,18.15,1198,82.0,115Nm@ 3500-3600rpm,6,N
+1278,Ford,2009,115000,Central,Illinois,Carol Stream,Diesel,Individual,Manual,Second_Owner,13.8,1399,68.0,160Nm@ 2000rpm,5,N
+1279,Chevrolet,2007,130000,Central,Missouri,Independence,Diesel,Individual,Manual,Second_Owner,16.52,1991,123.7,305Nm@ 2000rpm,5,N
+1280,Hyundai,2018,7000,West,California,Carlsbad,Petrol,Individual,Manual,First_Owner,20.3,1086,68.0,99Nm@ 4500rpm,5,N
+1281,Volkswagen,2011,77000,South,Tennessee,Kingsport,Diesel,Individual,Manual,Second_Owner,22.07,1199,73.9,180Nm@ 2000rpm,5,N
+1282,Hyundai,2018,25000,East,New Jersey,Carteret,Petrol,Individual,Manual,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+1283,Mahindra,2009,300000,South,Tennessee,Hendersonville,Diesel,Individual,Manual,First_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,7,Y
+1284,Maruti,2012,35000,Central,Illinois,Chicago,Petrol,Individual,Manual,Second_Owner,14.0,796,35.0,6.1kgm@ 3000rpm,5,Y
+1285,Tata,2008,100000,Central,Missouri,Clayton,Diesel,Individual,Manual,First_Owner,16.8,1405,62.0,"12.5@ 2,500(kgm@ rpm)",5,Y
+1286,Tata,2017,110000,East,Massachusetts,Boston,Diesel,Individual,Manual,First_Owner,24.7,1047,69.0,140Nm@ 1800-3000rpm,5,Y
+1287,Maruti,2017,70000,West,Colorado,Englewood,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+1288,Maruti,2013,37500,East,Pennsylvania,Sharon,Diesel,Individual,Manual,Second_Owner,20.77,1248,88.8,200Nm@ 1750rpm,7,N
+1289,Maruti,2000,90000,South,Virginia,Hampton,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1290,Renault,2016,50000,East,Ohio,Dayton,Diesel,Individual,Manual,First_Owner,19.87,1461,83.8,200Nm@ 1750rpm,5,N
+1291,Mahindra,2014,50000,East,Ohio,Fairfield,Diesel,Individual,Manual,Second_Owner,21.03,1461,65.0,160Nm@ 2000rpm,5,N
+1292,Maruti,2015,110000,Central,Iowa,Iowa City,Diesel,Individual,Manual,Third_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,Y
+1293,Hyundai,2019,4000,Central,Minnesota,Richfield,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,117nm@ 4000rpm,5,N
+1294,Maruti,2007,90000,West,Washington,Seattle,Petrol,Individual,Manual,First_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,Y
+1295,Tata,2017,35000,West,California,Lakewood,Petrol,Individual,Manual,First_Owner,17.57,1193,88.7,140Nm@ 1500-4000rpm,5,N
+1296,Maruti,2015,70000,South,South Carolina,Summerville,Diesel,Individual,Manual,First_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,N
+1297,Honda,2016,56494,West,Washington,Vancouver,Petrol,Trustmark_Dealer,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+1298,Mahindra,2014,122000,Central,Minnesota,Minnetonka,Diesel,Individual,Manual,Second_Owner,15.1,2179,140.0,330Nm@ 1600-2800rpm,7,N
+1299,Maruti,2016,38000,East,New York,New York City,Petrol,Dealer,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,Y
+1300,Toyota,2009,170000,East,Pennsylvania,Philadelphia,Diesel,Individual,Manual,Third_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,Y
+1301,Hyundai,2011,70000,East,Pennsylvania,Mount Lebanon,Diesel,Individual,Manual,Second_Owner,21.9,1396,90.0,22.4 kgm at 1750-2750rpm,5,Y
+1302,Hyundai,2012,51856,East,Connecticut,Waterbury,Petrol,Dealer,Manual,Third_Owner,18.5,1197,80.0,"11.4 kgm at 4,000 rpm",5,N
+1303,Mahindra,2015,58945,South,Florida,Port Saint Lucie,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+1304,Hyundai,2016,30000,East,Ohio,Troy,Diesel,Individual,Manual,First_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,N
+1305,Honda,2014,56000,East,New Jersey,Bergenfield,Petrol,Individual,Manual,First_Owner,17.4,1497,117.3,145Nm@ 4600rpm,5,Y
+1306,Nissan,2011,50000,West,California,San Diego,Diesel,Individual,Manual,First_Owner,23.08,1461,63.1,160Nm@ 2000rpm,5,Y
+1307,Maruti,1997,80000,Central,Michigan,Dearborn Heights,Petrol,Individual,Manual,Third_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,N
+1308,Ford,2012,90000,Central,Texas,Lancaster,Petrol,Individual,Manual,Second_Owner,15.3,1596,99.6,146Nm@ 3400rpm,5,Y
+1309,Maruti,2009,90000,Central,Oklahoma,Midwest City,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1310,Maruti,2014,110000,East,Delaware,Dover,Diesel,Individual,Manual,First_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,N
+1311,Maruti,2018,100000,West,California,Los Angeles,Petrol,Individual,Manual,Second_Owner,19.0,1197,85.8,114Nm@ 4000rpm,5,Y
+1312,Maruti,2006,50000,West,Idaho,Moscow,Petrol,Individual,Manual,Third_Owner,14.0,1061,64.0,"8.6@ 3,500(kgm@ rpm)",5,N
+1313,Mercedes,2011,110000,West,California,Stockton,Diesel,Individual,Automatic,Third_Owner,0.0,2987,165.0,510@ 1600-2400,5,N
+1314,Nissan,2011,96000,Central,Iowa,Muscatine,Petrol,Individual,Manual,First_Owner,16.95,1498,97.7,134Nm@ 4000rpm,5,N
+1315,Volkswagen,2013,84000,West,California,Oakland,Diesel,Individual,Automatic,Second_Owner,16.96,1968,138.03,320Nm@ 1750-2500rpm,5,N
+1316,Maruti,2002,120000,East,Ohio,Hudson,Petrol,Individual,Manual,First_Owner,16.1,796,37.0,59Nm@ 2500rpm,4,Y
+1317,Tata,2013,100000,Central,Iowa,Marshalltown,Diesel,Individual,Manual,First_Owner,23.57,1396,70.0,140Nm@ 1800-3000rpm,5,N
+1318,Maruti,2016,25000,East,Pennsylvania,Hazleton,Petrol,Individual,Manual,Second_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,N
+1319,Maruti,2019,25000,East,New York,New York City,Petrol,Individual,Manual,First_Owner,21.21,1197,81.8,113Nm@ 4200rpm,5,Y
+1320,Maruti,2008,58632,West,California,Twentynine Palms,Petrol,Dealer,Manual,Second_Owner,14.0,796,35.0,6.1kgm@ 3000rpm,5,N
+1321,Hyundai,2019,5000,South,Georgia,Dalton,Petrol,Individual,Manual,First_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,N
+1322,Hyundai,2013,100000,West,California,Redding,Petrol,Individual,Automatic,Second_Owner,15.74,1591,121.3,154.9Nm@ 4200rpm,5,N
+1323,Maruti,2013,90000,Central,Indiana,West Lafayette,Diesel,Individual,Manual,Second_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+1324,Mahindra,2011,80000,South,Florida,Oviedo,Diesel,Individual,Manual,Second_Owner,13.5,2179,115.0,277.5Nm@ 1700-2200rpm,5,N
+1325,Chevrolet,2008,120000,East,Ohio,Sandusky,Diesel,Individual,Manual,Second_Owner,16.52,1991,123.7,305Nm@ 2000rpm,5,N
+1326,Mahindra,2004,150000,East,Ohio,Elyria,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+1327,Mitsubishi,2008,120000,East,Ohio,Whitehall,Diesel,Individual,Manual,Third_Owner,14.8,1998,68.0,"12.5@ 3,000(kgm@ rpm)",5,N
+1328,Maruti,2016,60000,West,California,Los Angeles,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,Y
+1329,Honda,2017,60000,West,Colorado,Thornton,Diesel,Individual,Manual,Second_Owner,25.8,1498,98.6,200Nm@ 1750rpm,5,N
+1330,Jeep,2017,17000,West,California,Los Angeles,Petrol,Individual,Automatic,First_Owner,9.5,3604,280.0,347Nm@ 4300rpm,5,Y
+1331,Tata,2013,80000,West,California,Santa Monica,Diesel,Individual,Manual,Second_Owner,13.7,2197,138.1,320Nm@ 1700-2700rpm,7,N
+1332,Chevrolet,2015,120000,East,New York,Schenectady,Diesel,Individual,Manual,First_Owner,13.58,2499,72.4,171Nm@ 1800rpm,10,N
+1333,Maruti,2018,30000,East,Ohio,Lima,Petrol,Individual,Manual,First_Owner,20.51,998,67.04,90Nm@ 3500rpm,5,N
+1334,Honda,2010,25000,South,Alabama,Opelika,Petrol,Individual,Automatic,First_Owner,16.8,1497,118.0,146Nm at 4800 rpm,5,N
+1335,Maruti,2011,50000,Central,Michigan,Sault Sainte Marie,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1336,Honda,2015,58161,South,Florida,Belle Glade,Petrol,Dealer,Manual,First_Owner,17.8,1497,117.3,145Nm@ 4600rpm,5,N
+1337,Maruti,2013,40000,West,California,Rocklin,Petrol,Individual,Manual,First_Owner,18.6,1197,85.8,114Nm@ 4000rpm,5,N
+1338,Maruti,2010,80000,Central,Illinois,Chicago,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,Y
+1339,Mahindra,2010,120000,West,Utah,Pleasant Grove,Petrol,Individual,Manual,First_Owner,15.7,1390,75.0,"110@ 3,000(kgm@ rpm)",5,N
+1340,BMW,2018,30000,South,Arkansas,Conway,Diesel,Individual,Automatic,First_Owner,17.09,2993,261.4,620Nm@ 2000-2500rpm,4,N
+1341,Honda,2018,20000,Central,Kansas,Overland Park,Petrol,Individual,Manual,First_Owner,18.2,1199,88.7,110Nm@ 4800rpm,5,N
+1342,Hyundai,2017,90000,West,Washington,Marysville,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,Y
+1343,Hyundai,2012,120000,West,Washington,Bremerton,Petrol,Individual,Manual,Second_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1344,Hyundai,2019,2286,West,Utah,American Fork,Petrol,Trustmark_Dealer,Automatic,First_Owner,18.15,998,118.35,171.6Nm@ 1500-4000rpm,5,N
+1345,Hyundai,2019,18500,West,Oregon,Klamath Falls,Petrol,Individual,Manual,First_Owner,20.3,1086,68.0,99Nm@ 4500rpm,5,N
+1346,Mahindra,2013,70000,South,Florida,Immokalee,Petrol,Individual,Manual,First_Owner,13.87,1598,86.0,128Nm@ 3100rpm,5,N
+1347,Honda,2019,7032,West,California,Los Angeles,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,Y
+1348,Maruti,2016,58000,Central,Texas,Harlingen,Petrol,Individual,Manual,Second_Owner,15.37,1196,73.0,101Nm@ 3000rpm,7,N
+1349,Maruti,2013,70000,East,Ohio,Fairborn,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+1350,Volkswagen,2012,80000,West,Colorado,Pueblo,Petrol,Individual,Manual,Second_Owner,16.47,1198,73.9,110Nm@ 3750rpm,5,N
+1351,Hyundai,2013,120000,Central,Illinois,Chicago,Diesel,Individual,Manual,First_Owner,22.7,1582,126.24,259.87Nm@ 1900-2750rpm,5,Y
+1352,Hyundai,2015,25000,East,Rhode Island,Westerly,Petrol,Individual,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+1353,Maruti,2010,170000,South,Mississippi,Biloxi,LPG,Individual,Manual,Second_Owner,10.9,796,32.8,57Nm@ 2500rpm,5,N
+1354,Hyundai,2013,70000,East,New Jersey,Rahway,LPG,Individual,Manual,Second_Owner,19.2,1086,68.05,99.04Nm@ 4500rpm,5,N
+1355,Maruti,2017,16200,West,Washington,Seattle,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,Y
+1356,Maruti,2012,80000,South,Florida,Miami,Petrol,Individual,Manual,Second_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,Y
+1357,Tata,2013,120000,West,Washington,Seattle,Diesel,Individual,Manual,First_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,Y
+1358,Hyundai,2019,18000,West,Washington,Bremerton,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,114.73nm@ 4000rpm,5,N
+1359,Maruti,2011,18500,East,Maryland,Cumberland,Petrol,Individual,Manual,First_Owner,18.5,1197,85.8,114Nm@ 4000rpm,5,Y
+1360,Hyundai,2012,109322,West,California,Calexico,Petrol,Individual,Manual,Second_Owner,16.36,1495,93.7,124.6Nm@ 3500rpm,5,N
+1361,Mahindra,2014,110000,East,Ohio,Lakewood,Diesel,Individual,Manual,First_Owner,14.0,2523,75.0,200Nm@ 1400-2200rpm,8,N
+1362,Maruti,2018,36500,East,New Jersey,Ridgewood,Diesel,Dealer,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+1363,Skoda,2012,140000,South,South Carolina,Aiken,Diesel,Individual,Manual,First_Owner,20.5,1598,103.5,250Nm@ 1500-2500rpm,5,N
+1364,Mahindra,2012,117000,East,New York,Yonkers,Diesel,Individual,Manual,First_Owner,14.0,2498,112.0,260 Nm at 1800-2200 rpm,8,Y
+1365,BMW,2019,7500,Central,Indiana,Fort Wayne,Diesel,Dealer,Automatic,First_Owner,16.78,1995,190.0,400Nm@ 1750-2500rpm,5,N
+1366,Maruti,2005,110000,Central,Oklahoma,Shawnee,Petrol,Individual,Manual,First_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,N
+1367,Hyundai,2012,70000,East,Pennsylvania,Hermitage,Diesel,Individual,Manual,First_Owner,22.32,1582,126.32,259.8Nm@ 1900-2750rpm,5,N
+1368,Mahindra,2009,155000,Central,Missouri,Oakville,Diesel,Individual,Automatic,Second_Owner,11.79,2179,120.0,290Nm@ 1800-2800rpm,8,N
+1369,Toyota,2011,110000,West,Arizona,Gilbert,Petrol,Individual,Manual,First_Owner,17.6,1496,88.73,132Nm@ 3000rpm,5,N
+1370,Chevrolet,2012,70000,East,Maryland,Dundalk,LPG,Individual,Manual,First_Owner,13.2,995,60.2,90.3Nm@ 4200rpm,5,N
+1371,Mahindra,2016,110000,East,Massachusetts,Hanover,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,N
+1372,Hyundai,2010,123278,Central,Texas,Austin,Petrol,Individual,Manual,Second_Owner,20.36,1197,78.9,111.7Nm@ 4000rpm,5,N
+1373,Mahindra,2009,170000,South,Florida,Casselberry,Diesel,Individual,Manual,Third_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+1374,Maruti,2005,90000,West,Washington,Seattle,Petrol,Individual,Manual,Second_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,Y
+1375,Skoda,2012,116000,Central,Texas,Corsicana,Petrol,Individual,Manual,First_Owner,15.0,1598,103.5,153Nm@ 3800rpm,5,N
+1376,Renault,2016,60000,East,Maryland,Waldorf,Petrol,Individual,Manual,First_Owner,23.01,999,67.0,91Nm@ 4250rpm,5,N
+1377,Toyota,2009,71000,East,New York,New York City,Petrol,Dealer,Automatic,First_Owner,12.1,2362,164.7,224Nm@ 4000rpm,5,Y
+1378,Maruti,2013,67000,West,Montana,Helena,Petrol,Individual,Manual,First_Owner,18.6,1197,85.8,114Nm@ 4000rpm,5,N
+1379,Mahindra,2010,120000,South,Louisiana,Monroe,Diesel,Individual,Manual,Second_Owner,13.6,2523,63.0,180 Nm at 1440-1500rpm,7,N
+1380,Toyota,2016,42163,South,Virginia,Norfolk,Diesel,Dealer,Automatic,Second_Owner,11.36,2755,171.5,360Nm@ 1200-3400rpm,7,N
+1381,Ford,2017,113000,Central,Texas,Mesquite,Diesel,Individual,Manual,First_Owner,25.83,1498,99.0,215Nm@ 1750-3000rpm,5,N
+1382,Honda,2014,56000,West,California,El Dorado Hills,Petrol,Individual,Manual,Second_Owner,17.4,1497,117.3,145Nm@ 4600rpm,5,N
+1383,Maruti,2016,20000,South,North Carolina,Fayetteville,Petrol,Individual,Manual,First_Owner,23.95,998,67.05,90Nm@ 3500rpm,5,N
+1384,Jaguar,2017,45000,East,Maryland,Dundalk,Diesel,Dealer,Automatic,First_Owner,19.33,1999,177.0,430Nm@ 1750-2500rpm,5,Y
+1385,Maruti,2014,90000,West,Idaho,Moscow,Diesel,Individual,Manual,Second_Owner,26.21,1248,88.5,200Nm@ 1750rpm,5,N
+1386,Maruti,2018,15000,Central,Illinois,Oswego,Diesel,Individual,Manual,First_Owner,25.1,1248,88.5,200Nm@ 1750rpm,5,N
+1387,Maruti,2018,7800,Central,Illinois,Chicago,Petrol,Individual,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,Y
+1388,Ford,2012,60000,West,Washington,Spanaway,Diesel,Individual,Manual,First_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+1389,Honda,2006,110000,East,District of Columbia,Washington,Petrol,Individual,Manual,Second_Owner,17.7,1497,78.0,"12.7@ 2,700(kgm@ rpm)",5,Y
+1390,Chevrolet,2008,90000,Central,Texas,San Marcos,Diesel,Individual,Manual,Fourth_Above_Owner,16.52,1991,123.7,305Nm@ 2000rpm,5,Y
+1391,Mahindra,2012,121779,Central,Michigan,Flint,Diesel,Individual,Manual,First_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,8,N
+1392,Hyundai,2015,48000,Central,Iowa,Fort Dodge,Diesel,Individual,Manual,Second_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,Y
+1393,Toyota,2015,190000,West,California,Torrance,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1400-3400rpm,7,N
+1394,Renault,2014,80000,Central,Wisconsin,Greenfield,Diesel,Individual,Manual,First_Owner,19.01,1461,108.45,248Nm@ 2250rpm,5,N
+1395,Tata,2007,38000,West,California,El Dorado Hills,Petrol,Individual,Manual,Second_Owner,15.3,1193,65.3,102Nm@ 2600rpm,5,N
+1396,Toyota,2013,73000,East,Maryland,Odenton,Diesel,Individual,Manual,First_Owner,12.99,2494,100.0,200Nm@ 1400-3400rpm,8,N
+1397,Maruti,2012,60000,South,Arkansas,Bentonville,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1398,Hyundai,2009,53000,West,California,Los Angeles,Petrol,Individual,Manual,Second_Owner,20.36,1197,78.9,111.8Nm@ 4000rpm,5,Y
+1399,Hyundai,2008,120000,Central,Michigan,Rochester Hills,Diesel,Individual,Manual,Second_Owner,18.1,1493,110.0,"24@ 1,900-2,750(kgm@ rpm)",5,N
+1400,Renault,2018,20000,Central,Indiana,Vincennes,Petrol,Individual,Manual,First_Owner,23.01,999,67.0,91Nm@ 4250rpm,5,N
+1401,Mahindra,2011,50000,Central,Oklahoma,Moore,Diesel,Individual,Manual,Third_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,8,Y
+1402,Skoda,2016,28182,West,Arizona,Chandler,Petrol,Trustmark_Dealer,Automatic,First_Owner,14.3,1598,103.52,153Nm@ 3800rpm,5,Y
+1403,Toyota,2016,68089,West,California,Pacifica,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,N
+1404,Hyundai,2015,55380,South,North Carolina,Cary,Petrol,Dealer,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+1405,Toyota,2014,110000,South,Florida,Coral Springs,Diesel,Individual,Manual,Second_Owner,12.99,2494,100.6,200Nm@ 1400-3400rpm,7,N
+1406,Maruti,2008,195000,South,Kentucky,Paducah,Petrol,Individual,Manual,Second_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1407,Volkswagen,2017,52000,Central,Illinois,Wilmette,Diesel,Individual,Manual,First_Owner,21.66,1498,108.62,250Nm@ 1500-3000rpm,5,Y
+1408,Maruti,2017,70000,West,Colorado,Durango,Diesel,Individual,Manual,First_Owner,27.39,1248,74.0,190Nm@ 2000rpm,5,N
+1409,Toyota,2016,68089,South,North Carolina,Greensboro,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,Y
+1410,Tata,2018,85000,Central,Indiana,Elkhart,Diesel,Individual,Manual,Second_Owner,21.5,1497,108.5,260Nm@ 1500-2750rpm,5,N
+1411,Toyota,2010,129000,South,North Carolina,Mooresville,Diesel,Individual,Manual,First_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,N
+1412,Maruti,2012,90000,Central,Missouri,Wentzville,Diesel,Individual,Manual,Second_Owner,23.2,1248,73.94,190Nm@ 2000rpm,5,N
+1413,Renault,2014,68000,East,New York,New York City,Diesel,Individual,Manual,Second_Owner,19.01,1461,108.45,248Nm@ 2250rpm,5,Y
+1414,Hyundai,2013,50000,East,New York,New York City,Petrol,Individual,Automatic,First_Owner,16.95,1197,78.9,111.8Nm@ 4000rpm,5,Y
+1415,Datsun,2016,35000,Central,Michigan,Southgate,Petrol,Individual,Manual,First_Owner,22.7,799,53.64,72Nm@ 4386rpm,5,N
+1416,Honda,2009,35000,South,Virginia,Mechanicsville,Petrol,Individual,Manual,First_Owner,17.0,1497,118.0,146Nm at 4800 rpm,5,N
+1417,Renault,2016,60000,South,Florida,New Smyrna Beach,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+1418,Honda,2005,80000,Central,Texas,The Colony,Petrol,Individual,Automatic,Second_Owner,9.0,2997,218.0,196Nm@ 5000rpm,5,N
+1419,Mahindra,2014,48300,West,California,Vallejo,Diesel,Individual,Manual,Second_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+1420,Honda,2008,110000,South,Virginia,Tysons Corner,Petrol,Individual,Manual,Second_Owner,17.7,1497,78.0,"12.7@ 2,700(kgm@ rpm)",5,N
+1421,Ashok,2013,200000,South,North Carolina,Jacksonville,Diesel,Individual,Manual,Second_Owner,20.07,1461,75.0,185Nm@ 1750-2750rpm,8,N
+1422,Maruti,2008,175802,Central,Texas,Flower Mound,Diesel,Individual,Manual,Third_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1423,Honda,2011,50000,West,Oregon,Klamath Falls,Petrol,Individual,Manual,First_Owner,17.0,1497,118.0,146Nm at 4800 rpm,5,N
+1424,Hyundai,2012,40000,East,Pennsylvania,Altoona,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,Y
+1425,Maruti,2014,90000,Central,Texas,Mcallen,Diesel,Individual,Manual,First_Owner,20.77,1248,88.8,200Nm@ 1750rpm,7,N
+1426,Hyundai,2017,39000,East,Massachusetts,Boston,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,Y
+1427,Hyundai,2013,65000,South,Georgia,Rome,Petrol,Individual,Manual,First_Owner,17.92,1086,62.1,96.1Nm@ 3000rpm,5,N
+1428,Mahindra,2015,70000,East,Massachusetts,Revere,Diesel,Individual,Automatic,First_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,N
+1429,Hyundai,2014,35000,Central,Iowa,Mason City,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1430,Mitsubishi,2013,181491,Central,Illinois,Chicago,Diesel,Dealer,Manual,First_Owner,13.5,2477,175.56,400Nm@ 2000-2500rpm,7,Y
+1431,Maruti,2013,60000,West,California,Temecula,Petrol,Individual,Manual,Fourth_Above_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+1432,Maruti,2017,20000,South,Kentucky,Paducah,Petrol,Individual,Manual,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N
+1433,Maruti,2016,120000,Central,Michigan,Lincoln Park,Diesel,Individual,Manual,First_Owner,24.52,1248,88.5,200Nm@ 1750rpm,7,N
+1434,Maruti,2017,54000,South,Florida,Margate,Petrol,Individual,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+1435,Mahindra,2019,5000,East,Pennsylvania,Hanover,Diesel,Individual,Manual,First_Owner,17.3,1497,121.0,300Nm@ 1750-2500rpm,7,Y
+1436,Maruti,2011,1,Central,Indiana,Indianapolis,CNG,Individual,Manual,Fourth_Above_Owner,15.1,1196,73.0,101Nm@ 3000rpm,5,N
+1437,Ford,2015,52000,West,Oregon,Klamath Falls,Diesel,Individual,Manual,First_Owner,25.83,1498,99.0,215Nm@ 1750-3000rpm,5,N
+1438,Maruti,2017,100000,East,Ohio,Youngstown,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+1439,Hyundai,2016,50000,East,Ohio,Strongsville,Petrol,Individual,Manual,First_Owner,19.81,1086,68.05,99.04Nm@ 4500rpm,5,N
+1440,Maruti,2018,46000,East,Ohio,North Royalton,Diesel,Individual,Manual,First_Owner,28.4,1248,74.0,190Nm@ 2000rpm,5,N
+1441,Hyundai,2018,35000,East,Rhode Island,Coventry,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+1442,Mahindra,2009,120000,East,New York,Lindenhurst,Diesel,Individual,Manual,First_Owner,12.05,2179,120.0,290Nm@ 1800-2800rpm,7,N
+1443,Maruti,2018,30000,East,District of Columbia,Washington,Petrol,Individual,Automatic,First_Owner,20.51,998,67.0,90Nm@ 3500rpm,5,Y
+1444,Honda,2016,110000,Central,Illinois,Springfield,Diesel,Individual,Manual,First_Owner,26.0,1498,98.6,200Nm@ 1750rpm,5,N
+1445,Ford,2008,163000,West,Nevada,Sparks,Diesel,Individual,Manual,First_Owner,17.8,1399,68.0,"16.3@ 2,000(kgm@ rpm)",5,N
+1446,Renault,2016,22000,East,Ohio,Upper Arlington,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+1447,Nissan,2015,61000,West,Colorado,Fountain,Diesel,Dealer,Manual,Second_Owner,22.71,1461,84.8,200Nm@ 2000rpm,5,N
+1448,Hyundai,2014,80000,Central,Missouri,Springfield,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1449,Maruti,2014,60000,East,New York,Levittown,Petrol,Individual,Manual,First_Owner,19.1,1197,85.8,114Nm@ 4000rpm,5,N
+1450,Maruti,2015,31000,Central,Missouri,Maryland Heights,Diesel,Individual,Manual,Second_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+1451,Maruti,2013,80000,East,Pennsylvania,Scranton,CNG,Individual,Manual,Second_Owner,32.52,998,58.33,78Nm@ 3500rpm,5,N
+1452,Hyundai,2016,10000,East,New Hampshire,Goffstown,Petrol,Individual,Manual,First_Owner,18.9,1197,82.0,114Nm@ 4000rpm,5,N
+1453,Hyundai,2013,90000,South,Mississippi,Vicksburg,Petrol,Individual,Manual,Second_Owner,16.3,1797,147.5,177.5Nm@ 4700rpm,5,N
+1454,Hyundai,2013,37000,South,Tennessee,Clarksville,Petrol,Dealer,Manual,First_Owner,20.36,1197,78.9,111.8Nm@ 4000rpm,5,N
+1455,Hyundai,2014,35000,East,Maine,West Scarborough,Petrol,Individual,Manual,First_Owner,21.1,814,55.2,74.5Nm@ 4000rpm,5,N
+1456,Hyundai,2016,60000,East,Maine,Biddeford,Diesel,Individual,Manual,First_Owner,23.9,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+1457,Chevrolet,2011,49563,Central,Illinois,Mount Prospect,Petrol,Dealer,Manual,First_Owner,16.2,995,62.1,90.3Nm@ 4200rpm,5,N
+1458,Maruti,2003,114000,Central,Texas,Baytown,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1459,Honda,2019,40000,West,California,Los Angeles,Diesel,Individual,Automatic,First_Owner,23.8,1498,78.9,160Nm@ 1750rpm,5,Y
+1460,Maruti,2013,185000,East,New Jersey,Maple Shade,Diesel,Individual,Manual,First_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+1461,Mercedes,2013,59000,East,Massachusetts,Boston,Diesel,Dealer,Automatic,First_Owner,14.84,2143,170.0,400Nm@ 1400-2800rpm,5,Y
+1462,Maruti,2007,70000,West,Arizona,Surprise,Petrol,Individual,Manual,First_Owner,18.2,998,67.1,90Nm@ 3500rpm,5,N
+1463,Maruti,2016,35000,West,Utah,Magna,Petrol,Individual,Manual,Second_Owner,20.85,1197,83.14,115Nm@ 4000rpm,5,N
+1464,Renault,2019,25000,South,North Carolina,Wilson,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+1465,Mahindra,2016,50000,South,North Carolina,Charlotte,Diesel,Individual,Automatic,First_Owner,16.0,2179,140.0,330Nm@ 1600-2800rpm,7,Y
+1466,Ford,2012,70000,East,Maine,Westbrook,Diesel,Individual,Manual,Fourth_Above_Owner,20.0,1399,68.0,160Nm@ 2000rpm,5,N
+1467,Volkswagen,2020,5000,West,California,Santa Clara,Petrol,Individual,Manual,First_Owner,18.24,999,108.6,175nm@ 1750-4000rpm,5,N
+1468,Hyundai,2011,60000,West,California,Hacienda Heights,Petrol,Individual,Automatic,Third_Owner,16.95,1197,78.9,111.8Nm@ 4000rpm,5,N
+1469,Chevrolet,2016,70000,West,Washington,Seattle,Diesel,Individual,Manual,First_Owner,18.2,1248,73.74,172.5Nm@ 1750rpm,7,Y
+1470,Hyundai,2012,45000,East,New Jersey,Cherry Hill,Petrol,Individual,Manual,First_Owner,20.36,1197,78.9,111.8Nm@ 4000rpm,5,N
+1471,Tata,2008,25000,Central,Texas,Beaumont,Petrol,Individual,Manual,Second_Owner,16.84,1193,64.4,99.8Nm@ 2700rpm,5,N
+1472,Maruti,2013,60000,Central,Iowa,Burlington,Petrol,Individual,Manual,Second_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+1473,Maruti,2013,102996,Central,South Dakota,Rapid City,Diesel,Individual,Manual,Second_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+1474,Maruti,2016,76000,South,Florida,Fort Lauderdale,Diesel,Individual,Manual,First_Owner,26.59,1248,74.0,190Nm@ 2000rpm,5,N
+1475,Tata,2009,90000,Central,Illinois,Romeoville,Diesel,Individual,Manual,Second_Owner,13.93,2179,138.1,320Nm@ 1700-2700rpm,7,Y
+1476,Ford,2013,62000,Central,Michigan,Port Huron,Diesel,Dealer,Manual,First_Owner,13.1,2499,141.0,330Nm@ 1800rpm,7,N
+1477,Skoda,2003,250000,Central,Texas,Arlington,Diesel,Individual,Manual,Second_Owner,18.7,1896,66.0,210 / 1900,5,N
+1478,Maruti,2018,50000,Central,Iowa,Clinton,Petrol,Individual,Manual,First_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,N
+1479,Volkswagen,2013,120000,East,Ohio,Wooster,Diesel,Individual,Manual,Second_Owner,20.54,1598,103.6,250Nm@ 1500-2500rpm,5,N
+1480,Mahindra,2015,80000,East,New York,Port Chester,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+1481,Maruti,2008,19000,Central,Missouri,Kansas City,Petrol,Individual,Manual,First_Owner,19.7,796,46.3,62Nm@ 3000rpm,5,N
+1482,Maruti,2015,80000,Central,Texas,Waxahachie,Petrol,Individual,Manual,Second_Owner,18.5,1197,85.8,114Nm@ 4000rpm,5,N
+1483,Ford,2018,44772,South,Tennessee,Lebanon,Diesel,Dealer,Manual,Second_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,N
+1484,Ford,2018,90000,East,Pennsylvania,Chester,Diesel,Individual,Manual,First_Owner,23.0,1498,98.96,205Nm@ 1750-3250rpm,5,N
+1485,Hyundai,2008,85000,West,California,Los Angeles,Diesel,Individual,Manual,Second_Owner,16.8,1493,110.0,"24@ 1,900-2,750(kgm@ rpm)",5,Y
+1486,Maruti,2018,30000,West,Utah,Spanish Fork,Petrol,Individual,Manual,First_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N
+1487,Toyota,2008,126000,West,California,Los Angeles,Diesel,Individual,Manual,Third_Owner,12.8,2494,102.0,20.4@ 1400-3400(kgm@ rpm),8,Y
+1488,Tata,2018,33000,West,Utah,Murray,Diesel,Individual,Manual,First_Owner,27.28,1047,69.0,140Nm@ 1800-3000rpm,5,N
+1489,Hyundai,2014,80000,South,South Carolina,Summerville,Diesel,Individual,Manual,Second_Owner,24.0,1120,70.0,160Nm@ 1500-2750rpm,5,N
+1490,Hyundai,2020,5000,East,New York,North Babylon,Petrol,Individual,Automatic,First_Owner,20.7,1197,81.86,113.75Nm@ 4000rpm,5,Y
+1491,Tata,2012,118000,West,California,Twentynine Palms,Diesel,Individual,Manual,Second_Owner,13.93,2179,138.03,320Nm@ 1700-2700rpm,7,N
+1492,Tata,2012,45000,South,Arkansas,Rogers,Petrol,Individual,Manual,First_Owner,25.4,624,38.0,51Nm@ 4000+/-500rpm,4,N
+1493,Hyundai,2010,80000,Central,Illinois,Champaign,Diesel,Individual,Manual,Second_Owner,23.0,1396,90.0,22.4 kgm at 1750-2750rpm,5,N
+1494,Maruti,2016,100000,West,California,Los Angeles,Petrol,Individual,Manual,Third_Owner,15.37,1196,73.0,101Nm@ 3000rpm,7,Y
+1495,Maruti,2019,5621,Central,Texas,Lufkin,Petrol,Trustmark_Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+1496,Maruti,2005,80000,South,Florida,Tallahassee,Petrol,Individual,Manual,Second_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,N
+1497,Datsun,2018,40000,East,New York,Centereach,Petrol,Individual,Manual,First_Owner,20.62,1198,67.0,104Nm@ 4000rpm,7,N
+1498,Maruti,2015,26000,East,Maryland,Columbia,Petrol,Individual,Manual,First_Owner,20.73,1373,91.1,130Nm@ 4000rpm,5,Y
+1499,Maruti,2012,70000,East,Maryland,Laurel,Diesel,Individual,Manual,Second_Owner,22.9,1248,74.0,190Nm@ 2000rpm,5,N
+1500,Hyundai,2017,20000,Central,North Dakota,Minot,Petrol,Individual,Manual,First_Owner,18.6,1197,81.83,114.7Nm@ 4000rpm,5,N
+1501,Maruti,2015,70000,South,South Carolina,Summerville,Diesel,Individual,Manual,First_Owner,20.77,1248,88.76,200Nm@ 1750rpm,7,N
+1502,Tata,2012,80000,South,Kentucky,Fort Thomas,Diesel,Individual,Manual,First_Owner,16.1,1405,70.0,"13.5@ 2,500(kgm@ rpm)",5,N
+1503,Maruti,2017,30000,Central,Minnesota,Rochester,Petrol,Individual,Automatic,Second_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,N
+1504,Ford,2013,120000,South,Louisiana,Shreveport,Diesel,Individual,Manual,Second_Owner,20.0,1399,68.1,160Nm@ 2000rpm,5,N
+1505,Maruti,2014,70000,Central,Michigan,Owosso,Diesel,Individual,Manual,Second_Owner,23.4,1248,74.0,190Nm@ 2000rpm,5,N
+1506,Hyundai,2011,100000,South,Mississippi,Gulfport,Diesel,Individual,Manual,Second_Owner,23.0,1396,90.0,22.4 kgm at 1750-2750rpm,5,N
+1507,Maruti,2017,50000,East,New York,White Plains,Diesel,Individual,Manual,Second_Owner,28.4,1248,74.02,190Nm@ 2000rpm,5,Y
+1508,Maruti,2017,23000,South,Florida,Gainesville,Petrol,Individual,Manual,First_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+1509,Ford,2016,44000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,18.16,1196,86.8,112Nm@ 4000rpm,5,Y
+1510,Maruti,2007,160000,West,California,El Centro,Petrol,Individual,Manual,Fourth_Above_Owner,18.2,998,67.1,90Nm@ 3500rpm,5,N
+1511,Hyundai,2011,60000,South,South Carolina,Mauldin,Petrol,Individual,Manual,Fourth_Above_Owner,17.92,1086,62.1,96.1Nm@ 3000rpm,5,N
+1512,Honda,2010,100000,South,Mississippi,Vicksburg,Petrol,Individual,Manual,Third_Owner,17.0,1497,118.0,146Nm at 4800 rpm,5,N
+1513,Hyundai,2019,35000,Central,Indiana,Portage,Petrol,Individual,Manual,First_Owner,18.6,1197,81.86,117nm@ 4000rpm,5,N
+1514,Honda,2015,63000,South,Georgia,Atlanta,Diesel,Dealer,Manual,First_Owner,27.3,1498,98.6,200Nm@ 1750rpm,5,Y
+1515,Ford,2017,15000,South,Virginia,Oakton,Petrol,Individual,Manual,First_Owner,18.16,1196,86.8,112Nm@ 4000rpm,5,N
+1516,Maruti,2008,120000,South,South Carolina,Rock Hill,Diesel,Individual,Manual,First_Owner,17.8,1248,75.0,190Nm@ 2000rpm,5,N
+1517,Hyundai,2015,50000,East,New York,New York City,Diesel,Individual,Manual,Second_Owner,21.19,1396,88.73,219.66nm@ 1500-2750rpm,5,Y
+1518,Tata,2008,179150,South,Florida,Fort Pierce,Diesel,Individual,Manual,Second_Owner,11.57,2179,138.1,320Nm@ 1700-2700rpm,7,N
+1519,Ford,2018,33360,East,New York,Franklin Square,Diesel,Dealer,Manual,First_Owner,22.77,1498,98.59,205Nm@ 1750-3250rpm,5,N
+1520,Ford,2011,110000,Central,Illinois,Chicago,Diesel,Individual,Manual,Third_Owner,17.8,1399,68.0,"16.3@ 2,000(kgm@ rpm)",5,Y
+1521,Maruti,2010,143000,South,Georgia,Atlanta,Petrol,Individual,Manual,First_Owner,17.5,1298,85.8,114Nm@ 4000rpm,5,Y
+1522,Volkswagen,2010,120000,South,Louisiana,Shreveport,Diesel,Individual,Manual,Third_Owner,20.54,1598,103.6,250Nm@ 1500-2500rpm,5,N
+1523,Mahindra,2013,178000,West,California,Riverside,Diesel,Individual,Manual,First_Owner,15.96,2523,63.0,180Nm@ 1440-1500rpm,9,N
+1524,BMW,2010,90000,South,Florida,Riverview,Diesel,Individual,Automatic,Second_Owner,14.49,2993,258.0,560Nm@ 1500rpm,5,N
+1525,Nissan,2011,60000,West,California,East Los Angeles,Petrol,Individual,Manual,Second_Owner,18.06,1198,75.0,104Nm@ 4000rpm,5,Y
+1526,Hyundai,2015,40000,West,California,Oceanside,Petrol,Individual,Manual,First_Owner,17.01,1591,121.3,154.9Nm@ 4200rpm,5,N
+1527,Maruti,2015,50000,East,Ohio,Westlake,Petrol,Individual,Manual,Second_Owner,20.4,1197,83.11,115Nm@ 4000rpm,5,N
+1528,Maruti,2019,5621,East,Maryland,Randallstown,Petrol,Trustmark_Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+1529,Maruti,2019,120000,East,Massachusetts,Boston,CNG,Individual,Manual,Second_Owner,21.94,1196,61.7,85Nm@ 3000rpm,5,N
+1530,Mahindra,2017,60000,Central,Texas,Houston,Diesel,Individual,Manual,Second_Owner,16.5,1493,70.0,195Nm@ 1400-2200rpm,7,N
+1531,Skoda,2016,11000,South,North Carolina,Gastonia,Petrol,Dealer,Automatic,First_Owner,14.3,1598,103.5,153Nm@ 3800rpm,5,Y
+1532,Maruti,2015,25000,West,Washington,Seattle,Petrol,Individual,Manual,First_Owner,23.1,998,67.04,90Nm@ 3500rpm,5,Y
+1533,Hyundai,2014,90000,Central,Wisconsin,Watertown,Diesel,Individual,Manual,Second_Owner,24.4,1120,71.01,180.4Nm@ 1750-2500rpm,5,Y
+1534,Fiat,2015,67000,East,New Hampshire,Portsmouth,Diesel,Individual,Manual,First_Owner,20.4,1248,91.7,209Nm@ 2000rpm,5,N
+1535,Hyundai,2017,37800,East,New York,New York City,Petrol,Individual,Manual,First_Owner,17.0,1591,121.3,151Nm@ 4850rpm,5,Y
+1536,Toyota,2017,25538,West,Montana,Kalispell,Petrol,Trustmark_Dealer,Manual,First_Owner,16.78,1496,88.73,132Nm@ 3000rpm,5,Y
+1537,Honda,2019,7032,Central,Texas,Cloverleaf,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,N
+1538,Jeep,2018,80000,South,North Carolina,Burlington,Diesel,Individual,Manual,First_Owner,17.1,1956,170.0,350Nm@ 1750-2500rpm,5,N
+1539,Hyundai,2018,50000,South,North Carolina,Raleigh,Diesel,Individual,Manual,First_Owner,22.54,1396,88.73,219.7Nm@ 1500-2750rpm,5,N
+1540,Maruti,2011,110000,Central,Michigan,Detroit,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,Y
+1541,Maruti,2016,80000,South,North Carolina,Thomasville,Diesel,Individual,Manual,First_Owner,24.3,1248,88.5,200Nm@ 1750rpm,5,N
+1542,Toyota,2009,100000,East,New York,New York City,Petrol,Individual,Manual,Second_Owner,14.53,1798,138.1,173Nm@ 4000rpm,5,Y
+1543,Maruti,2019,5621,East,West Virginia,Charleston,Petrol,Trustmark_Dealer,Automatic,First_Owner,22.0,1197,81.8,113Nm@ 4200rpm,5,N
+1544,Fiat,2011,200000,West,Oregon,West Linn,Diesel,Individual,Manual,First_Owner,20.5,1248,91.7,209Nm@ 2000rpm,5,Y
+1545,Chevrolet,2013,70000,West,Nevada,Henderson,Diesel,Individual,Manual,First_Owner,25.44,936,57.6,150Nm@ 1750rpm,5,N
+1546,Volkswagen,2011,134000,East,Maryland,Potomac,Diesel,Individual,Manual,Second_Owner,22.07,1199,73.9,180Nm@ 2000rpm,5,N
+1547,Renault,2015,10000,West,California,South Lake Tahoe,Petrol,Individual,Manual,First_Owner,25.17,799,53.3,72Nm@ 4386rpm,5,N
+1548,Tata,2020,20000,East,Maine,Sanford,Petrol,Individual,Manual,First_Owner,17.0,1198,108.5,170Nm@ 1750-4000rpm,5,N
+1549,Mahindra,2015,165000,Central,Illinois,Chicago,Diesel,Individual,Manual,First_Owner,18.49,1493,100.0,240Nm@ 1600-2800rpm,7,Y
+1550,Maruti,2011,40000,Central,Kansas,Hays,Petrol,Individual,Manual,First_Owner,21.1,1197,85.8,114Nm@ 4000rpm,5,N
+1551,Maruti,2009,100000,South,Georgia,Peachtree City,Diesel,Individual,Manual,First_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1552,Honda,2017,58000,West,California,Paradise,Petrol,Dealer,Automatic,First_Owner,12.0,2354,187.4,226Nm@ 4400rpm,5,N
+1553,Hyundai,2018,20000,West,Washington,Seattle,Petrol,Individual,Manual,Second_Owner,18.9,1197,81.86,113.75nm@ 4000rpm,5,Y
+1554,Chevrolet,2014,60175,South,Mississippi,Olive Branch,Petrol,Individual,Manual,First_Owner,18.2,1199,82.5,108.5Nm@ 5000rpm,5,N
+1555,Maruti,2011,50000,East,New York,Utica,Petrol,Individual,Manual,Third_Owner,20.92,998,67.1,90Nm@ 3500rpm,5,Y
+1556,Maruti,2010,100000,West,California,Westminster,Diesel,Individual,Manual,Second_Owner,19.3,1248,73.9,190Nm@ 2000rpm,5,N
+1557,Honda,2006,80000,Central,Kansas,Leavenworth,Petrol,Individual,Manual,Second_Owner,17.7,1497,78.0,"12.7@ 2,700(kgm@ rpm)",5,Y
+1558,Maruti,2016,61173,West,California,San Gabriel,Diesel,Dealer,Manual,First_Owner,27.62,793,47.0,125Nm@ 2000rpm,5,N
+1559,Maruti,2016,20000,South,Florida,Lake Worth,Petrol,Individual,Manual,First_Owner,17.5,1373,91.1,130Nm@ 4000rpm,7,N
+1560,Maruti,2013,35000,East,Massachusetts,Boston,Petrol,Individual,Manual,First_Owner,22.74,796,47.3,69Nm@ 3500rpm,5,N
+1561,Maruti,2011,110000,West,California,Los Angeles,Petrol,Individual,Manual,First_Owner,18.9,998,67.1,90Nm@ 3500rpm,5,Y
+1562,Maruti,2018,15000,East,New York,Commack,Petrol,Individual,Manual,Second_Owner,24.7,796,47.3,69Nm@ 3500rpm,5,N
+1563,Maruti,2009,90000,Central,Texas,Victoria,Petrol,Individual,Automatic,Second_Owner,12.6,1586,103.3,145Nm@ 4100rpm,5,N
+1564,Volkswagen,2011,140000,South,Mississippi,Horn Lake,Petrol,Individual,Automatic,Second_Owner,14.4,1598,103.6,153Nm@ 3800rpm,5,N
+1565,Hyundai,2015,20000,West,Washington,Auburn,Petrol,Individual,Manual,First_Owner,17.01,1591,121.4,154.9Nm@ 4200rpm,5,N
+1566,Mahindra,2019,53534,West,New Mexico,Farmington,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+1567,Mahindra,2012,50000,West,Utah,Tooele,Diesel,Individual,Manual,First_Owner,12.2,2498,112.0,260Nm@ 1800-2200rpm,8,N
+1568,Honda,2016,55161,East,Pennsylvania,Bethel Park,Petrol,Dealer,Manual,First_Owner,17.8,1497,117.3,145Nm@ 4600rpm,5,N
+1569,Tata,2011,35000,West,Oregon,Grants Pass,Petrol,Individual,Manual,First_Owner,15.0,1368,90.0,116Nm@ 4750rpm,5,N
+1570,Hyundai,2015,50000,West,California,Rancho Cucamonga,Diesel,Individual,Manual,First_Owner,19.67,1582,126.2,259.9Nm@ 1900-2750rpm,5,N
+1571,Tata,2009,120000,South,South Carolina,Myrtle Beach,Diesel,Individual,Manual,Third_Owner,19.09,1396,69.0,135Nm@ 2500rpm,5,N
+1572,Honda,2019,7032,West,California,Los Angeles,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.0,1199,88.76,110Nm@ 4800rpm,5,Y
+1573,Tata,2014,120000,South,Virginia,Oakton,Diesel,Individual,Manual,Second_Owner,19.1,1405,70.0,135.4Nm@ 2500rpm,5,N
+1574,Toyota,2016,68089,Central,Texas,League City,Petrol,Trustmark_Dealer,Automatic,First_Owner,19.16,2494,157.7,213Nm@ 4500rpm,5,N
+1575,Maruti,2016,55000,West,Washington,Bothell,Petrol,Dealer,Manual,First_Owner,20.52,1197,81.8,113Nm@ 4200rpm,5,N
+1576,Mahindra,2012,120000,East,Pennsylvania,Philadelphia,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,Y
+1577,Hyundai,2018,55000,West,Arizona,Surprise,Petrol,Individual,Automatic,First_Owner,14.8,1591,121.3,151NM@ 4850rpm,5,N
+1578,Hyundai,2008,80000,Central,Minnesota,Plymouth,Petrol,Individual,Manual,Second_Owner,17.92,1086,62.1,96.1Nm@ 3000rpm,5,N
+1579,Maruti,2015,30000,West,California,Sunnyvale,Diesel,Individual,Manual,First_Owner,25.2,1248,74.0,190Nm@ 2000rpm,5,N
+1580,Mahindra,2012,120000,Central,Texas,Dallas,Diesel,Individual,Manual,First_Owner,15.96,2523,62.1,195Nm@ 1400-2200rpm,7,N
+1581,Maruti,2016,35000,West,California,Danville,Petrol,Individual,Manual,Second_Owner,21.4,1197,83.1,115Nm@ 4000rpm,5,N

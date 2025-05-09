@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/인공지능/고급인공지능과제3/titanic.csv">
           <value>
             <Attribute>
